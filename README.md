@@ -1,5 +1,5 @@
 <h1>Pakistan 2024 Election Prediction Project</h1>
-<p>The AI Students present the Pakistan 2024 Election Prediction Project, a comprehensive endeavor aimed at predicting election outcomes using advanced analytical techniques. This workshop is designed to provide participants with insights into the methodologies employed and the intricacies of predictive analysis.</p>
+<p>The AI Students present the Pakistan 2024 Election Prediction Project leading by me, a comprehensive endeavor aimed at predicting election outcomes using advanced analytical techniques. This workshop is designed to provide participants with insights into the methodologies employed and the intricacies of predictive analysis.</p>
 
 <h2>Overview</h2>
 <p>Our project initially utilized Long Short-Term Memory (LSTM) models to analyze sequential data pertinent to election trends. However, due to similarities in winning and losing probabilities, we transitioned to logistic regression, which proved to be more effective in handling the nuances of the data. Additionally, we leveraged social media data to extract semantic insights into public sentiment towards the election, enriching our predictive models.</p>
