@@ -1,0 +1,128 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,QTaYetmT64,Molvi Noor Muhammad,Muttahidda Majlis-e-Amal Pakistan,22111.0,0.299566454,1.0,Win
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,wfO1Ap7jPC,Mehmood Khan Achakzai,Paktunkhwa Milli Awami Party,17240.0,0.233572687,2.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,6oJUZRPvfk,Syed M. Fazal Agaha,Pakistan Muslim League (Qaid-e-Azam),9871.0,0.133735266,3.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,rrPeLuycKr,Saadat Ali Hazara,Balochistan National Democratic Party,8973.0,0.121568893,4.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,M6PL8lr8PK,Mian Saifullah Paracha,Pakistan Peoples Party Parliamentarians,6675.0,0.0904349,5.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,dgl85n0rdF,"M. Ayaz Khan Swati, Adv.",Pakistan Muslim League (Nawaz),3134.0,0.042460371,6.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,ygzte1mOkA,Taj M. Jamil,National Alliance,1238.0,0.016772795,7.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,NJwnHpymkA,Khudai Noor,Jamhoori Wattan Party,955.0,0.012938626,8.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,qqsbOrbRlO,"Nazar Muhammad, Adv.",Pakistan Tehreek-e-Insaf,916.0,0.012410243,9.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,6PwDd4uYv1,M. Yousaf Shahwani,Muttahida Qaumi Movement,711.0,0.009632841,10.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,EKWHrUnRxg,Syed Abdul Habib Shah,Pakistan Awami Tehreek,506.0,0.00685544,11.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,Hd0Es4KzhL,Abdul Majeed Ghori,Qaumi Jamhoori Party,373.0,0.005053516,12.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,IUyrqqx2NJ,Malik Abdul Qahir Khan Kasi,Awami National Party,369.0,0.004999323,13.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,2sMDvDsVx1,Yayha Bakhtiar,Independents,277.0,0.003752879,14.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,s5uGkAZi99,Ghulam Ali Haideri,Istiqlal Party,151.0,0.002045793,15.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,leByOGTpvE,"Khalid Dogar, Adv.",Independents,140.0,0.001896762,16.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,Ha5MBCZHHj,Gul Rehman Kakar,Pakistan Workers Party,90.0,0.001219347,17.0,Loss
+2002-10-10,General Election,Contested,NA-259,Quetta,Balochistan,National,310948.0,73810.0,1691.0,nMkjAWcLXR,Sardarzada M. Najeeb Sanjrani,Independents,80.0,0.001083864,18.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,iJ5X6BKHge,Hafiz Hussain Ahmed,Muttahidda Majlis-e-Amal Pakistan,39013.0,0.388494438,1.0,Win
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,tP6uACcWhU,Haji Baloch Khan Mengal,Pakistan Muslim League (Qaid-e-Azam),26690.0,0.265781062,2.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,6NyAYMkrkq,Sardar Fateh M. M. Hassani,Pakistan Peoples Party Parliamentarians,16114.0,0.160464445,3.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,kj4NMI6KCQ,"Habib Jalib Baloch, Adv.",Balochistan National Party,11368.0,0.113203414,4.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,gglWK0UMkr,Ghulam Farooq Baloch,Balochistan National Movement,2483.0,0.024725904,5.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,jA0Zn8pABV,Hussain Ali,Ittehad Milli Hazara,1552.0,0.015454935,6.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,r0ebnCh1fA,"Mir Nauroz Mengal, Adv.",Independents,1074.0,0.010694974,7.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,ooeDmnh8Vg,Abdul Wahid Shakir,Balochistan National Democratic Party,1003.0,0.009987951,8.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,15X0qafD8e,Agha Syed Faisal Shah,Pakistan Muslim League (Nawaz),545.0,0.005427152,9.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,xnTRkL7Cec,Liaquat Ali,Pakistan Awami Tehreek,350.0,0.003485327,10.0,Loss
+2002-10-10,General Election,Contested,NA-260,Quetta-Cum-Chagai-Cum-Mastung,Balochistan,National,369216.0,100421.0,5073.0,iKPE2xyTq6,Sardarzada M. Najeeb Sanjrani,Independents,229.0,0.0022804,11.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,74GKrsbfTT,Haji Gul M. Dummar,Muttahidda Majlis-e-Amal Pakistan,37022.0,0.521319139,1.0,Win
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,qPX9YTdVJR,Dr. Kaleemullah Khan,Paktunkhwa Milli Awami Party,17599.0,0.247817393,2.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,u6rUgkgaqZ,Khalid Khan Kakar,Pakistan Muslim League (Qaid-e-Azam),12914.0,0.181846344,3.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,hhMHdOxQn0,Haji Nizamuddin Kakar,Awami National Party,1162.0,0.01636251,4.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,8lHk8iqUlO,"Abdul Waseh, Adv.",Independents,564.0,0.007941872,5.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,m2KRI58ClU,Dr. Zafarullah Kakar,Pakistan Workers Party,430.0,0.006054974,6.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,pCSLbM85gS,Abdul Wajid Watanpal,Independents,415.0,0.005843754,7.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,gTvr8m5iWd,"Azizullah, Adv.",National Alliance,300.0,0.0042244,8.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,DjeuZ3GO4x,Abbdul Hadi Tareen,Independents,232.0,0.003266869,9.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,OF5lxRhVZC,Ali Ahmed Kakar,Pakistan Peoples Party Parliamentarians,200.0,0.002816267,10.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,wMaXS2h6I6,"Noor Khan Tareen, Adv.",Independents,93.0,0.001309564,11.0,Loss
+2002-10-10,General Election,Contested,NA-261,Pishin-Cum-Ziarat,Balochistan,National,270777.0,71016.0,4045.0,I6MWmiVw3l,Hafizullah Ameen,Independents,85.0,0.001196913,12.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,PugJAxJ5jf,Molvi M. Khan Sherani,Muttahidda Majlis-e-Amal Pakistan,20381.0,0.427247762,1.0,Win
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,NVJ0hsWqNv,Nawab M. Ayaz Khan Jogezai,Paktunkhwa Milli Awami Party,18322.0,0.384084858,2.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,nEqSX3lEFC,Malik Shamsuddin Kakar,Kakar Jamhoori Party Pakistan,4074.0,0.085403434,3.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,q4udAieVmt,Azizullah,Pakistan Muslim League (Qaid-e-Azam),1763.0,0.036957843,4.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,6ppve6OJkC,Shamsullah Kakar,Awami National Party,1532.0,0.032115381,5.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,3Dz9iP8zHY,Fazal-Ur-Reham Kakar,Pakistan Peoples Party Parliamentarians,720.0,0.01509339,6.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,nYQhDnNdiV,Haji Akhtar M. Mandukhail,Pakistan Tehreek-e-Insaf,390.0,0.008175586,7.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,3EizF3ksGl,Malik Mauladad Khan Sherani,Pakistan Muslim League (Nawaz),250.0,0.005240761,8.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,eASVo7VNkR,M. Ismail Khan Bbazai,National Alliance,146.0,0.003060604,9.0,Loss
+2002-10-10,General Election,Contested,NA-264,Zhob-Cum-Killa Saifullah,Balochistan,National,198124.0,47703.0,2879.0,wXWxXDKT4O,Aziz Shah,Independents,125.0,0.00262038,10.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,ss8DYv8T4S,Haider Bugti,Jamhoori Wattan Party,92555.0,0.653600079,1.0,Win
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,YGMtuGu1iJ,Mehrabb Khan Baloch,Balochistan National Movement,13443.0,0.094931077,2.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,1JDnHZU07R,Mir Bakhtiar Khan Domki,Pakistan Muslim League (Qaid-e-Azam),13130.0,0.09272075,3.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,45HPtYrtzL,Ahmed Jan,Paktunkhwa Milli Awami Party,5379.0,0.037985142,4.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,yuPJzCYxQt,Hafiz Abbdul Qayoom,Muttahidda Majlis-e-Amal Pakistan,4447.0,0.031403593,5.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,Zh9xCRGNHV,Hasnain Iqbal Minhas,Independents,3978.0,0.028091633,6.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,Uud6mdKgEz,Taj M. Jamali,National Alliance,3141.0,0.02218095,7.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,IowY6ISaD8,Tariq Hussain Bugti,Independents,2749.0,0.019412745,8.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,l4GmStOYNi,Tariq Hameed Dumar,Awami National Party,2281.0,0.016107847,9.0,Loss
+2002-10-10,General Election,Contested,NA-265,Sibi-Cum-Kohlu-Cum-Dera Bugti,Balochistan,National,308704.0,141608.0,2502.0,6MPneQM4Zp,M. Iqbal Marghazani,Pakistan Tehreek-e-Insaf,505.0,0.003566183,10.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,8Tf7OrVupp,Haji Mir Zafarullah Khan Jamali,Pakistan Muslim League (Qaid-e-Azam),62107.0,0.5169251,1.0,Win
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,6qEuf8IBd7,Munawar Alii Khosa,Pakistan Peoples Party Parliamentarians,41899.0,0.348731138,2.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,JVa3Vj5Q7n,Dr. Hafeez-Ur-Rehman Khosa,Muttahidda Majlis-e-Amal Pakistan,7344.0,0.061125122,3.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,eOI9Vqy0eb,Arz M. Bhanger,Jamote Quami Movement,6240.0,0.051936378,4.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,QnYgcShMhd,M. Hussain Gola,Pakistan Muslim League (Nawaz),1143.0,0.009513346,5.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,RnnLEdEeP9,Yasir Hussain Khosa,Independents,459.0,0.00382032,6.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,UV7ZCxgg2F,Abdul Ghafoor Mengal,Balochistan National Party,405.0,0.003370871,7.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,41nNyV4MIX,Adul Razzaq Baloch,Balochistan National Congress,278.0,0.002313832,8.0,Loss
+2002-10-10,General Election,Contested,NA-266,Nasirabad,Balochistan,National,493722.0,120147.0,6635.0,ArIM3U8NHv,Abdul Fateh Abbro,Independents,272.0,0.002263893,9.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,5Rfmzwalff,Sardar Yar M. Rind,National Alliance,57751.0,0.738220631,1.0,Win
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,W7C6wx5H8I,Nawab M. Aslam Khan,Pakistan Peoples Party Parliamentarians,10302.0,0.131688611,2.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,Fe4jB1hM1s,Dr. Abbdul Hayee Baloch,Balochistan National Movement,5456.0,0.069743065,3.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,5h75af0zXh,Molana Syed Abdul Malik Shah,Muttahidda Majlis-e-Amal Pakistan,3904.0,0.049904129,4.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,1hzOdugAzC,Pir Bakhsh Jamoot,Pakistan Tehreek-e-Insaf,353.0,0.004512335,5.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,jaPs8zM9QI,Mehar Ali Jamoot,Independents,341.0,0.004358942,6.0,Loss
+2002-10-10,General Election,Contested,NA-267,Kacchi,Balochistan,National,230836.0,78230.0,1784.0,QhsblqIDsY,Mir Zulfiqar,Independents,123.0,0.001572287,7.0,Loss
+2002-10-10,General Election,Contested,NA-268,Kalat-Cum-Mastung,Balochistan,National,219071.0,50466.0,1626.0,tP2rpeYUyz,Molana Abdul Ghafoor Haideri,Muttahidda Majlis-e-Amal Pakistan,21559.0,0.42719851,1.0,Win
+2002-10-10,General Election,Contested,NA-268,Kalat-Cum-Mastung,Balochistan,National,219071.0,50466.0,1626.0,g5XovUBihI,Mir Kamal Khan Bangalzai,National Alliance,14638.0,0.290056672,2.0,Loss
+2002-10-10,General Election,Contested,NA-268,Kalat-Cum-Mastung,Balochistan,National,219071.0,50466.0,1626.0,2IDs0RbjRS,Mir Munir Ahmed Shahwani,Balochistan National Party,11157.0,0.221079539,3.0,Loss
+2002-10-10,General Election,Contested,NA-268,Kalat-Cum-Mastung,Balochistan,National,219071.0,50466.0,1626.0,DdcYHcodTX,Sardar Sanaullah Zehri,Balochistan National Democratic Party,1849.0,0.036638529,4.0,Loss
+2002-10-10,General Election,Contested,NA-268,Kalat-Cum-Mastung,Balochistan,National,219071.0,50466.0,1626.0,U8OsQAC1GP,Dr. Abdul Hakeem Lehri,Balochistan National Congress,1263.0,0.025026751,5.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,AugbCuPvrk,Abdur Rauf Mengal,Balochistan National Party,27269.0,0.483415767,1.0,Win
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,jmiTN6BtyU,Mir M. Ayub Jattak,Balochistan National Movement,24359.0,0.431828254,2.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,vcG9f2bBsu,Mir Younas Aziz Zehri,Independents,4012.0,0.071123402,3.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,ahLV5ESS7p,Mir M. Ishaq Mengal,Balochistan National Congress,291.0,0.005158751,4.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,mqT6cJoa5d,Mir Zafarullah Zehri,Independents,201.0,0.003563261,5.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,NsMUjhW2xT,"Mir Bashir Ahmed, Adv.",Independents,190.0,0.003368257,6.0,Loss
+2002-10-10,General Election,Contested,NA-269,Khuzdar,Balochistan,National,252902.0,56409.0,2621.0,e1miROSkiF,Mir Meehrullah Umrani,Pakistan Muslim League (Nawaz),87.0,0.001542307,7.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,5ZcgR0glOg,Pir Abdul Qadir Al-Gilani,Pakistan Muslim League (Qaid-e-Azam),40156.0,0.553730746,1.0,Win
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,pz9yao4PQR,Abdul Karim Lasi,Pakistan Peoples Party Parliamentarians,17143.0,0.236393221,2.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,PUqDeBd8dr,M. Usman,Balochistan National Party,5905.0,0.081426936,3.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,yTGv6BYNFJ,Molvi M. Suleman,Muttahidda Majlis-e-Amal Pakistan,4718.0,0.065058812,4.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,iBQt8Rvu9V,Abdul Wahab Bizenjo,Balochistan National Movement,2242.0,0.030916036,5.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,wrwHIRWnRn,Bizan Bizenjo,Balochistan National Democratic Party,1382.0,0.019057075,6.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,VYhZ3YzApp,Dr. Nasir Ali Qambrani,Jamhoori Wattan Party,691.0,0.009528537,7.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,ISas489SrG,Allah Warayo Lasi,Independents,172.0,0.002371792,8.0,Loss
+2002-10-10,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,252610.0,72519.0,3274.0,brUlJcu1Jz,"M. Ashraf Khan Tanoli, Adv.",Independents,110.0,0.001516844,9.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,7BIJdUWyBF,Molvi Rehmatullah,Muttahidda Majlis-e-Amal Pakistan,25775.0,0.400643517,1.0,Win
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,cXri06qgMv,Abdul Khaliq Baloch,Balochistan National Movement,21913.0,0.340613051,2.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,fxeYx8NkTz,Sardar Fateh M. Hassani,Pakistan Peoples Party Parliamentarians,6970.0,0.108340846,3.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,cwzr2q3TJK,Amanullah Gichki,National Alliance,6052.0,0.094071564,4.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,zSQca8MLot,"Abdullah, Adv.",Pakistan Muslim League (Qaid-e-Azam),1694.0,0.026331333,5.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,NdsVayYfuh,M. Azam Raki,Balochistan National Democratic Party,1435.0,0.022305468,6.0,Loss
+2002-10-10,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,198911.0,64334.0,3678.0,8aAx8WW9dG,Dr. Sardar M. Hussain,Independents,495.0,0.007694221,7.0,Loss
+2002-10-10,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,281748.0,89008.0,3035.0,ShVveP93Gs,Zubaida Jalal,Independents,44177.0,0.496326173,1.0,Win
+2002-10-10,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,281748.0,89008.0,3035.0,kHa8udZ5oI,Dr. Abdul Malik,Balochistan National Movement,36169.0,0.406356732,2.0,Loss
+2002-10-10,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,281748.0,89008.0,3035.0,6Z5z6EAaHl,Molana Abdul Haq,Muttahidda Majlis-e-Amal Pakistan,6252.0,0.070240877,3.0,Loss
+2002-10-10,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,281748.0,89008.0,3035.0,aX4FWJOtIo,Jamil Ahmed Dashti,Balochistan National Party,1761.0,0.019784738,4.0,Loss
+2002-10-10,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,281748.0,89008.0,3035.0,O20NX6ZY1w,Fida Hussain,Balochistan National Democratic Party,649.0,0.007291479,5.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,exuZNFBNw7,Sardar Yaqoob Khan Nasir,Pakistan Muslim League (Nawaz),21385.0,0.271876629,1.0,Win
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,p064aCNF3m,Molvi Amir Zaman Bukhari,Muttahidda Majlis-e-Amal Pakistan,19218.0,0.244326633,2.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,ZUqwbZfEez,Mir Baz M. Khan Khetran,Pakistan Peoples Party Parliamentarians,14877.0,0.189137648,3.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,nWdQCVjDfS,Sardar Sikandar Hayat Khan Jogezai,Independents,13228.0,0.168173208,4.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,2mDbv4C1Z0,Mir Tariq Mehmood Khan Khetran,Pakistan Muslim League (Qaid-e-Azam),7253.0,0.092210483,5.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,YONsJxj0gd,M. Shaif Khetran,Balochistan National Movement,1290.0,0.01640032,6.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,YQ75KeRjeC,Mir Shah Jahan Khetran,Independents,511.0,0.006496561,7.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,MyJdCGLaPm,Sardar M. Israr Tareen,Independents,349.0,0.004436986,8.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,oryEpYvoWc,"Azam Jan, Adv.",Awami National Party,323.0,0.004106437,9.0,Loss
+2002-11-02,Re-Polling,Contested,NA-263,Loralai,Balochistan,National,272509.0,78657.0,3087.0,bQlotdUSaR,Sher Afgan Luni,Independents,223.0,0.002835094,10.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,2nfneM1kLn,Mehmood Khan Achakzai,Paktunkhwa Milli Awami Party,35385.0,0.413448618,1.0,Win
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,ZGNVd3ULaW,Molana M. Haneef,Muttahidda Majlis-e-Amal Pakistan,33868.0,0.39572355,2.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,PTxyUS4GG2,Bismillah Khan,Pakistan Peoples Party Parliamentarians,14763.0,0.17249518,3.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,kSO5CsxLmr,Lala Jan,Pakistan Muslim League (Qaid-e-Azam),862.0,0.010071858,4.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,SGpLAs1AX6,Abdul Khaliq,Independents,453.0,0.005292984,5.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,jmLR89ucvW,Abdul Aziz,Independents,173.0,0.002021382,6.0,Loss
+2002-11-17,Re-Polling,Contested,NA-262,Kill Abbdullah,Balochistan,National,265538.0,85585.0,3521.0,7cw9ns87i3,M. Ismail,Pakistan Muslim League (Nawaz),81.0,0.000946428,7.0,Loss

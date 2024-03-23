@@ -1,0 +1,219 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,mtryGrIOTd,Bilal Rehman,Independents,5270.0,0.230402658,1.0,Win
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,8TKaT0bRBm,Shahbaz Khan Mohmand,Independents,4229.0,0.184890482,2.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,l06do4ILjD,Maulana Ghulam Mohammad Sadiq,Independents,3483.0,0.152275609,3.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,90mVPRP1FM,Fazal Manan Mohmand,Independents,2111.0,0.092292222,4.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,deYKOGooJu,Farooq Afzal,Independents,1892.0,0.082717615,5.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,EePOUTSmmd,Muhammad Naseer,Independents,1826.0,0.079832116,6.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,W3LCsemwoQ,Asghar Khan,Independents,1332.0,0.0582346,7.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,6IJHZWM1xL,Hafiz Mohabat Khan,Independents,1023.0,0.044725222,8.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,ewSevANP3d,Ataullah,Independents,393.0,0.01718183,9.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,iJxWw8lZ3r,Khair Ullah,Independents,367.0,0.016045119,10.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,CwMxMKWjCW,Ihsan Ullah,Independents,318.0,0.013902855,11.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,pgAROrn0Gk,Shahen Shah,Independents,169.0,0.007388624,12.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,6ZFgSSKBtQ,Shahbaz Yasar Ali,Independents,141.0,0.006164473,13.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,bE1oqJxbCq,Wazir Muhammad Khan,Independents,94.0,0.004109649,14.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,87flvstGat,Saeed-Ur-Rehman,Independents,60.0,0.00262318,15.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,sXLS6uXJtk,Javid Yousaf Mohmand,Independents,55.0,0.002404582,16.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,vneJwV029i,Mualim Khan,Independents,25.0,0.001092992,17.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,CC1IRRZRiy,Aftab Ahmad Khan,Independents,24.0,0.001049272,18.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,p0Fu3IyP02,Riyasat Ali Khan,Independents,24.0,0.001049272,18.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,ClzVtSaZYr,Malik Manzoor Khan,Independents,21.0,0.000918113,19.0,Loss
+2008-02-18,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,126007.0,22873.0,390.0,jnUCi9sqja,Ikramullah Khan,Independents,16.0,0.000699515,20.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,OkRYQZnRRI,Munir Khan Orakzai,Independents,16525.0,0.663654618,1.0,Win
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,1rAPoQiroG,Maulana Akhunzada Obaidullah Sharif,Independents,4270.0,0.171485944,2.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,qEnrekJWHe,Habib Malik Orakzai,Independents,2990.0,0.120080321,3.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,nB35WVYbUI,Naveed Ahmad Khan,Independents,805.0,0.032329317,4.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,KZXxVLPcJN,Malak Mohammad Naseer Khan,Independents,124.0,0.00497992,5.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,y4e35fA4Sa,Doctor Gul Manan,Independents,40.0,0.001606426,6.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,IngdFdrMpi,Salah-U-Din,Independents,27.0,0.001084337,7.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,iAwrAUAf8j,Malak Noor Ahmad Shah Orakzai,Independents,21.0,0.000843373,8.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,aFX1yM9jk9,Abdul Hameed Khan,Independents,20.0,0.000803213,9.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,fiXmTM8FJW,Eid Nazar Mangal,Independents,14.0,0.000562249,10.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,XFtceWZwSB,Mohammad Amin Khan Orakzai,Independents,12.0,0.000481928,11.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,QJnG9aGikr,Haji Fazle Maula Masozai,Independents,10.0,0.000401606,12.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,gsnFxCWjHp,Shamsulhaq,Independents,9.0,0.000361446,13.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,PeNv1IAIiq,Akhunzada Abdul Wali Khan,Independents,8.0,0.000321285,14.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,550H388Uyb,Abdul Ghaffar Khan Ghafoor,Independents,7.0,0.000281124,15.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,ocRTvZYL4X,Engineer Rashid Ahmad Khan,Independents,7.0,0.000281124,15.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,j0gijhcgNx,Akhunzada Mohammad Nawaz,Independents,4.0,0.000160643,16.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,ZjQNMxAb2b,Haji Sohbat Khan Orakzai,Independents,3.0,0.000120482,17.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,JgO4R9ngcg,Malik Haji Abdul Manan Bangush,Independents,3.0,0.000120482,17.0,Loss
+2008-02-18,General Election,Contested,NA-38,Tribal Area 3,Islamabad and FATA,National,87993.0,24900.0,19.0,wMUU8BZYYc,Malak Fakhar Zaman Khan,Independents,1.0,4.02e-05,18.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,nVMh57O0mS,Jawad Hussain,Independents,21844.0,0.444652526,1.0,Win
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,80egGwxoHV,Dr. Gul Karim Khan,Independents,8247.0,0.167874445,2.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,n8jzzJmIZM,Malik Atiq Ur Rehman Orakzai,Independents,5618.0,0.114358995,3.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,nOQp8emYRB,Mian Syed Muhammad Hussain,Independents,5438.0,0.110694948,4.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,PqRcn031pw,Muhammad Saeed Khan Aurakzai,Independents,4703.0,0.09573342,5.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,08CtmHljBw,Tahir Iqbal,Independents,2530.0,0.051500224,6.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,CJ0fiuUpVn,Dr. Muhammad Javed Abdul Ghani,Independents,378.0,0.0076945,7.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,7NTFo0Kljn,Doctor Syed Ghazi Gulab Jamal,Independents,83.0,0.001689533,8.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,5d27tcF5Ma,Syed Javed Hussain,Independents,74.0,0.001506331,9.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,igEy8xYD7W,Dr. Gulab Akbar,Independents,67.0,0.00136384,10.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,myT4REyKSR,Hanif Khan,Independents,44.0,0.000895656,11.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,hkWFF5tnqo,Mufeed Ali,Independents,37.0,0.000753165,12.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,HOQByft1Ad,Syed Noor Akber,Independents,34.0,0.000692098,13.0,Loss
+2008-02-18,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,123335.0,49126.0,381.0,JgfkmuEikQ,Riaz Hussain,Independents,29.0,0.000590319,14.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,zONEd5Ez12,Muhammad Kamran Khan,Independents,5894.0,0.17015994,1.0,Win
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,sB5GadUQWE,Abdul Qayyum,Pakistan Citizen Movement,5441.0,0.157081818,2.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,UxQd902Pg7,Aurang Zeb Khan,Independents,5201.0,0.150153011,3.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,oPVrOyHNK2,Abdullah Shah,Independents,4056.0,0.11709683,4.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,CTngLiWZHg,Muhammad Ajmal Khan,Independents,3051.0,0.088082453,5.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,PrYViO8f8h,Maulana Syed Nek Zaman Haqani,Independents,2515.0,0.072608118,6.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,XApagIPFnD,Nisar Ali Khan Dawer,Independents,1855.0,0.0535539,7.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,gV13ID2Yrn,Sadiqullah Mufti,Independents,1392.0,0.040187078,8.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,lflTkgTL9w,Fazal-E-Subhan,Independents,1326.0,0.038281656,9.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,imDWAhMu4I,Maulana Ainullah Dawer,Independents,1265.0,0.036520584,10.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,j7F8TlC3Bo,Sadiqullah Dawar,Independents,1130.0,0.032623131,11.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,MxVUsbwCh5,Dr.shahid Rauf,Independents,958.0,0.027657486,12.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,LiQ1ZTztnl,Hafiz Ahmad Jan,Independents,378.0,0.01091287,13.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,mPVExBJvTS,Dr.bahsir Ahmad Khan,Independents,65.0,0.001876552,14.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,GqZfVQqUyn,Gul Alam,Independents,63.0,0.001818812,15.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,OR9beJHsAD,Fida Muhammad,Independents,16.0,0.00046192,16.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,FR32PoxZv7,Haji Laiq Zaman,Independents,11.0,0.00031757,17.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,0R0lGcakpw,Muhammad Asghar,Independents,9.0,0.00025983,18.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,TwnpPHscTM,Zabehullah,Independents,9.0,0.00025983,18.0,Loss
+2008-02-18,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,126453.0,34638.0,591.0,hI1MBYSGwO,Muhammad Ishaq,Independents,3.0,8.66e-05,19.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,pkpcjcU72k,Maulana Abdul Malik Wazir,Independents,7957.0,0.253512601,1.0,Win
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,JV3fFRTGCD,Ghalib Khan,Independents,7921.0,0.252365629,2.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,zsNRjOvZXD,Aziz-Ul-Hassan,Independents,7313.0,0.232994552,3.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,2MX8w1NcSq,Ghani Khan,Independents,4688.0,0.1493612,4.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,GBguHAYuLz,Muhammad Ali Wazir,Independents,3294.0,0.104947908,5.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,XfdWlibDkW,Muhammad Jehangir,Independents,81.0,0.002580686,6.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,MU4aCwxSVy,Ghulam Haider,Independents,55.0,0.001752318,7.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,1nA3Rrqy9k,Ajab Gul,Independents,33.0,0.001051391,8.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,7E1trZbwGU,Gul Nawaz,Independents,19.0,0.000605346,9.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,ua0N03SQva,Jahanzeb,Independents,17.0,0.000541626,10.0,Loss
+2008-02-18,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,94077.0,31387.0,592.0,TKkjyY8SHl,Muhammad Tariq,Independents,9.0,0.000286743,11.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,9vPOkPVPII,Shaukatullah Khan,Independents,7428.0,0.498189135,1.0,Win
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,DFCp7bN6Sg,Sheikh Jehanzada,Independents,3079.0,0.206505701,2.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,pajAFY1GN7,Bashir Mohammad,Independents,3009.0,0.201810865,3.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,qjHDoBgC2S,Saeed-Ur-Rahman,Independents,568.0,0.038095238,4.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,DG8Zmp0Usu,Haji Akbar Jan,Independents,290.0,0.019450034,5.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,6jM4HyAHsB,Mufti Israr Ahmad,Independents,247.0,0.016566063,6.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,8JzPSTNry9,Inayat-Ur-Rahman,Independents,171.0,0.011468813,7.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,f7h12mVdzi,Habib Rasool Safi,Independents,65.0,0.00435949,8.0,Loss
+2008-02-18,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,119088.0,14910.0,392.0,Dte5OnCL4D,Hayat Mohammad,Independents,53.0,0.003554661,9.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,eXJ0EQBWCA,Syed Akhun Zada Chittan,Independents,6257.0,0.269454373,1.0,Win
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,gTwjtprYMk,Shahab Ud Din Khan,Independents,5203.0,0.224064424,2.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,R553bdUJAe,Gul Dad Khan,Independents,4648.0,0.200163645,3.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,eDN84zOjrb,Haji Rahat Yousaf,Independents,2348.0,0.10111537,4.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,KCzH9FS9tp,Muhammad Fazil,Independents,1586.0,0.068300245,5.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,2am2q4aVsY,Zir Muhammad,Independents,1264.0,0.054433487,6.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,CB1t0EG8Ow,Maulana Fazal Manan,Independents,1262.0,0.054347358,7.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,9IZYDsaHHd,Mufti Israr Ahmad,Independents,602.0,0.025924809,8.0,Loss
+2008-02-18,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,136052.0,23221.0,847.0,JivR9jOSOu,Al Haj Mohammad Din Khan,Independents,51.0,0.002196288,9.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,IVJ0X9pu8F,Noor Ul Haq Qadri,Independents,13876.0,0.396842647,1.0,Win
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,JCe4U4S3Bn,Mohammad Ibrahim Koki Khel,Independents,12548.0,0.358862895,2.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,xaXLStfn40,Zahid Khan,Independents,5351.0,0.153034376,3.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,ixq4VX6SBg,Ajab Khan Afridi Zakha Khel,Independents,1641.0,0.046931305,4.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,PIUlGmvwj1,Mufti Mohammad Ijaz,Independents,796.0,0.022764972,5.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,gO3RDJNYUt,Khan Zada Afridi,Independents,185.0,0.005290854,6.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,9nPoORVYLC,Dawood Khan,Independents,180.0,0.005147858,7.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,QWxyrxyQXt,Ishratullah,Independents,169.0,0.004833267,8.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,WMqr6FkSKe,Fazal Karim Shalmani,Independents,93.0,0.002659727,9.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,6ao97qa1tV,Haji Rasheed Khan Shinwari,Independents,73.0,0.002087742,10.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,nFGyjE7U5J,Abdul Azim,Independents,23.0,0.000657782,11.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,gOxGzeHQ83,Mohammad Hamayun,Independents,18.0,0.000514786,12.0,Loss
+2008-02-18,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,101272.0,34966.0,513.0,aJc5C0FCzd,Sardar Azam Afridi,Independents,13.0,0.00037179,13.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,6U86OeUdFx,Hamidullah Jan Afridi,Independents,5660.0,0.25440489,1.0,Win
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,NQUNhhy4Cf,Mohammad Saeed Afridi,Independents,5035.0,0.226312478,2.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,skfmxrDdzh,Zaffarullah Khan Mdk,Independents,3558.0,0.159924488,3.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,9yYxaBPVj7,Sohail Ahmed,Independents,3359.0,0.150979863,4.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,jCMwEAE4cJ,Malik Zafar Khan Shalobar Qamber Khel,Independents,1751.0,0.078703704,5.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,3V0VnTFvD2,Hasham Khan Mdk,Independents,1183.0,0.053173319,6.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,PPSPuN0L6r,Dr. Niaz Badshah Sqk,Independents,312.0,0.014023732,7.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,EsC2s6eRc1,Barrister Sulman Hameed Afridi Sqk,Independents,250.0,0.011236965,8.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,DAj41N3UN9,Maulana Nusrat Amin Afridi Adam Khel,Independents,228.0,0.010248112,9.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,tmImZ2MNzk,Mohammad Hanif Afridi Sepah,Independents,174.0,0.007820928,10.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,SeEkXA1Wnf,Asghar Khan Afridi,Independents,146.0,0.006562388,11.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,i4pBkVvs2P,Yar Asghar Bqk,Independents,121.0,0.005438691,12.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,u2eZ7lUumi,Haji Faizullah Mdk,Independents,115.0,0.005169004,13.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,Dw4CMHpsp2,Maulana Khalil-Ur-Rehman Sqk,Independents,68.0,0.003056455,14.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,Sp3o36z4Ci,Habib Jan Shakir Qamber Khel,Independents,56.0,0.00251708,15.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,lRWUiZ3fVk,Noor Baddin Mdk,Independents,50.0,0.002247393,16.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,eqF4eVyOue,Amir Shah Bar Qk,Independents,40.0,0.001797914,17.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,gNo2kf9din,Dr. Hafiz Habibullah Sqk,Independents,37.0,0.001663071,18.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,E3Zw0tQPOV,Alhaj Mian Gul Malik Din Khel,Independents,36.0,0.001618123,19.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,d54fYmY75M,Saifullah Qamber Khel,Independents,23.0,0.001033801,20.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,lI0mgteiXK,Habib-Ur-Rehman Sepah,Independents,21.0,0.000943905,21.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,RSMzzjmg6K,Nusrullah Khan Sqk,Independents,15.0,0.000674218,22.0,Loss
+2008-02-18,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,94208.0,22248.0,195.0,l1UZwrUrVf,Haji Surat Khan Sqk,Independents,10.0,0.000449479,23.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,j934CewCYo,Zafar Baig Bhattani,Independents,21426.0,0.449125896,1.0,Win
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,6rCb5aw0wB,Dr. Nasim Afridi,Independents,10468.0,0.219427326,2.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,8p32S2evMm,Malak Haji Baz Gul Khan Afridi,Independents,9213.0,0.193120362,3.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,XAa3KIevPW,Malik Noor Zaman,Independents,2222.0,0.04657695,4.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,RRgO1VcODN,Maulana Sher Samad,Independents,2047.0,0.042908649,5.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,246u9hALuM,Rehman Afridi,Independents,1950.0,0.040875362,6.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,pus1JVQ1Fo,Muhammad Azam,Independents,108.0,0.002263866,7.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,zEFQ4HIaXm,Muhammad Sadiq Khan Sherani,Independents,54.0,0.001131933,8.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,4KnzDJMJjb,Mohib Ullah Sherani,Independents,35.0,0.00073366,9.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,IqqsRjER4B,Abid Rehman,Independents,34.0,0.000712699,10.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,Qwrf6nhGat,Ashfaq Khan Bhattani,Independents,21.0,0.000440196,11.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,QXynXSOLoT,Sardar Muhammad Nawaz Khan,Independents,21.0,0.000440196,11.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,HouAFVEWMd,Shakirullah Sheirani,Independents,19.0,0.000398273,12.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,SrTZreeMdA,Musharaf Khan,Independents,16.0,0.000335388,13.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,uQDzcE2UUY,Mohabat Khan Sherani,Independents,14.0,0.000293464,14.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,rRC2KgJo7x,Noor Aslam,Independents,13.0,0.000272502,15.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,S4IhmdRqku,Abdur Razzaaq,Independents,12.0,0.000251541,16.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,BiB8lu27lE,Wahid Ullah Afridi,Independents,12.0,0.000251541,16.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,I9RQiToCJQ,Javed Iqbal,Independents,11.0,0.000230579,17.0,Loss
+2008-02-18,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,131222.0,47706.0,402.0,gf7MOAx6Xb,Haji Zafar Khan Afridi,Independents,10.0,0.000209617,18.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,AJo5w0DWwP,Anjum Aqeel Khan,Pakistan Muslim League (Nawaz),61480.0,0.588838127,1.0,Win
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,xfLpnj7SMe,Dr. Syed Israr Hussain,Pakistan Peoples Party Parliamentarians,26485.0,0.253665872,2.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,KakJHbFSRU,Rizwan Sadiq Khan,Pakistan Muslim League (Qaid-e-Azam),10483.0,0.100403222,3.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,NF3akVBMJk,Azeem Chaudhry,Independents,2286.0,0.021894664,4.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,aLdRX4bGHd,Alamgir Khan,Pakistan Tehreek-e-Inqalab,1288.0,0.012336101,5.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,o4zXu1ajQI,Naila Joseph Dayal,Independents,691.0,0.006618203,6.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,v2uiCNADkV,Ch. Hamid Ali Wahla,Muttahida Qaumi Movement,370.0,0.003543756,7.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,P6C7tHK3Mu,Dr. Abid Rauf Orakzai,Jamiat Ulema-e Islam (Fazl),278.0,0.002662606,8.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,BwVX3xVfXG,Muhammad Usman Ikram Bajwa,Independents,185.0,0.001771878,9.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,APuhQSnjc4,Muhammad Farooq Rajput,Jamhoori Wattan Party,169.0,0.001618634,10.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,ugEZnfkqDS,Dr. Rafique Ahmed Ghuncha,Independents,148.0,0.001417502,11.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,sjqTjXpnye,Dr. Muhammad Shahid Attique,Independents,93.0,0.000890728,12.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,p1YQ14aDQg,Noreen Khan Advocate,Independents,86.0,0.000823684,13.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,V4FLUDHBMh,Arshed Bhatti,Independents,68.0,0.000651285,14.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,J7hPxuOGhk,Faisal Imran Khan Niazi,Awami National Party,62.0,0.000593819,15.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,hPG39jkDAD,Syed Anwaar Ahmad Shah,Independents,54.0,0.000517197,16.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,OhbIZcNMEG,Muhammad Ilyas,Independents,42.0,0.000402264,17.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,z6tUYmpXIq,Raja Zaheer Hussain,Independents,40.0,0.000383109,18.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,ejsMy9Rrgf,Ashfaq Ahmad Cheema,Independents,33.0,0.000316065,19.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,uMVmpcQaQu,Khalid Sulehri,Independents,29.0,0.000277754,20.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,lI4M1awfKR,Muhammad Attique-Ur-Rehman,Independents,19.0,0.000181977,21.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,R5u7E4S0jA,Khurshid Anwar Qureshi,Independents,11.0,0.000105355,22.0,Loss
+2008-02-18,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,239924.0,104409.0,548.0,T7vq84qEHv,Muhammad Arshad Hussain Chishti,Pakistan Freedom Party,9.0,8.62e-05,23.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,uJxvZCDlIJ,Dr. Tariq Fazal Chaudry,Pakistan Muslim League (Nawaz),45482.0,0.335435243,1.0,Win
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,VnIuUzfubJ,Syed Nayyer Hussain Bukhari,Pakistan Peoples Party Parliamentarians,44726.0,0.329859651,2.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,MrAx4lJPXx,Mustafa Nawaz Khokhar,Pakistan Muslim League (Qaid-e-Azam),34546.0,0.254780922,3.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,9b3Y27g3bZ,Malik Tabarak Hussain,Independents,8294.0,0.061169252,4.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,CZELGbd3Mj,Raja Ishtiaq Ahmed,Jamiat Ulema-e Islam (Fazl),979.0,0.007220243,5.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,sTMDx8UCUM,M.iqbal Haider,Awami Himayat Tehreek Pakistan,707.0,0.00521421,6.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,rGATH6uBJr,Zafar Alam Sarwar,Independents,325.0,0.002396914,7.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,8LQvlhqKWw,Raja Abdul Ghaffar,Independents,235.0,0.001733153,8.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,9IN1ObRuq5,Sajid Zaman,Independents,121.0,0.00089239,9.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,DXwUBsoG4C,Mufti Ameer Zeb,Independents,118.0,0.000870264,10.0,Loss
+2008-02-18,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,242877.0,135591.0,983.0,XZNI928k58,Raja Muhammad Aftab Satti,Pakistan Aman Party,58.0,0.000427757,11.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,AoEKTENLnn,Sajid Hussain Turi,Independents,26287.0,0.30183718,1.0,Win
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,VHuRHTkJME,Dr. Syed Riaz Hussain,Independents,20793.0,0.238753014,2.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,BezfAz2x3z,Syed Sajjad Hussain,Independents,20267.0,0.232713285,3.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,J9EAJbaPWG,Salah-U-Din,Independents,19636.0,0.225467907,4.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,c2XCtwbbc0,S. Syed Hussain,Independents,18.0,0.000206683,5.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,90Zrjr7NC7,Syed Iqbal Hussain,Independents,13.0,0.000149271,6.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,r5zeLaTzlm,Rajab Ali,Independents,10.0,0.000114824,7.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,5K4vLo5rpD,Shafaat Hussain,Independents,8.0,9.19e-05,8.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,i2fzaDAYUT,Syed Mohammad,Independents,8.0,9.19e-05,8.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,qqLDW5KsSS,Qaim Hussain,Independents,7.0,8.04e-05,9.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,oZnmh1Zq6C,Doctor Syed Mohammad Ali Shah,Independents,6.0,6.89e-05,10.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,qiDIZtI8Mv,Fakhar Zaman,Independents,6.0,6.89e-05,10.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,UqaPesLNIb,Syed Iqbal Mian,Independents,6.0,6.89e-05,10.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,dhGLyDZAJa,Doctor Syed Javaid Hussain,Independents,5.0,5.74e-05,11.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,xvBLWx7qzl,Muhammad Hussain,Independents,5.0,5.74e-05,11.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,YiRhd9BjZi,Doctor Ghayyur Hussain,Independents,4.0,4.59e-05,12.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,AeSCSU6Z9P,Malik Dildar Hussain,Independents,4.0,4.59e-05,12.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,fOibAttAZX,Doctor Syed Mumtaz Hussain Shah,Independents,2.0,2.3e-05,13.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,c0KsEfxDJI,Engineer Akbar Ali,Independents,2.0,2.3e-05,13.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,enIwMc4cWa,Shabir Hussain,Independents,2.0,2.3e-05,13.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,dob0w2wpa0,Hamid Hussain,Independents,1.0,1.15e-05,14.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,QKPMfFnaxo,H. Hashim Khan,Independents,0.0,0.0,15.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,2lDHGt6ERT,Mehmood Ali Khan,Independents,0.0,0.0,15.0,Loss
+2008-03-03,By-Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,141190.0,87090.0,206.0,gyAWJLYOWE,Syed Wali Syed Mian,Independents,0.0,0.0,15.0,Loss

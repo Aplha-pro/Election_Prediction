@@ -1,0 +1,8 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,JTiVCUemCr,Abdul Bari Patafi,Pakistan Peoples Party Parliamentarians,48390.0,0.553724682,1.0,Win
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,Qgmyj8UTce,Mian Abdul Malik,Pakistan Muslim League (Functional),37228.0,0.425998398,2.0,Loss
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,ndCkLScMue,Zulfiqar Ali Shah,Independents,1119.0,0.012804669,3.0,Loss
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,itUfc82heE,Shamas-Ud-Din,Independents,390.0,0.004462753,4.0,Loss
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,KaWjpcUhfm,Abdul Rab Patafi,Independents,174.0,0.001991074,5.0,Loss
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,UmVL10oePA,Adam Ali Sher,Independents,56.0,0.000640806,6.0,Loss
+2018-03-05,By-Election,Contested,PS-7,Ghotki-Iii,Sindh,Provincial,179843.0,87390.0,2556.0,erLznczYTP,Asad Tariq,Independents,33.0,0.000377618,7.0,Loss

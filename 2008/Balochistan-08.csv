@@ -1,0 +1,723 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,fIcSBfyFAq,Syed Nasir Ali Shah,Pakistan Peoples Party Parliamentarians,24936.0,0.410016936,1.0,Win
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,xZ4r1GvjRm,Anwar Ul Haq,Pakistan Muslim League (Qaid-e-Azam),11387.0,0.187233833,2.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,0aXZML6ZDP,Hafiz Fazal Muhammad,Independents,6661.0,0.109525297,3.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,8QKpewhbd7,Khudai Noor,Pakistan Muslim League (Nawaz),6617.0,0.108801815,4.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,BCXe68ezAD,Abdul Aziz Khan Khilji Advocate,Jamiat Ulema-e Islam (Fazl),4412.0,0.072545505,5.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,faf9OtVy9j,Khudai Dad,Awami National Party,1459.0,0.023990003,6.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,6SRN78g6FH,Lt. General(R) Abdul Qadir Baloch,Independents,1150.0,0.018909187,7.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,qX9jaeYKi5,Syed Muhammd Fazal Agha,Independents,946.0,0.015554861,8.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,QuZTJDfODv,Shaheeda Parveen,Independents,704.0,0.011575711,9.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,UF7mmdLsHk,Arshad Iqbal Jadoon,Independents,607.0,0.009980762,10.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,Ewf0Lz58P6,Arbab Abdul Ghani Kasi,Muttahida Qaumi Movement,586.0,0.009635464,11.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,iyVeljiBwo,Mir Zarak Khan Zehri.,Independents,470.0,0.007728102,12.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,7kKuN86tlv,Rubnia Babar,Independents,266.0,0.004373777,13.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,NLNcBeFt9E,Muhammad Kashif,Independents,187.0,0.003074798,14.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,o44pdoQA2F,Shafiq Ahmed Khan,Independents,183.0,0.003009027,15.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,hP5uR5DjiN,Abdul Kahliq Hazara,Independents,88.0,0.001446964,16.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,O6CzxII5Br,Abdul Qadir Luni,Independents,84.0,0.001381193,17.0,Loss
+2008-02-18,General Election,Contested,NA-259,Quetta,Balochistan,National,365579.0,60817.0,1875.0,tmAVrnmiz8,Syed Zahir Shah Zadi,Independents,74.0,0.001216765,18.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,ttcknI3zIV,Sardar Al-Haaj Muhammad Umar Goragaje,Pakistan Peoples Party Parliamentarians,40773.0,0.405310298,1.0,Win
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,sVvV8YOrBR,Sardar Fateh Muhammad Muhammad Hassani,Pakistan Muslim League (Qaid-e-Azam),29443.0,0.292682684,2.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,8IE1DGcPzy,Malik Sikandar Khan,Jamiat Ulema-e Islam (Fazl),19450.0,0.193345726,3.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,LOoEwLzdM3,Barkat Ali Thamki,Hazara Democratic Party,3174.0,0.031551637,4.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,jlyk8jRT8w,Syed Zahir Shah Zaidi,Independents,2376.0,0.023618995,5.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,2peuSLArS3,Engineer Noor Ahmed Khan,Awami National Party,1788.0,0.01777389,6.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,w37oHK7nA3,Allah Dad Khan Barraich,Independents,1239.0,0.012316471,7.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,C2mXRJGCj4,Mir Abdul Ghafoor Sarparah,Independents,842.0,0.008370031,8.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,CjfYbUQAbA,Muhammad Arif Badini,Balochistan National Party (Awami),485.0,0.004821217,9.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,ZpLONDdBr8,Muhammad Abbas,Independents,358.0,0.003558754,10.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,Ugc4926P3n,Malik Abdul Rehman Dehwar,Muttahida Qaumi Movement,353.0,0.003509051,11.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,sIR0sXOyJX,Lashkar Khan,Independents,167.0,0.001660089,12.0,Loss
+2008-02-18,General Election,Contested,NA-260,Quetta Cum Chagai,Balochistan,National,398782.0,100597.0,4175.0,sIagRfRRFw,Abdul Ali Hazara,Independents,149.0,0.001481157,13.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,TwJwVBSaEk,Molvi Agha Muhammad,Jamiat Ulema-e Islam (Fazl),30611.0,0.374126131,1.0,Win
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,PhyFZ3Hi7I,Muhammad Sarwar Khan Kakar,Pakistan Muslim League (Qaid-e-Azam),23350.0,0.285382547,2.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,HZp9evXzel,Syed Muhammad Fazal Agha.,Independents,10385.0,0.126924957,3.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,vOOssxIr4H,Dr. Taj Muhammad,Independents,5231.0,0.063933024,4.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,LEPpLHZU4L,Muhammad Yaqoob Ziaratwal,Pakistan Peoples Party Parliamentarians,4178.0,0.05106331,5.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,IAXK4KMdUW,Abdul Rasheed Nasir,Awami National Party,2355.0,0.028782694,6.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,KqLndu2sGJ,Akhundzada Badruddin,Pakistan Muslim League (Nawaz),1980.0,0.024199462,7.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,T9iCEifY6B,Syed Fazal Muhammad Agha,Independents,1220.0,0.01491078,8.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,DOY6OZrQkW,Noor Khan Tareen Advocate,Independents,575.0,0.007027622,9.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,BgFxIbngPO,Abdul Wasay Kakar Advocate,Independents,574.0,0.0070154,10.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,xY3OgbP3UJ,Abdul Ghaffar Panezai,Independents,434.0,0.005304327,11.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,yo7SLSc0zx,Kaleemullah Tareen,Independents,371.0,0.004534344,12.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,FdGXt4F4sh,Dr. Gohar Ejaz,Independents,295.0,0.003605475,13.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,TTCMu6Xarc,Muhammad Anwar Khan Tareen,Independents,149.0,0.001821071,14.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,Br7082IMew,Mufti Muhammad Naseem,Independents,77.0,0.00094109,15.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,EcXCIIi3nc,Malik Nasrullah Khan Kakar,Independents,21.0,0.000256661,16.0,Loss
+2008-02-18,General Election,Contested,NA-261,Pishin Cum Ziarat,Balochistan,National,297591.0,81820.0,3191.0,0NtkRRlwDy,Hafiz Muhammad Musa Jan,Independents,14.0,0.000171107,17.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,fpwJiF3Msb,Haji Rozuddin,Jamiat Ulema-e Islam (Fazl),45590.0,0.335499349,1.0,Win
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,BL4hF2DobL,Malik Muhammad Usman Achakzai,Awami National Party,44455.0,0.327146821,2.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,icauvn6SNF,Nazar Muhammad Kakar,Pakistan Peoples Party Parliamentarians,27548.0,0.202727266,3.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,4nWfbnYWAG,Haji Janan Khan Achakzai.,Independents,13114.0,0.096506656,4.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,kn8XiKmLeT,Naseer Ahmed Kakar,Pakistan Muslim League (Qaid-e-Azam),4880.0,0.035912192,5.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,mo3sa1BaCE,Syed Musavir Shah.,Independents,153.0,0.001125936,6.0,Loss
+2008-02-18,General Election,Contested,NA-262,Killa Abdullah,Balochistan,National,392221.0,135887.0,1492.0,EUrEMPJwEC,Abdul Shakoor Advocate,Independents,147.0,0.001081781,7.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,JIi1Nyw6MH,Sardar Muhammad Israr Tareen,Pakistan Muslim League (Qaid-e-Azam),52818.0,0.383400357,1.0,Win
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,V9FvDMNLQq,Sardar Muhammad Yaqoob Khan Nasir,Pakistan Muslim League (Nawaz),34985.0,0.253952469,2.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,CbPvZWniN7,Sardar Mir Baz Muhammad Khan Khethran,Pakistan Peoples Party Parliamentarians,30233.0,0.219458196,3.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,d3xTEEgqwm,Molvi Faizullah,Jamiat Ulema-e Islam (Fazl),14987.0,0.108789071,4.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,VfSDz6u437,Siraj-Ud-Din,Muttahida Qaumi Movement,2599.0,0.01886587,5.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,JENvD4iSeW,Mir Shah Jahan Khan Khetran,Independents,865.0,0.006278945,6.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,OxNyrK26sK,Muhammad Asif Tareen,Independents,447.0,0.003244726,7.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,vl9N5gP9Ad,Bismillah Jan,Awami National Party,444.0,0.00322295,8.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,FO69wp8hCj,Yahya Khan,Independents,153.0,0.001110611,9.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,C0DlRs0aqt,Sardar Sanaullah,Independents,120.0,0.000871067,10.0,Loss
+2008-02-18,General Election,Contested,NA-263,Old Loralai,Balochistan,National,349596.0,137762.0,4405.0,OfmrMXhkxU,Mir Sher Baz Khethran,Independents,111.0,0.000805737,11.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,p3MLDaZ918,Maulvi Asmatullah,Independents,24204.0,0.411758702,1.0,Win
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,aI5s8hJzGx,Maulana Malik Muhammad Khan Sherani,Jamiat Ulema-e Islam (Fazl),17066.0,0.290326971,2.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,Wwng3TrNkn,Sheikh Jafar Khan Mandokhail,Pakistan Muslim League (Qaid-e-Azam),10951.0,0.186298527,3.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,Lhr4Nh7ceo,Mamoon Khan Kakar,Awami National Party,2877.0,0.048943554,4.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,7f2t9pSGBJ,Sardar Wazir Ahmed Jogezai,Pakistan Peoples Party Parliamentarians,2514.0,0.042768194,5.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,9fvB3SDUmT,Abdul Khaliq,Independents,622.0,0.010581471,6.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,2tyrA7OKB6,Muhammad Amin Khan Jogezai,Independents,329.0,0.005596951,7.0,Loss
+2008-02-18,General Election,Contested,NA-264,Old Zhob,Balochistan,National,222330.0,58782.0,3290.0,aWqTDe5yIl,Malik Maula Dad Khan Sherani.,Pakistan Muslim League (Nawaz),219.0,0.00372563,8.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,nD0iJGdKVY,Mir Ahmadan Khan Bugti,Pakistan Muslim League (Qaid-e-Azam),56715.0,0.569473452,1.0,Win
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,J9UULKEJXe,Mir Dostain Khan Domki,Independents,17411.0,0.174823279,2.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,twVqXAgxuW,Mir Jan Muhammad Masuri,Pakistan Peoples Party Parliamentarians,11484.0,0.115310467,3.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,HJDB0wNV8O,Molvi Attaullah,Jamiat Ulema-e Islam (Fazl),7205.0,0.072345168,4.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,Z52Dc1iYyd,Mir Baz Muhamamd Marri,Independents,6315.0,0.063408708,5.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,BAttTb2uAC,Nawabzada Jangaiz Khan Mari,Independents,310.0,0.0031127,6.0,Loss
+2008-02-18,General Election,Contested,NA-265,Old Sibi,Balochistan,National,281867.0,99592.0,1720.0,t3LbD7r8lZ,Muhammad Jan Rind,Muttahida Qaumi Movement,152.0,0.001526227,7.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,TeHKnihT4L,Taj Muhammad Jamali,Pakistan Peoples Party Parliamentarians,76556.0,0.527965132,1.0,Win
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,U3ghktMjde,Mir Zahoor Hussain Khan Khoso,Independents,51648.0,0.356188191,2.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,ToCS8EQp9p,Abdul Rehman Khan Jamali,Pakistan Muslim League (Qaid-e-Azam),6083.0,0.041951146,3.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,fdDvdB3841,Haji Mitha Khan Jattak,Independents,3027.0,0.020875574,4.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,GrSRIJrbOT,Nasrullah Jamote,Independents,1955.0,0.013482573,5.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,nMfzGK9xJ7,Hussain Bakhsh Panhwar,Muttahida Qaumi Movement,1414.0,0.00975159,6.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,ojAq2P3FQQ,Ataullah Khoso,Jamiat Ulema-e Islam (Fazl),1371.0,0.009455042,7.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,yvGORIctCj,Musharraf Ali Khan Koso,Pakistan Muslim League (Functional),998.0,0.006882664,8.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,tdnEVkansW,Mir Abdul Maajid Abro,Independents,556.0,0.00383443,9.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,YUYG6WObFR,Syed Zulfiqar Ali Shah,Independents,276.0,0.001903422,10.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,LHO45ylRm4,Haji Sohrab Khan Khosa,Independents,255.0,0.001758596,11.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,gXnTWHPNEn,Jaffar Jamali,Independents,200.0,0.001379291,12.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,dU15xf1uIv,Molvi Abdul Ghani,Independents,183.0,0.001262052,13.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,2gS7uq7q9J,Molana Abdul Majeed Jattak,Independents,172.0,0.001186191,14.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,NeV2NkHthN,Liaquat Ali Jamali,Pakistan Muslim League (Nawaz),154.0,0.001062054,15.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,2FNEzg3Zf5,Muhammad Dooran Khoso,Independents,154.0,0.001062054,15.0,Loss
+2008-02-18,General Election,Contested,NA-266,Old Nasirabad,Balochistan,National,651356.0,145002.0,6314.0,el4SnThfsi,Dr. Sahib Jan Lashari (Ret),Independents,0.0,0.0,16.0,Loss
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,X5Pb7cw8rX,Mir Hamayun Aziz Kurd,Independents,61249.0,0.549077087,1.0,Win
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,gBYD6ug0mD,Sardar Yar Muhammad Rind,Pakistan Muslim League (Qaid-e-Azam),48275.0,0.432769456,2.0,Loss
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,KQMFoJuCCJ,Shabir Ahmed,Pakistan Peoples Party Parliamentarians,1115.0,0.009995607,3.0,Loss
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,v9fA4UMnYh,Noor Ahmed Jamote,Independents,443.0,0.003971349,4.0,Loss
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,RCJZwA7qs6,Moulana Abdul Samad Shahwani. (R),Jamiat Ulema-e Islam (Fazl),334.0,0.0029942,5.0,Loss
+2008-02-18,General Election,Contested,NA-267,Old Kachhi,Balochistan,National,242024.0,111549.0,2020.0,L3XEBdIcK3,Maj (R) Aamir Aziz Kurd,Independents,133.0,0.001192301,6.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,eWFzptweUm,Dr. Ayatullah Durrani,Pakistan Peoples Party Parliamentarians,19355.0,0.308038769,1.0,Win
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,sZ1pcNKCbF,Sardar Sanaullah Zehri,National Party,15846.0,0.252192319,2.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,UWWKqINdhN,Molana Abdul Ghafoor Hyderi.,Jamiat Ulema-e Islam (Fazl),9546.0,0.151926535,3.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,DEM2kYEM1n,Prince Faisal Daud,Independents,8766.0,0.139512676,4.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,wYoBg0Pky9,Noor Muhammad,Independents,4233.0,0.067369058,5.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,L90brmELo3,Mir Munir Ahmed Shahwani,Independents,3784.0,0.060223131,6.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,1jaw6fPLNr,Sayed Akber Shah,Balochistan National Party (Awami),650.0,0.010344882,7.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,wmt9Gcsyub,Imdad Ali Kurd,Independents,282.0,0.004488087,8.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,irfXSxKtTb,Mir Asim Kurd,Pakistan Muslim League (Qaid-e-Azam),188.0,0.002992058,9.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,eJCGULAI24,Muhammad Rahmdil Haleemi,Independents,116.0,0.001846164,10.0,Loss
+2008-02-18,General Election,Contested,NA-268,Kalat,Balochistan,National,210875.0,62833.0,2682.0,rYNXR90QPU,Agha Umar Ahmed Khan,Independents,67.0,0.001066319,11.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,zG9dT6bmgk,Muhammad Usman,Independents,17609.0,0.300126125,1.0,Win
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,rvoiSLj6XQ,Molvi Qamar-Ud-Din,Jamiat Ulema-e Islam (Fazl),15938.0,0.271645759,2.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,1ghRCZkOAU,Mir Muhammad Ayoub Jattak,National Party,11230.0,0.191403054,3.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,TbdijFTJyb,Mir Abdul Rehman Zehri,Independents,5276.0,0.089923643,4.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,Haz9mxrZ5E,Mir Imran Jattak,Pakistan Peoples Party Parliamentarians,4986.0,0.084980911,5.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,Wh3tzUpj43,Mir Atta-Ur-Rehman Mengal,Pakistan Muslim League (Qaid-e-Azam),1506.0,0.025668121,6.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,qHM9zWbvH0,Mir Muhammad Ashraf,Independents,1189.0,0.020265203,7.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,743ZAHJEVZ,Muhammad Ali Rodeni,Muttahida Qaumi Movement,357.0,0.006084674,8.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,l0fr7TSHlO,Faiz-Ud-Din Sasoli,Independents,253.0,0.004312108,9.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,Vq1b8Ebl3N,Mir Ghulam Hussain Kurd,Independents,164.0,0.0027952,10.0,Loss
+2008-02-18,General Election,Contested,NA-269,Khuzdar,Balochistan,National,186598.0,58672.0,4201.0,kKPijJCV8l,Mir Mehrullah Khan Umrani,Pakistan Muslim League (Nawaz),164.0,0.0027952,10.0,Loss
+2008-02-18,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,247737.0,92398.0,4986.0,NzzRLO5rzD,Jam Mir Muhammad Yousuf,Pakistan Muslim League (Qaid-e-Azam),50476.0,0.546288881,1.0,Win
+2008-02-18,General Election,Contested,NA-270,Awaran-Cum-Lasbela,Balochistan,National,247737.0,92398.0,4986.0,znuChPol0w,Nasrullah Roonjha,Pakistan Peoples Party Parliamentarians,41922.0,0.453711119,2.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,6rpUj0nUJH,Ehsanullah Reki,Pakistan Muslim League (Qaid-e-Azam),22856.0,0.320453143,1.0,Win
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,eGUp06czmk,Lt. Gen.(R) Abdul Qadir,Independents,22175.0,0.310905165,2.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,4E5kNICHuE,Mir Muhammad Shoaib Baloch,Balochistan National Party (Awami),10166.0,0.142532668,3.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,GlTVMStbko,Abdul Aziz Baloch,Jamiat Ulema-e Islam (Fazl),8419.0,0.118038809,4.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,zn0mdjliMs,Sabar Ali Baloch,Pakistan Peoples Party Parliamentarians,6510.0,0.091273625,5.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,84CumhoOq3,Khalid Ahmed Baloch Advocate,Independents,774.0,0.010851887,6.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,UxKHzx0PuL,Mir Muhammad Ismail Muhammad Hassani,Independents,164.0,0.002299366,7.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,FjkmmJ1raA,Attaullah Baloch,Independents,144.0,0.002018956,8.0,Loss
+2008-02-18,General Election,Contested,NA-271,Kharan-Cum-Panjgur,Balochistan,National,201952.0,71324.0,2546.0,nTtsIScacL,Mir Kulyan Khan Reki,Independents,116.0,0.001626381,9.0,Loss
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,ATu9LBua3N,Yaqoob Bizenjo,Balochistan National Party (Awami),61655.0,0.593190171,1.0,Win
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,BxwtOGP60Q,Zubeda Jalal,Independents,33564.0,0.322923281,2.0,Loss
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,HkHoIViJff,Dr. Muhammad Haider Baloch,Pakistan Peoples Party Parliamentarians,3514.0,0.033808617,3.0,Loss
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,qpmUph13Se,Abdul Qadeer,Pakistan Muslim League (Nawaz),2448.0,0.023552502,4.0,Loss
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,WfMfBd6j1X,Syed Sher Jan. (R),Independents,1520.0,0.014624103,5.0,Loss
+2008-02-18,General Election,Contested,NA-272,Kech-Cum-Gwadar,Balochistan,National,316766.0,103938.0,3992.0,f72k62HrIR,Mufti Ahtisham-Ul-Haq Asia Abadi,Jamiat Ulema-e Islam (Fazl),1237.0,0.011901326,6.0,Loss
+2008-02-18,General Election,Contested,PB-1,Quetta-I,Balochistan,Provincial,219078.0,6818.0,65.0,SS1P3wYviM,Tahir Mehmood Khan,Pakistan Peoples Party Parliamentarians,6357.0,0.932384864,1.0,Win
+2008-02-18,General Election,Contested,PB-1,Quetta-I,Balochistan,Provincial,219078.0,6818.0,65.0,M09dfnXUDM,Syed Amanullah Shadizai,Independents,387.0,0.056761514,2.0,Loss
+2008-02-18,General Election,Contested,PB-1,Quetta-I,Balochistan,Provincial,219078.0,6818.0,65.0,NIn2gYFar5,Muhammad Azim Butt,Independents,33.0,0.004840129,3.0,Loss
+2008-02-18,General Election,Contested,PB-1,Quetta-I,Balochistan,Provincial,219078.0,6818.0,65.0,HdVP3gGSVN,Shahid Qazi,Independents,21.0,0.003080082,4.0,Loss
+2008-02-18,General Election,Contested,PB-1,Quetta-I,Balochistan,Provincial,219078.0,6818.0,65.0,VluzrNlyIo,Muhammad Din Baitani,Independents,20.0,0.002933412,5.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,GbIPTPCD2v,Moulana Syed Abdul Bari Agha,Muttahidda Majlis-e-Amal Pakistan,6952.0,0.309721108,1.0,Win
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,rAEXCF1OBd,Syed Haji Muhammad Hanif,Awami National Party,3003.0,0.133787757,2.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,vg3IAXVQs9,Hayatullah Khan,Independents,2353.0,0.104829368,3.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,QjcLLc2tRf,Syed Muhammad Fazal Agha,Independents,2026.0,0.090261071,4.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,LkROStjQXf,Syed Muhammad Fazal Agha,Independents,1913.0,0.085226766,5.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,IQaf5aulLd,Syed Obaidullah,Pakistan Muslim League (Qaid-e-Azam),1449.0,0.064554932,6.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,UCHNCfkSmA,Syed Haji Abdul Ghafar,Independents,1319.0,0.058763254,7.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,NtrdfuuHSB,Mufti Muhammad Naseem,Independents,1115.0,0.049674775,8.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,68EvXVWDqc,Haji Muhammad Yasin Khan Kakar,Independents,682.0,0.030384033,9.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,YaQN500JG8,Noor Khan Tareen,Independents,544.0,0.024235944,10.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,uxDEo7wuUK,Syed Abdul Bari,Independents,297.0,0.013231756,11.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,125g1FitaY,Syed Jahangir Shah,Pakistan Muslim League (Nawaz),291.0,0.012964448,12.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,1Rvsk9G73O,Mir Waise Khan Tareen.,Independents,149.0,0.006638154,13.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,jxRb6bTrya,Syed Manzoor Ahmed,Independents,149.0,0.006638154,13.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,z1l8g8t6WT,Shah Wali Achakzai,Independents,123.0,0.005479818,14.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,LSDIGDftCQ,Malik Saifullah Khan Kakar,Independents,35.0,0.001559298,15.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,I2rutvFKTf,Muhammad Farooq Agha.,Independents,17.0,0.000757373,16.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,e8jrQcFsDj,Muhammad Ikhlas Tareen,Independents,12.0,0.000534616,17.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,B3ewHd07ed,Syed Aziz Ullah,Independents,10.0,0.000445514,18.0,Loss
+2008-02-18,General Election,Contested,PB-10,Pishin-Iii,Balochistan,Provincial,96300.0,22446.0,973.0,bixyrIo23i,Molvi Khan Muhammad Tareen,Independents,7.0,0.00031186,19.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,aYm5LWsLYy,Captain(R) Abdul Khan Achakzai.,Independents,11378.0,0.362275926,1.0,Win
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,A49nQcHYma,Haji Molvi Muhammad Hanif.,Independents,7455.0,0.237367466,2.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,H4vHXzFWcs,Ghuosullah,Muttahidda Majlis-e-Amal Pakistan,7029.0,0.223803611,3.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,lcB0r6KlbT,Naseer Ahmed Bacha Khan Achakzai.,Pakistan Muslim League (Qaid-e-Azam),2660.0,0.084694495,4.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,8UN08fHTMF,Asghar Khan  Achakzai.,Awami National Party,2303.0,0.073327602,5.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,oBquf8ThEP,Haji Salahuddin Khan Achakzai.,Independents,399.0,0.012704174,6.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,KuTFUvRm1S,Attaullah Khan Achakzai.,Independents,118.0,0.003757124,7.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,pq6NCfomT8,Khan Amanullah Khan,Independents,50.0,0.001592002,8.0,Loss
+2008-02-18,General Election,Contested,PB-11,Killa Abdullah-I,Balochistan,Provincial,115906.0,31407.0,390.0,JUG4tjs1UQ,Hidayatullah Khan Achakzai.,Independents,15.0,0.000477601,9.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,jvZbNRtudK,Engineer Zamarak Khan,Awami National Party,32999.0,0.560425937,1.0,Win
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,jSYQdKpGim,Molvi Fateh Muhammad,Muttahidda Majlis-e-Amal Pakistan,24115.0,0.409547909,2.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,ma7tqxfvyX,Kaleem Ullah,Pakistan Peoples Party Parliamentarians,1584.0,0.02690126,3.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,TY3hrpAAnD,Muhammad Dawood Khan Advocate,Independents,70.0,0.001188818,4.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,Dj4IO1WWOr,Fazal Kareem Ziyarmal,Independents,45.0,0.00076424,5.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,Hk91fco9it,Abdul Ali Khan,Pakistan Muslim League (Qaid-e-Azam),42.0,0.000713291,6.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,7ZYgtr4qa6,Amir Jan Kakar,Independents,22.0,0.000373629,7.0,Loss
+2008-02-18,General Election,Contested,PB-12,Killa Abdullah-Ii,Balochistan,Provincial,131810.0,58882.0,507.0,7ZSFK7FP5e,Molvi Habibullah,Independents,5.0,8.49e-05,8.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,tXlYdmYsV7,Haji Muhammad Nawaz,Muttahidda Majlis-e-Amal Pakistan,36761.0,0.626657802,1.0,Win
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,Q467SFfExf,Haji Wali Muhammad,Independents,21069.0,0.359159251,2.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,5GeFOwSuaJ,Muhammad Akram Kakar,Pakistan Peoples Party Parliamentarians,464.0,0.00790972,3.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,77UEPIjV48,Mr. Hidayatullah Achazai,Independents,167.0,0.002846817,4.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,mkw10hYj98,Haji Sahib Jan Kakar.,Awami National Party,104.0,0.001772868,5.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,WKvEZUzaxs,Muhammad Hashim Khan,Pakistan Democratic Party,51.0,0.000869387,6.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,BucgO0CpC8,Haji Asmatullah Kakar,Independents,22.0,0.00037503,7.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,O0HzEKRz1r,Naseebullah Khan Advocate,Independents,20.0,0.000340936,8.0,Loss
+2008-02-18,General Election,Contested,PB-13,Killa Abdullah-Iii,Balochistan,Provincial,144053.0,58662.0,409.0,uKO2PVzvG3,Hameedullah,Independents,4.0,6.82e-05,9.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,mLoVkaS5QQ,Masood Ali Khan,Pakistan Muslim League (Qaid-e-Azam),41801.0,0.588232811,1.0,Win
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,WSgPw3aTUU,Abdul Qadir Luni.,Muttahidda Majlis-e-Amal Pakistan,24916.0,0.350623399,2.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,Sg30BnOPIF,Khalil-U-Rehman Advocate,Pakistan Peoples Party Parliamentarians,3407.0,0.047944049,3.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,jJTGVDt9I0,Muhammad Ashraf.,Pakistan Muslim League (Nawaz),724.0,0.010188286,4.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,4aDetWYGFg,Sardar Muhammad Israr Tareen,Independents,105.0,0.001477583,5.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,nXnbeWyW3A,Qadir Jan Tareen,Independents,62.0,0.000872478,6.0,Loss
+2008-02-18,General Election,Contested,PB-14,Loralai-I,Balochistan,Provincial,110104.0,71062.0,467.0,Uy60GCt1Qz,Faiz Muhammad,Independents,47.0,0.000661394,7.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,5ZkokFXFva,Muhammad Khan Toor.,Pakistan Muslim League (Qaid-e-Azam),8001.0,0.284986643,1.0,Win
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,TZyrbeinPT,Molvi Amir Zaman Bukhari,Muttahidda Majlis-e-Amal Pakistan,7559.0,0.269243099,2.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,52F1JrTWEy,Hafiz Siraj-Ud-Din  Sajid.,Independents,4212.0,0.150026714,3.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,xTTWhAZB2q,Malik Muhibat Ullah Kudezai.,Pakistan Peoples Party Parliamentarians,2101.0,0.074835263,4.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,zCHzsfhsHv,Sarbuland Jogezai,Independents,1868.0,0.066536064,5.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,0pOIn5lDWW,Bismillah Jan.,Awami National Party,1825.0,0.065004452,6.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,iP3f78PmVa,Malik Akhtar Muhammad.,Pakistan Muslim League (Nawaz),1133.0,0.040356189,7.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,LuByYajWUI,Shah Faisal,Independents,794.0,0.028281389,8.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,m3nLYjga1o,Shams-Ud-Din,Independents,337.0,0.012003562,9.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,ybuBvmolBd,Abdul Jabbar Nasir,Independents,77.0,0.002742654,10.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,Kc5bgVu1Ja,Sardar Abdul Hameed Humzazai,Independents,65.0,0.002315227,11.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,mVRPwXYsK3,Dr. Muhammad Amjad Rajpoot.,Independents,46.0,0.001638468,12.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,zJw3JgeHxG,Molana  Abdul Qadir Hamzazai,Independents,36.0,0.00128228,13.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,ajKoz49aIr,Muhammad Afzal,Independents,13.0,0.000463045,14.0,Loss
+2008-02-18,General Election,Contested,PB-16,Loralai-Ii,Balochistan,Provincial,104432.0,28075.0,1062.0,m4j2et81Li,Molvi Sultan Ali Nasar,Independents,8.0,0.000284951,15.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,mownAn0Z2Y,Mrs. Nasreen Rehman Khan Khethran,Pakistan Muslim League (Qaid-e-Azam),12549.0,0.437354058,1.0,Win
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,yBCAzoz379,Mir Shah Jahan Khethran,Independents,7788.0,0.271425086,2.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,MVRzm1TOeU,Mir Tariq Mehmood Khan Khethran,Independents,4442.0,0.154811278,3.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,1q5Ci7hVnH,Ghulam Sarwar,Independents,3430.0,0.119541352,4.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,kwId5DjaQ5,Sardar Mir Baz Muhammad Khan Khethran,Independents,243.0,0.008468965,5.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,PUzEMdrfrR,Abdul Gahani Khethran,Independents,222.0,0.007737079,6.0,Loss
+2008-02-18,General Election,Contested,PB-17,Barkhan.,Balochistan,Provincial,59136.0,28693.0,1600.0,ea7fBzHX0v,Mir Sher Baz Khan Khethran,Independents,19.0,0.000662182,7.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,YgKpjg9rzr,Abdul Khaliq,Independents,4803.0,0.315074784,1.0,Win
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,eSj0vhcaSB,Imran Shah Advocate,Muttahidda Majlis-e-Amal Pakistan,3632.0,0.238257675,2.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,w0LH2spfBk,Lal Gul Kakar,Pakistan Muslim League (Qaid-e-Azam),2113.0,0.138611913,3.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,9acy7Z1EWY,Naseem Babar,Independents,1962.0,0.128706376,4.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,Tv6SQkqir7,Amanullah Khan Heripal,Awami National Party,1232.0,0.080818683,5.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,zR8rndPyTo,Sardar Mehrullah Khan Kibzai,Independents,479.0,0.031422199,6.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,wgGuoeSHmj,Malik Fateh Khan,Independents,445.0,0.029191813,7.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,2dsEJaWbDt,Taj Muhammad Khan,Independents,392.0,0.025715035,8.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,qA8pHdpC8M,Malik Maula Dad Sherani,Pakistan Muslim League (Nawaz),159.0,0.010430333,9.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,QHVJ8UAppz,Noor Dad Khan Sherani,Independents,17.0,0.001115193,10.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,gN1wRy1fGH,Mulvi Abdul-Ur-Rehman,Independents,5.0,0.000327998,11.0,Loss
+2008-02-18,General Election,Contested,PB-18,Sherani-Cum-Zhob,Balochistan,Provincial,55255.0,15244.0,826.0,84SHCRKp1i,Sharaf-Ud-Din (Retried),Independents,5.0,0.000327998,11.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,lX8y8TdGsM,Sheikh Jaffer Khan Mandokhail,Pakistan Muslim League (Qaid-e-Azam),6104.0,0.387064046,1.0,Win
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,dvVaYoDZ3I,Malik Sheikh Muhamamd Yar Khan,Awami National Party,4626.0,0.293341788,2.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,VtlhSgpwNt,Abdul Sattar Mondokhail,Muttahidda Majlis-e-Amal Pakistan,2428.0,0.153963221,3.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,Ej5E9MZ8bh,Moulvi Allah Dad,Independents,2255.0,0.142993025,4.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,IP53OZG1FI,Abdul Hadi,Independents,108.0,0.006848446,5.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,3XAvqCeCua,Habib-Ur-Rehman Kakar,Pakistan Peoples Party Parliamentarians,99.0,0.006277743,6.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,YopFlzm6sW,Akhter Shah,Independents,94.0,0.005960685,7.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,gRWK6LBhYu,Malik Mula Dad Sherani,Pakistan Muslim League (Nawaz),24.0,0.001521877,8.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,kmVcS8feir,Haji Maula Dad,Independents,16.0,0.001014585,9.0,Loss
+2008-02-18,General Election,Contested,PB-19,Zhob,Balochistan,Provincial,68419.0,15770.0,569.0,ddbDs0L5ss,Qazi Muhammad Jaffer,Independents,16.0,0.001014585,9.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,nEH3AZMqOY,Jan Ali Changazai,Independents,5045.0,0.236211256,1.0,Win
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,0nxyhY6h5d,Abdul Khaliq Hazara,Hazara Democratic Party,4183.0,0.195851672,2.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,OnlJZOg96g,Sahar Gul Khan Khilji,Pakistan Muslim League (Nawaz),3522.0,0.164903081,3.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,yfrvY2bPMB,Ghulam Raza,Independents,2328.0,0.10899897,4.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,w3KCcoI11P,Lt. Colonel(R) Muhamamd Younas Changazi,Pakistan Muslim League (Qaid-e-Azam),2225.0,0.104176421,5.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,kTNzhnTZmr,Moluvi Noor Muhammad Bareech,Muttahidda Majlis-e-Amal Pakistan,1805.0,0.084511658,6.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,nSwansqKJ1,Syed Nasir Ali Shah Alias Syed Abbas,Pakistan Peoples Party Parliamentarians,1195.0,0.055950932,7.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,ieYyY3QOjD,Khudai-E-Dad,Awami National Party,317.0,0.014842214,8.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,9tC6OgzE0H,Syed Zahir Shah Zaidi,Independents,268.0,0.012547991,9.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,D1HKMwB1MX,Abdul Ali Hazara,Independents,261.0,0.012220245,10.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,2AcMMGnrHZ,Ghulam Hassan Advocate,Muttahida Qaumi Movement Pakistan,139.0,0.0065081,11.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,sEUhBDmzia,Muhammad Sidique,Independents,23.0,0.00107688,12.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,MeTxhfI2wh,Khair Muhammad,Independents,20.0,0.000936417,13.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,ofQiG4AAur,Arshad Iqbal Jadoon,Independents,18.0,0.000842776,14.0,Loss
+2008-02-18,General Election,Contested,PB-2,Quetta-Ii,Balochistan,Provincial,93553.0,21358.0,720.0,YQ4SCNnYtt,Habibullah Khan,Independents,9.0,0.000421388,15.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,u5JqMcnl1e,Molana Abdul Wassay,Muttahidda Majlis-e-Amal Pakistan,10112.0,0.334358364,1.0,Win
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,kS28RjUcxP,Mulvi Abdul Qadir,Independents,6830.0,0.225837384,2.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,ydAl1qA5uM,Mamoon Khan Kakar.,Awami National Party,6238.0,0.206262606,3.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,bhrtbWNijV,Malik Amanullah Mehterzai,Pakistan Muslim League (Qaid-e-Azam),6236.0,0.206196475,4.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,UFy8isYsp2,Engineer Muhammad Naseem,Independents,473.0,0.015639983,5.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,WBoNfuO9yv,Nawabzada Sher Shah Khan Jogezai,Pakistan Peoples Party Parliamentarians,189.0,0.00624938,6.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,76qFCHx5YG,Mohammad Amin Khan Jogezai.,Independents,126.0,0.004166253,7.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,X1bokijDaA,Abdul Hannan Sargarah Advocate,Pakistan Muslim League (Nawaz),20.0,0.00066131,8.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,5oeGiinVsz,Sardar Allah Yar Khan Jogezai,Independents,12.0,0.000396786,9.0,Loss
+2008-02-18,General Election,Contested,PB-20,Killa Saifullah.,Balochistan,Provincial,98656.0,30243.0,1295.0,Pqy8lAe0rf,Ameer Khusro,Independents,7.0,0.000231459,10.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,SrjKY88c88,Mir Muhammad Bakhtiar Khan Domki,Independents,13415.0,0.495951791,1.0,Win
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,10mdVVnewE,Fateh Khan Khajak,Pakistan Muslim League (Qaid-e-Azam),7841.0,0.289881326,2.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,2aoR2NCixx,Abdul Samad Khan,Pakistan Peoples Party Parliamentarians,4781.0,0.1767533,3.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,uBv5MjZvYK,Molvi Attaulah Bangulzai.,Muttahidda Majlis-e-Amal Pakistan,825.0,0.030500203,4.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,N1GI0wa7n2,Sanaullah,Pakistan Muslim League (Nawaz),69.0,0.002550926,5.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,Itog3Jt6ip,Muhammad Jan,Muttahida Qaumi Movement Pakistan,52.0,0.001922437,6.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,ei6p1g393z,Qaiser Khan Luni,Independents,47.0,0.001737587,7.0,Loss
+2008-02-18,General Election,Contested,PB-21,Sibi,Balochistan,Provincial,86291.0,27049.0,716.0,hgPKsH771t,Nawabzada Jangez Khan Marri,Independents,19.0,0.000702429,8.0,Loss
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,bNwnJlVXiN,Sultan Muhammad Tareen.,Awami National Party,3459.0,0.359227334,1.0,Win
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,cSnstoYTNv,Sardar Asad Khan Tareen.,Pakistan Muslim League (Qaid-e-Azam),3146.0,0.326721363,2.0,Loss
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,4wYIGwVFjN,Molvi Muhammad Essa,Muttahidda Majlis-e-Amal Pakistan,2869.0,0.297954097,3.0,Loss
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,2A5xf4amja,Syed Sabir Shah,Pakistan Peoples Party Parliamentarians,116.0,0.012046942,4.0,Loss
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,tngkct8yui,Abdul Majeed,Independents,24.0,0.002492471,5.0,Loss
+2008-02-18,General Election,Contested,PB-22,Harnai-Cum-Sibi,Balochistan,Provincial,42404.0,9629.0,373.0,IkpI5knQZO,Taimoor Shah,Independents,15.0,0.001557794,6.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,eD7PSVjlKE,Mir Shah Nawaz Khan Marri,Independents,6466.0,0.536864829,1.0,Win
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,15zQCPGCR0,Mir Gul Khan Marri,Pakistan Muslim League (Qaid-e-Azam),5037.0,0.418216539,2.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,3r8aye11xs,Moulvi Karim Bakhsh,Muttahidda Majlis-e-Amal Pakistan,302.0,0.025074726,3.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,bscBBw2cy0,Mir Zulfiqar Ali Marri,Independents,86.0,0.007140485,4.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,PR2LlXhdBM,Mir Shereen Khan Marri,Independents,81.0,0.00672534,5.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,XANzMuMmdR,Nawab Zada Janghaiz Marri,Independents,32.0,0.002656925,6.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,QyBPsb5Get,Mir Dost Ali,Independents,26.0,0.002158751,7.0,Loss
+2008-02-18,General Election,Contested,PB-23,Kohlu.,Balochistan,Provincial,57746.0,12044.0,484.0,8mPuJqPBDv,Mir Balakh Sher Marri,Independents,14.0,0.001162405,8.0,Loss
+2008-02-18,General Election,Contested,PB-24,Dera Bugti.,Balochistan,Provincial,95476.0,49380.0,491.0,aJmdzzwR38,Tariq Hussain Massori Bugti,Pakistan Muslim League (Qaid-e-Azam),47972.0,0.971486432,1.0,Win
+2008-02-18,General Election,Contested,PB-24,Dera Bugti.,Balochistan,Provincial,95476.0,49380.0,491.0,a02nxhUqNf,Faqir Mohammad Massori Bugti,Independents,1408.0,0.028513568,2.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,gA64mv3FXd,Mir Nasir Khan Jamali,Pakistan Peoples Party Parliamentarians,27379.0,0.730301414,1.0,Win
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,P648mXihyg,Mir Attaullah Khan,Independents,8915.0,0.237796746,2.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,GtUpixDMWD,Mai Jori,Independents,451.0,0.012029875,3.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,hZXph7tzBm,Hakim Ali,Independents,131.0,0.003494265,4.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,gM7OnbxWcZ,Ali Akbar Jattak,Independents,84.0,0.002240597,5.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,XX0xXHAPgp,Faisal Khan Jamali,Independents,65.0,0.001733796,6.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,QzhWhJ3mVG,Muhammad Zaman,Independents,56.0,0.001493732,7.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,Xs7PbZk6Dk,Qadir Bakhsh,Independents,54.0,0.001440384,8.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,Ayg30LLPj5,Hidyatullah,Independents,48.0,0.001280341,9.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,5lgLTCYNor,Mir Asadullah Khan,Independents,48.0,0.001280341,9.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,8rapWysC4S,Mukhtiar Ali Jamote,Independents,37.0,0.00098693,10.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,dpHHSgEP5H,Nabi Bakhsh Khan,Independents,34.0,0.000906909,11.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,mtb5rNEQZX,Ghulam Haider,Independents,32.0,0.000853561,12.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,WiN4JWnsE1,Umer Ud Din,Independents,30.0,0.000800213,13.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,jUvsbGKqHw,Abdul Hakeem Memon,Muttahidda Majlis-e-Amal Pakistan,24.0,0.000640171,14.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,XagLhHTIse,Muhammad Panah Mastoi,Independents,18.0,0.000480128,15.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,8HWWpSssCk,Noor Muhammad Mosiyani,Independents,16.0,0.00042678,16.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,iVK2aLrlBG,Raja Khan,Independents,16.0,0.00042678,16.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,BTV6wEWEt4,Mehboob Ali,Independents,15.0,0.000400107,17.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,eHqxkSJNVo,Junaid Ali,Independents,14.0,0.000373433,18.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,LOkwJ4oM8F,Abdul Karim,Independents,11.0,0.000293412,19.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,uquIURmkRX,Sikandar Ali Bhatti,Independents,8.0,0.00021339,20.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,g5k0RagS7I,Molana Abdul Majeed Jattak,Independents,4.0,0.000106695,21.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,Zs7yJUOF6M,Khair Jan Baloch,Independents,0.0,0.0,22.0,Loss
+2008-02-18,General Election,Contested,PB-25,Jaffarabad-I.,Balochistan,Provincial,140857.0,37490.0,889.0,vqtYj1Tc5L,Sajjad Ahmed Abro,Independents,0.0,0.0,22.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,CbdxYyiJ3c,Zahoor Hussain Khosa,Independents,12414.0,0.366508222,1.0,Win
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,t2ucfEXx36,Abdul Rehman Khan Jamali,Pakistan Muslim League (Qaid-e-Azam),9561.0,0.282276874,2.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,DsO6kyPWyp,Changez Jamali,Pakistan Peoples Party Parliamentarians,9204.0,0.271736884,3.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,tP44Kdxpye,Mir Hussain Sasooli,Muttahidda Majlis-e-Amal Pakistan,1025.0,0.030261876,4.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,VcHnXwgzaf,Liaqat Ali Jamali,Pakistan Muslim League (Nawaz),666.0,0.019662838,5.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,532C2sdvzq,Niaz Ahmed Lashari,Muttahida Qaumi Movement Pakistan,393.0,0.011602846,6.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,EfJkSTO9cB,Muhammad Israr Khosa,Pakistan Peoples Party (Shaheed Bhutto),270.0,0.007971421,7.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,UYL2OrBQo6,Muhammad Ali,Sunni Tehreek,116.0,0.003424759,8.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,HDQe3jKyQR,Musharaf Ali Khan Khosa,Pakistan Muslim League (Functional),66.0,0.00194857,9.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,L3nu8WGepV,Muhammad Rafiq Bhatti,Independents,42.0,0.001239999,10.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,9GPO1BXgso,Asadullah Khosa,Independents,36.0,0.001062856,11.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,YFQsJ9TNNx,Molana Abdul Majeed Jatak,Independents,36.0,0.001062856,11.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,0wp8IpBgs8,Dr. Azizullah Satankzai,Independents,22.0,0.000649523,12.0,Loss
+2008-02-18,General Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,33871.0,1755.0,BT2SqYeuW8,Jaffar Jamli,Independents,20.0,0.000590476,13.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,lTMh6p1TUq,Mir Saleem Ahmed Khosa,Pakistan Muslim League (Qaid-e-Azam),12278.0,0.43767155,1.0,Win
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,tqe2JLSiEY,Muhammad Doran Khosa,Pakistan Peoples Party Parliamentarians,12001.0,0.427797384,2.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,MCeVsVlsIH,Musharraf Ali Khan Khosa,Pakistan Muslim League (Functional),2452.0,0.087405982,3.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,sNxJim8UMB,Muhammad Hussain Gola,Pakistan Muslim League (Nawaz),508.0,0.01810858,4.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,Xh3bGhjnhh,Hafiz Muhammad Siddiq Bhangar,Muttahidda Majlis-e-Amal Pakistan,450.0,0.016041065,5.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,vMq5JpRTp3,Moria Khan Katohar,Muttahida Qaumi Movement Pakistan,126.0,0.004491498,6.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,Rw5N0ddJvc,Dr. Sahib Jan Lashari,Independents,79.0,0.002816098,7.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,VzwsYiCZ9u,Syed Zulfiqar Ali Shah,Independents,77.0,0.002744804,8.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,nYZMRMUYvc,Shah Muhammad Jamote,Independents,49.0,0.001746694,9.0,Loss
+2008-02-18,General Election,Contested,PB-27,Jaffarabad-Iii,Balochistan,Provincial,97040.0,28053.0,1432.0,WmBFVOQOln,Abdul Fatah Abro,Independents,33.0,0.001176345,10.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,aAmMz2rgmN,Mir Muhammad Saddiq Umrani,Pakistan Peoples Party Parliamentarians,12926.0,0.405343535,1.0,Win
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,iTExdI5ZcR,Izhar Hussain Khosa,Pakistan Muslim League (Qaid-e-Azam),9985.0,0.313117376,2.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,q63CAK1QmK,Mir Abdul Majid Abro,Independents,7089.0,0.222302361,3.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,tERJTriBBU,Mir Shokat Ali Bangulzai (R),Independents,835.0,0.026184578,4.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,6S1trMUHQx,Jansar Khan,Muttahida Qaumi Movement Pakistan,314.0,0.009846656,5.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,dXEUuCwHTW,Mohammad Ishaque,Muttahidda Majlis-e-Amal Pakistan,218.0,0.006836213,6.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,uBNa9wHfI8,Syed Inayat Shah,Independents,116.0,0.003637618,7.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,oBKSTCAiPg,Mir Balach Khan Domki,Independents,91.0,0.002853649,8.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,XT57FkrsbE,Nizam-Ud-Din,Pakistan Muslim League (Nawaz),72.0,0.002257832,9.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,1zKafl34t5,Sanjar Ahmed,Independents,68.0,0.002132397,10.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,W0ynEWNnHH,Abdul Ghani,Independents,53.0,0.001662015,11.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,2BkPLdHYAx,Syed Khadim Hussain Shah,Independents,46.0,0.001442504,12.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,qe6BNQ99VX,Mir Nazar Mohammad Umrani,Independents,32.0,0.001003481,13.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,DinwZBoDLV,Mir Ali Hassan Jamot,Independents,28.0,0.000878046,14.0,Loss
+2008-02-18,General Election,Contested,PB-28,Nasirabad-I,Balochistan,Provincial,137677.0,31889.0,1688.0,50ks0aLLha,Syed Mansoor Hussain Shah,Independents,16.0,0.00050174,15.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,YN11jd8IXC,Mir Muhammad Amin Umrani,Pakistan Peoples Party Parliamentarians,11078.0,0.432025583,1.0,Win
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,xQgwAMF8nj,Mir Abdul Ghafoor Lehri,Pakistan Muslim League (Qaid-e-Azam),10801.0,0.421222994,2.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,nEcFOf0HHe,Syed Akbar Shah,Balochistan National Party (Awami),3315.0,0.129280087,3.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,67fllXL9xc,Mir Ali Hassan Jamoot,Independents,124.0,0.004835816,4.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,SiGvg1Q5Sq,Khalid Mehmood,Muttahidda Majlis-e-Amal Pakistan,79.0,0.003080883,5.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,DPbrdjI6ra,Mir Abdul Basit Mengal,Independents,69.0,0.002690898,6.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,knvUqHf6qj,Sanjar Ahmed,Independents,43.0,0.001676936,7.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,zzsR02AeYl,Abdul Jabbar,Independents,38.0,0.001481944,8.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,Mj2YGNilVd,Abdul Ghani,Independents,30.0,0.001169956,9.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,BC0oyzOfQh,Juria Khan,Independents,30.0,0.001169956,9.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,9BC4fD8Nrr,Muhammad Yuosuf (R),Independents,15.0,0.000584978,10.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,8UpsuLyxLe,Nasrullah Jamoot,Independents,15.0,0.000584978,10.0,Loss
+2008-02-18,General Election,Contested,PB-29,Nasirabad-Ii,Balochistan,Provincial,122074.0,25642.0,1128.0,tlf4fM4liW,Muhammad Dawood Naqshbandi,Independents,5.0,0.000194993,11.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,BSVefI7UHA,Muhammad Ismail Gujar,Pakistan Peoples Party Parliamentarians,3202.0,0.242943854,1.0,Win
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,kJgtiyLJhu,Mir Liaquat Ali Lehri,Independents,2662.0,0.201972686,2.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,LnizD8u6Bu,Naseebullah,Pakistan Muslim League (Qaid-e-Azam),2562.0,0.194385432,3.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,1f8oDfxGNp,Haji Abdul Sadiq,Muttahidda Majlis-e-Amal Pakistan,2213.0,0.167905918,4.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,ibjliUG4su,Abdul Khaliq,Independents,1464.0,0.11107739,5.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,lxdifPKqcJ,Dr. Ali Muhammad  Kakar,Independents,558.0,0.042336874,6.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,PXdzE8wmqC,Naseebullah Khan Advocate,Awami National Party,278.0,0.021092564,7.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,BFtvGEsO25,Muhamamd Anwar Khan Tareen,Muttahida Qaumi Movement Pakistan,181.0,0.013732929,8.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,aaxkwizZGX,Bakhtiar Ahmed,Independents,33.0,0.002503794,9.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,yH81gI115X,Muhammad Akhtar,Balochistan National Party (Awami),14.0,0.001062215,10.0,Loss
+2008-02-18,General Election,Contested,PB-3,Quetta-Iii,Balochistan,Provincial,116615.0,13180.0,470.0,UNdp6w6AdF,Amanullah Kakar,Independents,13.0,0.000986343,11.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,Q5E1NzRAvC,Mir Mohammad Asim Kurd Gailo,Pakistan Muslim League (Qaid-e-Azam),15760.0,0.616491942,1.0,Win
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,jrzEqYuK7W,Mir Gahwar Khan Satakzai,Independents,9207.0,0.360154905,2.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,5ZeiJjXxsG,Sardar Molana Mohammad Wazir-Ul-Qaderi,Pakistan Muslim League (Nawaz),338.0,0.013221718,3.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,FS6pBkPd7V,Shah Zaman Rind,Independents,110.0,0.004302926,4.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,LGl2Fp78rk,Khan Mohammad Abro,Independents,74.0,0.002894696,5.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,6hDRalMFnS,Zain-Ul-Abidin,Independents,59.0,0.002307933,6.0,Loss
+2008-02-18,General Election,Contested,PB-30,Bolan-I,Balochistan,Provincial,66899.0,25564.0,727.0,yGFDD2JlQA,Hashmat Ali,Independents,16.0,0.00062588,7.0,Loss
+2008-02-18,General Election,Contested,PB-31,Bolan-Ii.,Balochistan,Provincial,102920.0,39939.0,523.0,fKrL31eAtB,Sardar Yar Muhammad Khan Rind,Pakistan Muslim League (Qaid-e-Azam),34851.0,0.872605724,1.0,Win
+2008-02-18,General Election,Contested,PB-31,Bolan-Ii.,Balochistan,Provincial,102920.0,39939.0,523.0,84Ws8sfNKz,Noor Ahmed Jamot,Independents,3784.0,0.094744485,2.0,Loss
+2008-02-18,General Election,Contested,PB-31,Bolan-Ii.,Balochistan,Provincial,102920.0,39939.0,523.0,ehCtRteAbt,Pir Bakhsh Jamote,Pakistan Peoples Party Parliamentarians,1214.0,0.030396354,3.0,Loss
+2008-02-18,General Election,Contested,PB-31,Bolan-Ii.,Balochistan,Provincial,102920.0,39939.0,523.0,kzgoKqSnId,Molana Abdul Samad Bangulzai,Muttahidda Majlis-e-Amal Pakistan,90.0,0.002253436,4.0,Loss
+2008-02-18,General Election,Contested,PB-32,Jhal Magsi.,Balochistan,Provincial,73229.0,56560.0,155.0,J6jOc91GKv,Nawabzada Tariq Magsi,Independents,56261.0,0.994713579,1.0,Win
+2008-02-18,General Election,Contested,PB-32,Jhal Magsi.,Balochistan,Provincial,73229.0,56560.0,155.0,zBI8nCZtM9,Muhammad Baqa,Independents,155.0,0.002740453,2.0,Loss
+2008-02-18,General Election,Contested,PB-32,Jhal Magsi.,Balochistan,Provincial,73229.0,56560.0,155.0,GsfhuNAS4M,Muhammad Saif,Pakistan Peoples Party Parliamentarians,144.0,0.002545969,3.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,CHwVvgqlbj,Sardar Sanaullah Khan Zehri,National Party,9452.0,0.568062985,1.0,Win
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,yYqZ772XLd,Muhammad Rahim,Muttahidda Majlis-e-Amal Pakistan,3888.0,0.233667889,2.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,ETVdpz8QtS,Qazi Nazeer Ahmed,Pakistan Peoples Party Parliamentarians,2331.0,0.140092554,3.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,fAYAvZ52LC,Muhammad Usman Advocate,Independents,399.0,0.023979806,4.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,kAeBJSUBfg,Mir Muneer Ahmed Sasoli,Independents,294.0,0.017669331,5.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,ID82AoJSwd,Mir Salah-Ud-Din Zehri,Muttahida Qaumi Movement Pakistan,96.0,0.005769577,6.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,QOGNDYy0vg,Muhammad Anwar (R),Independents,77.0,0.004627682,7.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,AaUijpm7JT,Saadat Hussain (R),Independents,50.0,0.003004988,8.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,mNwLPoZK06,Muhammad Ashraf,Independents,23.0,0.001382295,9.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,OmVzvqKdvG,Mir Murad Khan Sheikh,Pakistan Muslim League (Qaid-e-Azam),21.0,0.001262095,10.0,Loss
+2008-02-18,General Election,Contested,PB-33,Khuzdar-I.,Balochistan,Provincial,58065.0,16639.0,323.0,3br2z16R3F,Binyameen Zehri,Independents,8.0,0.000480798,11.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,RL4OcldbaW,Sardar Muhammad Aslam Bizenjo,Independents,9031.0,0.402164232,1.0,Win
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,DVIcjttKga,Mir Younus Aziz Zehri,Balochistan National Party (Awami),4426.0,0.197096544,2.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,IynXGeOW5V,Molana Faiz Muhammad,Muttahidda Majlis-e-Amal Pakistan,3111.0,0.138537585,3.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,6PzNFwyiNe,Engineer Habib Qadir Zehri,Pakistan Peoples Party Parliamentarians,2171.0,0.096677948,4.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,umVdtZc78A,Sardar Hayat Khan Sajadi,Pakistan Muslim League (Qaid-e-Azam),2032.0,0.090488066,5.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,V94PKweiDN,Agha Sultan Ibrahim,National Party,697.0,0.031038475,6.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,5PL5U6Ayc0,Mir Ghulam Hussain Kurd,Independents,283.0,0.012602423,7.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,oj8JwURmty,Mir Abdul Rehman Zehri,Independents,197.0,0.008772711,8.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,PPMNfqkEbU,Bilal Ahmed Rahi Gungo,Muttahida Qaumi Movement Pakistan,159.0,0.007080513,9.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,ZqbD4vHGP8,Abdul Kareem.,Independents,123.0,0.005477378,10.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,kpAhNXcc91,Irshad Ahmed,Independents,56.0,0.002493766,11.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,ETDCKTpQs7,Mir Mehrullah Umrani,Pakistan Muslim League (Nawaz),42.0,0.001870324,12.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,caf75f5F7t,Muhammad Akber Mengal,Independents,36.0,0.001603135,13.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,daCDtOYHmE,Molvi Muhammad Qasim Qalandrani,Independents,35.0,0.001558603,14.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,clZ0ouwTc1,Abdul Khaliq Ghulamani,Independents,31.0,0.001380477,15.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,yKaLWMEkx8,Engineer Muhammad Rafiq Mengal,Independents,16.0,0.000712504,16.0,Loss
+2008-02-18,General Election,Contested,PB-34,Khuzdar-Ii.,Balochistan,Provincial,75991.0,22456.0,1421.0,2v70ANC2if,Wadera Karim Khan Marri.,Independents,10.0,0.000445315,17.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,cXEx4ejGR9,Abdul Rehman,Independents,8594.0,0.43893968,1.0,Win
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,kxaJFU7Oex,Mir Atta-Ur-Rehman Mengal,Pakistan Muslim League (Qaid-e-Azam),8548.0,0.436590224,2.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,M2aZk5gPgU,Engineer Ali Ahmed Moosiani,Pakistan Peoples Party Parliamentarians,910.0,0.04647837,3.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,EWwM8rlCta,Hussain Ahmed,Muttahidda Majlis-e-Amal Pakistan,743.0,0.037948823,4.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,cxAyI6nx8M,Hafizullah Mengal,Independents,310.0,0.015833291,5.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,BBRwZLr7YO,Kamal-Ud-Din,Independents,166.0,0.008478472,6.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,4bUQ6TCxJ4,Fazal-Ur-Rehman Mengal,National Party,146.0,0.007456969,7.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,drYtr73TbK,Nasrullah Mengal,Independents,120.0,0.006129016,8.0,Loss
+2008-02-18,General Election,Contested,PB-35,Khuzdar-Iii.,Balochistan,Provincial,52542.0,19579.0,1531.0,kPd4XbnVee,Sardar Nasrullah Khan,Independents,42.0,0.002145156,9.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,3WIagwkCZE,Agha Irfan Karim,Independents,6942.0,0.309124104,1.0,Win
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,GOMhwg9sp5,Mir Khalid Humayun Langove,National Peoples Party,5450.0,0.242686022,2.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,KzC5wYNbfq,Sayed Mehmood Shah,Independents,3212.0,0.1430289,3.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,CALDjHOdn4,Mir Saeed Ahmed Langove,Independents,3141.0,0.139867302,4.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,2uvoWkFTiQ,Muhammad Attaullah,Muttahidda Majlis-e-Amal Pakistan,2162.0,0.096272877,5.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,0DgDH9AaoS,Mir Nouroze Khan Zahri,Independents,728.0,0.032417509,6.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,Q46gnf2g9T,Arbab Mir Ahmed,Pakistan Peoples Party Parliamentarians,358.0,0.015941577,7.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,fTLg7olkSq,Mir Meharullah Zehri,National Party,229.0,0.010197266,8.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,zk5jsVAWWB,Muhammad Hanif,Independents,81.0,0.003606893,9.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,k4H2L1GOiK,Mir Attaullah Langove Adv.,Independents,62.0,0.002760832,10.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,yGh9qWwzeW,Muhammad Younas(R),Independents,48.0,0.002137418,11.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,tLlP9RwkKp,Abdul Aziz Mughal,Balochistan National Party (Awami),15.0,0.000667943,12.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,6ORDZGrimu,Muhammad Younas Mughal,Independents,15.0,0.000667943,12.0,Loss
+2008-02-18,General Election,Contested,PB-36,Kalat-I,Balochistan,Provincial,82286.0,22457.0,1268.0,lRGUzWd65E,Zaki Ahmed Baloch.,Independents,14.0,0.000623414,13.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,nFqezUu7tB,Mir Zafar Ullah Khan,Balochistan National Party (Awami),5189.0,0.445484203,1.0,Win
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,U9yhlgFApz,Mir Maqbool Ahmed,Independents,2010.0,0.172561813,2.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,13nMiSU3hr,Prince Faisal Dawood,Independents,1229.0,0.105511676,3.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,jbxFuWeRib,Molvi Abdul Rehman,Muttahidda Majlis-e-Amal Pakistan,1183.0,0.1015625,4.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,2hSZWrLLik,Sibghat Ullah,Independents,999.0,0.085765797,5.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,3fzxs6M71d,Ali Ahmed S/O Muhmmmad Noor,Independents,443.0,0.03803228,6.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,tSuloJIi7V,Zia-Ur-Rehman,Pakistan Peoples Party Parliamentarians,271.0,0.023265797,7.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,yUzWob6jMr,Naeem Ahmed,Independents,213.0,0.018286401,8.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,UNPNy7VOYM,Ali Ahmed S/O Shair Muhammad,Independents,42.0,0.003605769,9.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,Cd0zQ8UcUx,Engineer Muhammad Amin,Independents,26.0,0.002232143,10.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,ew5lCWlB7Z,Mir Shah Passand,Independents,24.0,0.00206044,11.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,XDJkUQof6h,Mir Muhammad Farooq,Independents,13.0,0.001116071,12.0,Loss
+2008-02-18,General Election,Contested,PB-37,Kalat-Ii.,Balochistan,Provincial,38890.0,11648.0,653.0,zZ9vJ7BAQp,Munir Ahmed,Independents,6.0,0.00051511,13.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,ysKMhE7em7,Nawab Muhammad Aslam Khan Raisani,Pakistan Peoples Party Parliamentarians,11162.0,0.370326134,1.0,Win
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,2mf7tXx8dI,Nawab Muhammad Khan Shahwani.,Independents,8696.0,0.288510667,2.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,jkTJdDMLdP,Sardar Mir Ahmed Khan Bangulza.,Independents,7115.0,0.236057198,3.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,9PDiauHuBG,Mufti Abdul Sattar Afi Anna,Muttahidda Majlis-e-Amal Pakistan,2986.0,0.099067715,4.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,e8cXHKQrWO,Mir Ghulam Mustafa Raisani,Independents,53.0,0.001758402,5.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,Wlz1j30cM9,Mir Mujeeb-Ur-Rehman,Independents,50.0,0.00165887,6.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,bsS9I08iK7,Mir Abdul Salam,Independents,32.0,0.001061677,7.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,TEh6IGvlXI,Mir Dawood Khan Bangulzai,Independents,24.0,0.000796258,8.0,Loss
+2008-02-18,General Election,Contested,PB-38,Mastung-Cum-Quetta.,Balochistan,Provincial,93274.0,30141.0,741.0,OcxB4LuuD5,Sardarzada Mir Hussain Ahmed Bangulzai,Independents,23.0,0.00076308,9.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,jFy1yrE5QW,Mir Amanullah,Pakistan Muslim League (Qaid-e-Azam),11683.0,0.495777636,1.0,Win
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,xoudR9PGhl,Mir Rahmatullah Khan Notezai,Pakistan Peoples Party Parliamentarians,6839.0,0.290218544,2.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,v9Q0bKMzRr,Sardar Atif Ali Khan Sanjrani,Pakistan Muslim League (Nawaz),2848.0,0.120857203,3.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,hnP3B7vSDf,Haji Malik Karim Dad,Independents,1208.0,0.051262466,4.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,19iJ6eCGHE,Molvi Muhammad Alam,Muttahidda Majlis-e-Amal Pakistan,736.0,0.03123276,5.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,VoB18xws0E,Arz Muhammad,Independents,110.0,0.00466794,6.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,m1rSTifduI,Shabir Ahmed,Independents,78.0,0.003309994,7.0,Loss
+2008-02-18,General Election,Contested,PB-39,Chagai-I,Balochistan,Provincial,56914.0,23565.0,1322.0,UslQX5LT8I,Haji Nasir Khan Qoum Sasoli,Independents,63.0,0.002673456,8.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,5dFHnQldTP,Muhammad Younas Mullazai,Pakistan Peoples Party Parliamentarians,3104.0,0.223534495,1.0,Win
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,P3rnOk9QjR,Mir Abid Hussain Lehri,Pakistan Muslim League (Qaid-e-Azam),2633.0,0.18961544,2.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,TZHr0cKqZD,Muhammad Noor Khan Nasir,Pakistan Muslim League (Nawaz),1515.0,0.109102693,3.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,hu1fLXZukL,Muhamamd Hashim Khan Barrach,Independents,1470.0,0.105862019,4.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,4NUCZGJTx9,Muhammad Farooq Longov,Independents,1142.0,0.082241106,5.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,QQHnMoe8Lo,Muhammad Iqbal Langov,Independents,1045.0,0.075255653,6.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,IMnQCN7c4l,Molvi Muhammad Qasim Shabovi,Muttahidda Majlis-e-Amal Pakistan,727.0,0.05235489,7.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,OeReVy2Jse,Malik Khuda Bukhsh Langov,Independents,546.0,0.039320179,8.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,Pp90x1zw73,Abdul Ghaffar Rind,Independents,423.0,0.030462336,9.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,3YppOlk65P,Mir Zarak Khan Zehri,Independents,319.0,0.022972778,10.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,bG1G3GiJ3w,Muhamamd Hussain Agha Advocate,Awami National Party,277.0,0.019948149,11.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,Rs44RP2NEx,Mrs. Munwar Munir,Independents,243.0,0.01749964,12.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,urSSc2Y0jH,Dr.siraj Ahmed Yousafzai,Muttahida Qaumi Movement Pakistan,171.0,0.012314561,13.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,wSb1ivZ1Ld,Dr.muhammad Aslam Kakar,Balochistan National Party (Awami),138.0,0.009938067,14.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,M6z36vS6Bo,Muhamamd Idress,Independents,42.0,0.003024629,15.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,kzobfJ5F86,Farooq Samuel Bhatti,Independents,40.0,0.002880599,16.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,HYwpbmtA0B,Nadeem Khan Yousafzai,Independents,28.0,0.002016419,17.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,3C1KcpX7Dl,Shaheen Masih,Independents,11.0,0.000792165,18.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,azRwUTE8sT,Abdul Bari Barrach,Independents,9.0,0.000648135,19.0,Loss
+2008-02-18,General Election,Contested,PB-4,Quetta-Iv,Balochistan,Provincial,90173.0,13886.0,518.0,ARAMcsz9FD,Agha Umer Ahmed Khan Bangulzai.,Independents,3.0,0.000216045,20.0,Loss
+2008-02-18,General Election,Contested,PB-40,Nushki,Balochistan,Provincial,58288.0,21411.0,841.0,JdRsgY9ilZ,Muhammad Rahim,Pakistan Muslim League (Qaid-e-Azam),9784.0,0.456961375,1.0,Win
+2008-02-18,General Election,Contested,PB-40,Nushki,Balochistan,Provincial,58288.0,21411.0,841.0,gGzOkpmn8Y,Aurangzaib,Pakistan Peoples Party Parliamentarians,8109.0,0.378730559,2.0,Loss
+2008-02-18,General Election,Contested,PB-40,Nushki,Balochistan,Provincial,58288.0,21411.0,841.0,VQDQ4Ghwbj,Molvi Ghulam Haider Noshkvi,Muttahidda Majlis-e-Amal Pakistan,2922.0,0.136471907,3.0,Loss
+2008-02-18,General Election,Contested,PB-40,Nushki,Balochistan,Provincial,58288.0,21411.0,841.0,wZaI5gFwYP,Mehboob Ali Muhammad Hassani Advocate,Qaumi Watan Party,315.0,0.014712064,4.0,Loss
+2008-02-18,General Election,Contested,PB-40,Nushki,Balochistan,Provincial,58288.0,21411.0,841.0,BLmdQCYI8I,Pir Bakhsh,Muttahida Qaumi Movement Pakistan,281.0,0.013124095,5.0,Loss
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,CijDnYtNq8,Mir Qamber Ali Ghicki,Independents,13571.0,0.597973122,1.0,Win
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,zhRTK7AF2s,Abdul Quddoos Bezenjo,Pakistan Muslim League (Qaid-e-Azam),8456.0,0.372593082,2.0,Loss
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,q7zzQS4Zcl,Mohammad Akram,Pakistan Peoples Party Parliamentarians,534.0,0.023529412,3.0,Loss
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,wjrDVLMcNt,Khuda Bakhsh Mirwani,Independents,62.0,0.002731879,4.0,Loss
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,ighyXRPla0,Abdul Salam,Independents,45.0,0.001982816,5.0,Loss
+2008-02-18,General Election,Contested,PB-41,Awaran.,Balochistan,Provincial,58004.0,22695.0,2187.0,b3AmhhEiv2,Hafiz Abdul Khaliq,Muttahidda Majlis-e-Amal Pakistan,27.0,0.001189689,6.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,xMRLocvWE3,Ghulam Jan,Balochistan National Party (Awami),5452.0,0.389595541,1.0,Win
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,qSfg0dYWRm,Nasir Ali,Independents,4635.0,0.331213377,2.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,HbVD5E8wMF,Abdul Ghaffar,Independents,1853.0,0.132413892,3.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,VU5cz53GFI,Ehtisham-Ul-Haq,Muttahidda Majlis-e-Amal Pakistan,1619.0,0.11569244,4.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,kLnEqPvw5L,Shah Hussain,Pakistan Muslim League (Qaid-e-Azam),390.0,0.027869087,5.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,thFX1NJtBY,Muhammad Umar (R),Independents,33.0,0.002358153,6.0,Loss
+2008-02-18,General Election,Contested,PB-42,Panjgur-I.,Balochistan,Provincial,40871.0,13994.0,415.0,vLvSqjo0aM,Noor Ahmad (R),Independents,12.0,0.00085751,7.0,Loss
+2008-02-18,General Election,Contested,PB-43,Panjgur-Ii,Balochistan,Provincial,33283.0,12673.0,254.0,3Yc2Crf12C,Assadullah Baloch,Balochistan National Party (Awami),6335.0,0.499881638,1.0,Win
+2008-02-18,General Election,Contested,PB-43,Panjgur-Ii,Balochistan,Provincial,33283.0,12673.0,254.0,flspLYvoVx,Attaullah Baloch,Independents,6131.0,0.483784424,2.0,Loss
+2008-02-18,General Election,Contested,PB-43,Panjgur-Ii,Balochistan,Provincial,33283.0,12673.0,254.0,NTw1zcMZLU,Shah Hussain (R),Pakistan Muslim League (Qaid-e-Azam),186.0,0.014676872,3.0,Loss
+2008-02-18,General Election,Contested,PB-43,Panjgur-Ii,Balochistan,Provincial,33283.0,12673.0,254.0,PTv8OjMknK,Haji Nazeer Ahmed(Retired),Independents,21.0,0.001657066,4.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,nb573YoE3E,Peer Abdul Qadir Al-Gillani,Independents,16911.0,0.448901041,1.0,Win
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,T9Ma5207aq,Ghulam Akber Lasi,Pakistan Peoples Party Parliamentarians,13347.0,0.354294967,2.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,U9ue1HOlTW,Sheikh Ghulam Akber,Independents,4635.0,0.123035676,3.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,CX5t3h0kTU,Gul Muhammad Umrani,Independents,1685.0,0.04472818,4.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,tsUZUoWQHI,Ghulam Sarwar Jumma Khan Roonjho,Pakistan Muslim League (Nawaz),594.0,0.015767679,5.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,DY69p6dpGq,Moulana Muhammad Umer Adil,Muttahidda Majlis-e-Amal Pakistan,409.0,0.01085687,6.0,Loss
+2008-02-18,General Election,Contested,PB-44,Lasbela-I.,Balochistan,Provincial,83185.0,37672.0,888.0,YTxNKhKZ4r,Muhammad Qasim Roonjho,Independents,91.0,0.002415587,7.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,qWHQoTkh8Y,Muhamamd Aslam Bhootani,Pakistan Muslim League (Qaid-e-Azam),25805.0,0.65710066,1.0,Win
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,pfksKfRFp6,Abdul Kareem Lasi,Pakistan Peoples Party Parliamentarians,11771.0,0.29973772,2.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,MYNhiAFJL0,Muhammad Yaqoob Sasoli,Muttahidda Majlis-e-Amal Pakistan,1419.0,0.036133534,3.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,CY5dBDIsM6,Bashir Ahmed,Pakistan Peoples Party (Shaheed Bhutto),140.0,0.003564972,4.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,fCs28EnFIJ,Irfan Saleh Bhootani,Independents,100.0,0.002546408,5.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,Ae19CZCaw3,Nazeer Ahmed Askani,Independents,36.0,0.000916707,6.0,Loss
+2008-02-18,General Election,Contested,PB-45,Lasbela-Ii.,Balochistan,Provincial,108195.0,39271.0,1629.0,pVBz6HS3NG,Jawaid Mushtaq. (R),Independents,0.0,0.0,7.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,FNiiuFWVDa,Mir Shoaib Nosherwani,Pakistan Muslim League (Qaid-e-Azam),6473.0,0.303426616,1.0,Win
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,M15cCAyiWV,Lt. Gen.(R) Abdul Qadir.,Independents,5054.0,0.236909952,2.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,jb5iqROfR1,Muhammad Ismail Pirakzai.,Muttahidda Majlis-e-Amal Pakistan,4802.0,0.225097267,3.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,mCbbvjGYUG,Dr. Sardar Muhammad Hussain.,Pakistan Peoples Party Parliamentarians,3264.0,0.153002391,4.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,52Heaxv5GI,Mir Muhammad Akram Baloch,Independents,1185.0,0.055547743,5.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,nAczPV6nd1,Molvi Abdul Razzaq. (R),Independents,183.0,0.008578259,6.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,DqFWN5zc0a,Abbas Khan,Independents,121.0,0.005671964,7.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,1IcjqOmPyx,Muhammad Ashraf Qambarani Advocate,Independents,109.0,0.005109455,8.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,eBpNjde9Ca,Mir Noor Ahmed Kabdani,Independents,68.0,0.00318755,9.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,ufKq90wNC7,Khalid Ahmed Baloch Advocate,Independents,36.0,0.001687526,10.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,loSem0XAcQ,Mir Khuda Nazar Hotakani (R),Independents,22.0,0.001031266,11.0,Loss
+2008-02-18,General Election,Contested,PB-46,Kharan,Balochistan,Provincial,65136.0,21333.0,904.0,2ARGp3hQzt,Mir Shah Khalid Reki,Independents,16.0,0.000750012,12.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,3D5EwRGbiv,Mir Habib-Ur-Rehman Muhammad Hasani,Pakistan Muslim League (Qaid-e-Azam),14746.0,0.609338843,1.0,Win
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,bXl1jP2TTK,Zabid Ali Raki,Independents,6676.0,0.275867769,2.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,YEiVx2n2Jw,Liaqat Ali Mirwani,Independents,1685.0,0.069628099,3.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,IMLCu4KNxe,Abdul Majeed Kanagei,Muttahidda Majlis-e-Amal Pakistan,600.0,0.024793388,4.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,pnEdeJwgXJ,Dr. Sardar Muhammad Hussain,Pakistan Peoples Party Parliamentarians,315.0,0.013016529,5.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,c9mPMJAJmv,Ahmed Nawaz,Independents,74.0,0.003057851,6.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,kpP1cv1Tcs,Mir Inayat Baloch,Independents,50.0,0.002066116,7.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,PNQDUIx3WQ,Habibullah Baloch,Independents,46.0,0.001900826,8.0,Loss
+2008-02-18,General Election,Contested,PB-47,Washuk,Balochistan,Provincial,62662.0,24200.0,848.0,mZETlAk485,Saif-Ur-Rehman,Independents,8.0,0.000330579,9.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,MAEOx29bfv,Syed Ahsan Shah,Balochistan National Party (Awami),24803.0,0.777401661,1.0,Win
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,qZTBWLGIgV,Dr. Muhammad Haider Baloch,Independents,4599.0,0.144146685,2.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,2TeJxWVcTl,Shay Zafarullah,Pakistan Peoples Party Parliamentarians,1759.0,0.055132424,3.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,TVmrwSfRVc,Moulvi Kkhalid Walid Saifi,Muttahidda Majlis-e-Amal Pakistan,457.0,0.014323774,4.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,m0yof8hRV7,Zubaida Jalal,Independents,111.0,0.003479079,5.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,3EM1iKrZza,Meherullah Gichki,Independents,54.0,0.001692525,6.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,WCQHN8HzFk,Muhammad Jan,Independents,32.0,0.001002978,7.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,srYSmGPevm,Khurshid Ahmed,Independents,26.0,0.000814919,8.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,3WdoMAsi1j,Rahima Jalal,Independents,26.0,0.000814919,8.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,UlM1H24nRT,Muhammad Younas,Independents,18.0,0.000564175,9.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,gonolEUAWF,Azizullah,Independents,10.0,0.00031343,10.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,C1y0aL6Ayx,Taj Muhammad,Independents,8.0,0.000250744,11.0,Loss
+2008-02-18,General Election,Contested,PB-48,Kech-I.,Balochistan,Provincial,78279.0,31905.0,528.0,vDczsVm1bX,Captain Sabir Ali Bezenjo,Independents,2.0,6.27e-05,12.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,eurhf6URLd,Zahoor Ahmed,Independents,8470.0,0.542184099,1.0,Win
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,w3uZweErgH,Ghulam Jan,Pakistan Muslim League (Qaid-e-Azam),3145.0,0.201318653,2.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,RcYQvlEole,Dr. Muhammad Ismail Buledi,Muttahidda Majlis-e-Amal Pakistan,2166.0,0.138650621,3.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,Tc2wnrIgu8,Manzoor Ahmed Gichki,Pakistan Peoples Party Parliamentarians,1354.0,0.086672641,4.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,dn3R8aRsPF,Major Fazal Kareem,Independents,203.0,0.012994495,5.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,p8gTt5tHYX,Shah Fiasal,Independents,81.0,0.005184996,6.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,7k1Dq9kQeS,Dr. Muhammad Hayat,Independents,66.0,0.004224811,7.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,dxZKxov9ic,Alla Bakhsh,Independents,65.0,0.004160799,8.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,6OMXrXtruW,Moulvi Abdul Khaliq,Independents,39.0,0.002496479,9.0,Loss
+2008-02-18,General Election,Contested,PB-49,Kech-Ii.,Balochistan,Provincial,68612.0,15622.0,525.0,5O8APBdaUn,Muhammad Azeem,Independents,33.0,0.002112406,10.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,WPYXUgWwil,Haji Ali Madad Jattak,Pakistan Peoples Party Parliamentarians,3971.0,0.202726159,1.0,Win
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,cMKcXrpK2a,Molana Shareef Ullah Bangulzai,Muttahidda Majlis-e-Amal Pakistan,2513.0,0.128292832,2.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,GYw4DgVZdx,Malik Naseeb Ullah Shahwani,Independents,2088.0,0.106595875,3.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,o4kDPwLEQP,Mir Hussain Ahmd Bangulzai,Independents,1888.0,0.096385542,4.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,9Iv9lTl9tO,Mir Muhammad Usman Pirkani,Independents,1734.0,0.088523586,5.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,qUmqKWtTR2,Abdul Manan Barach,Independents,1504.0,0.076781703,6.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,KxMasKYo2L,Sardar Fateh M. Hasani,Pakistan Muslim League (Qaid-e-Azam),1208.0,0.06167041,7.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,0Re3cjqTDL,Muhammad Ashraf Kakar,Independents,1085.0,0.055391056,8.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,BelMkSMUIp,Jamil Ahmed Rind.,Independents,946.0,0.048294874,9.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,9Fs6WJuGKB,Mir Muhammad Imran Bungalzai,Independents,893.0,0.045589136,10.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,r6AhKrsCZ3,Mir Abdul Rauf Kurd,Independents,892.0,0.045538085,11.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,CmzK6ZvjID,Mir Wali Muhammad Qlandrani,Independents,432.0,0.022054319,12.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,blEAALmeMW,Abdul Malik Khan Barach,Independents,97.0,0.004952011,13.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,1wxxMaesOH,Mir Ahmed Shahwani,Independents,70.0,0.003573616,14.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,zLb0aaIwxl,Gul Noor Bugti,Independents,61.0,0.003114152,15.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,Y8bdazQ2v4,Ali Asghar Bangulzai,Independents,45.0,0.002297325,16.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,nhgEg0Svlo,Arbab Abdul Shakur,Muttahida Qaumi Movement Pakistan,44.0,0.002246273,17.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,7QGqaaZHUh,Engineer Noor Ahmed Khan,Awami National Party,36.0,0.00183786,18.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,zD9J9SKcP5,Syed Habib Ullah Shah,Independents,20.0,0.001021033,19.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,CUdGZ3Ab1f,Abdul Hakeem Qambrani,Independents,15.0,0.000765775,20.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,A2ycWsNED3,Nazar Muhamamd Mengal,Independents,15.0,0.000765775,20.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,7BMC610hH7,Prince Faisal Daud,Independents,12.0,0.00061262,21.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,KKCG6h3Thw,Mir Wali Muhammad Lehri.,National Party,10.0,0.000510517,22.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,KDocQdBKaX,Iltaf Qadir Shahwani,Independents,7.0,0.000357362,23.0,Loss
+2008-02-18,General Election,Contested,PB-5,Quetta-V,Balochistan,Provincial,123521.0,19588.0,750.0,RUbLlrTQ4B,Abdul Ghafar Bungalzai,Pakistan Freedom Party,2.0,0.000102103,24.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,p6eNUUpKnz,Muhammad Asghar,Balochistan National Party (Awami),15548.0,0.593820418,1.0,Win
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,ujvLoTK2Sn,Dr. Barkat Ali.,Pakistan Peoples Party Parliamentarians,5522.0,0.210900202,2.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,dz9DD2rKqP,Khalid Baloch,Independents,3333.0,0.127296337,3.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,ON8889cohc,Nadir Shah (Quddus),Independents,1674.0,0.063934614,4.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,Qz0omMMhVy,Sameer Ali,Independents,52.0,0.001986021,5.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,mPcJeFv63q,Barkat Ali Rind,Independents,30.0,0.001145782,6.0,Loss
+2008-02-18,General Election,Contested,PB-50,Kech-Iii,Balochistan,Provincial,85962.0,26183.0,363.0,soH0vZLjTf,Mufti Ihtisham-Ul-Haq Asia Abadi,Muttahidda Majlis-e-Amal Pakistan,24.0,0.000916625,7.0,Loss
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,Z9iAep5fMS,Mir Hammal Kalmati,Pakistan Muslim League (Qaid-e-Azam),15343.0,0.467688837,1.0,Win
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,YpDQlpSSqD,Ashraf,Independents,8246.0,0.251356459,2.0,Loss
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,GpylZc1XQ4,Syed Mayar Jan Noori,Independents,6953.0,0.211942937,3.0,Loss
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,QHMMiTzkyi,Abdul Rahim Zafar,Pakistan Peoples Party Parliamentarians,1959.0,0.059714686,4.0,Loss
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,eHd0oCLWFs,Mir Chakar Saeed,Independents,195.0,0.005944035,5.0,Loss
+2008-02-18,General Election,Contested,PB-51,Gwadar.,Balochistan,Provincial,83913.0,32806.0,1229.0,mUdgj7FI09,Haji Muhamamd Anwar,Independents,110.0,0.003353045,6.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,fSkX31e9Kd,Ainullah Shams.,Muttahidda Majlis-e-Amal Pakistan,5441.0,0.154864234,1.0,Win
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,6YYZ9a3jWW,Khan Naseer Ahmad Khan Kakar,Pakistan Muslim League (Qaid-e-Azam),4478.0,0.127454887,2.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,qjcNcei7hk,Malik Atta Muhammad Shahwani,Pakistan Peoples Party Parliamentarians,4068.0,0.115785279,3.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,MxSj37F0LF,Syed Abdul Wahab,Independents,3525.0,0.100330165,4.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,wV1G3Z3PkK,Hussain Ali Yousafi,Hazara Democratic Party,3401.0,0.09680082,5.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,CA7al8OArO,Malik Muhammad Naeem Khan Bazai,Independents,2941.0,0.083708089,6.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,O7B2SBFZ8C,Dr. Hayatullah,Awami National Party,2729.0,0.077674048,7.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,6Nda2cqYri,Ali Muhammad.,Independents,2574.0,0.073262367,8.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,FTUtk8MCPf,Syed Abbass Shah,Independents,2511.0,0.071469232,9.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,aPwXpk5APn,Sardar Muhammad Akbar Khan,Pakistan Muslim League (Nawaz),1241.0,0.03532191,10.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,FeT5Qy7PHe,Lt.col.(R)Muhammad Younas Changizai,Independents,973.0,0.027693972,11.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,5GxVT5tciY,Muhammad Arif Baloch,Balochistan National Party,350.0,0.00996186,12.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,AcsdsEm0sf,Muhammad Qasim Langove,Independents,114.0,0.00324472,13.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,LQPdld60pv,Haji Abdul Qadeer Yasinzain.,Independents,103.0,0.002931633,14.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,GVy7ZH5MVd,Abdul Majeed Khilji.,Muttahida Qaumi Movement Pakistan,97.0,0.002760858,15.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,g1AN6ch4X5,Naseebullah Khan Kasi Advocate,Independents,79.0,0.002248534,16.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,bR759H76ag,Engineer Dilbar Khan Nasir,Independents,67.0,0.001906985,17.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,V7zcfIse7d,Muhammad Ayaz Khan  Barech Advocate,Independents,53.0,0.00150851,18.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,iN2bHSCeCr,Muhammad Farooq Muhammad Hassani,Independents,48.0,0.001366198,19.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,zbmYUt8Gsf,Attaullah Khan.,Independents,46.0,0.001309273,20.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,PugKOIiXKZ,Abida Kakar,Independents,45.0,0.001280811,21.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,TVpNDoYHWq,Syed  Attaullah Khan,Independents,36.0,0.001024648,22.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,Ko5QYJD3cG,Abdul Ali Hazara.,Independents,35.0,0.000996186,23.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,uCRvKAGCGY,Farida Kakar.,Independents,25.0,0.000711561,24.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,eTl6rTykHr,Abdul Haleem Nasar,Independents,24.0,0.000683099,25.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,BdVxx0Grc9,Muhammad Abbass,Independents,21.0,0.000597712,26.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,kElOMmeZPB,Dr. Habibullah,Independents,20.0,0.000569249,27.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,zqDGbZNLgg,Rubina Jabeen Butt Advocate,Independents,18.0,0.000512324,28.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,qOu6BWYvQb,Habibullah,Independents,17.0,0.000483862,29.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,WmULHQgaWL,Syed Abbass Ali.,Independents,13.0,0.000370012,30.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,pFp48Lh9NC,Nadir Khan Khilji,Independents,12.0,0.000341549,31.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,6PmRhLr6NS,Muhammad Qasim Khan,Independents,10.0,0.000284625,32.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,nSyGGdk9o7,Syed Mehmood Kazmi,Independents,10.0,0.000284625,32.0,Loss
+2008-02-18,General Election,Contested,PB-6,Quetta-Vi.,Balochistan,Provincial,154922.0,35134.0,1205.0,QmbkUdmCcN,Haji Ghulam Abbass,Independents,9.0,0.000256162,33.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,rK3j7qVp9D,M. Abdul Samad Akund Zada,Muttahidda Majlis-e-Amal Pakistan,9947.0,0.47815219,1.0,Win
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,hkJYdSdlGB,Noor Muhammad Dumar,Pakistan Muslim League (Qaid-e-Azam),7506.0,0.360813344,2.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,iKXu57Op5w,Fareed Ullah Duamr,Balochistan National Party (Awami),2915.0,0.140124021,3.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,m6UyDUTkt6,Noor Zaman Advocate,Independents,183.0,0.008796808,4.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,UpOCJcuM1J,Mehrab Khan Kakar.,Pakistan Peoples Party Parliamentarians,127.0,0.006104889,5.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,BZ7C29KHqC,Jameel Ahmed,Awami National Party,46.0,0.00221122,6.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,ByvVw83Y28,Adam Khan,Azad Pakistan Party,41.0,0.00197087,7.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,ynJ02Sseta,Abdul Sattar Kakar.,Pakistan Rah-e-Haq Party,23.0,0.00110561,8.0,Loss
+2008-02-18,General Election,Contested,PB-7,Ziarat.,Balochistan,Provincial,66808.0,20803.0,580.0,K5Vyzl1lHE,Abdul Majeed Advocate,Independents,15.0,0.00072105,9.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,qhmoAx7I5u,Syed Matiullah Agha.,Muttahidda Majlis-e-Amal Pakistan,7449.0,0.447710061,1.0,Win
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,I6VGrSKplC,Haji Nizamuddin,Awami National Party,4637.0,0.278699363,2.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,CA6wmMEzHC,Asmatullah Khan Tareen.,Pakistan Muslim League (Qaid-e-Azam),2065.0,0.124113475,3.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,XjmCWEyBfA,Syed Habibullah,Independents,1814.0,0.109027527,4.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,XRTZhmD3Dj,Attaullah Khan Kakar.,Independents,286.0,0.017189566,5.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,HPa8mDVHRL,Dr. Gohar Ejaz Khan Kakar.,Independents,176.0,0.010578194,6.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,CMZ37dzxTd,Muhammad Ismail Advocate,Pakistan Peoples Party Parliamentarians,81.0,0.004868374,7.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,6O0X0vzgrX,Mir Wise Khan Tareen.,Independents,47.0,0.002824859,8.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,fKxxYdFLFk,Muhammad Naseem.,Independents,32.0,0.001923308,9.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,l7YcwjyzdI,Dad Muhammad Kakar,Independents,20.0,0.001202068,10.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,6j07MJ8zqY,Syed Iftikhar Ali,Independents,11.0,0.000661137,11.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,vMUM4gdTAz,Awarangzaib Kakar,Punjab National Party,7.0,0.000420724,12.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,ilRUdB4fGm,Nasrullah Bazai.,Independents,7.0,0.000420724,12.0,Loss
+2008-02-18,General Election,Contested,PB-8,Pishin-I,Balochistan,Provincial,69487.0,16638.0,476.0,37a7XABKNB,Molvi Muhammad Noman.,Independents,6.0,0.00036062,13.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,NpJMK0bVB6,Asfand Yar Khan Kakar,Pakistan Peoples Party Parliamentarians,15182.0,0.561942481,1.0,Win
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,UjaHcEevl1,Abdul Wahid Saddiqui,Muttahidda Majlis-e-Amal Pakistan,10512.0,0.389088352,2.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,Rf9rkuchj2,Mufti Abdul Wajid,Independents,528.0,0.019543251,3.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,aoA2q9Xbtf,Dr. Gohar Ejaz Khan Kakar,Independents,161.0,0.005959211,4.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,yJJreyDfVU,Ajmal Khan,Independents,147.0,0.005441019,5.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,N3yvhBGfPf,Muhammad Rasool,Independents,121.0,0.004478662,6.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,ZWOfOeIYvu,Shakeel Ahmed,Independents,84.0,0.003109153,7.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,cFMR2bS5xO,Syed Bahauddin Shah,Independents,69.0,0.002553948,8.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,TDYOrKwwYB,Sajjad Haider Panezai,Independents,45.0,0.001665618,9.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,rkO14LGKo1,Amir Muhammad Kakar,Independents,42.0,0.001554577,10.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,kW0azr6xj7,Malik Baz Muhammad Khan Kakar,Independents,42.0,0.001554577,10.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,SVMaMZqeC2,Farid Ahmed,Independents,29.0,0.001073398,11.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,FcwrSip62p,Muhammad Naseem Khan Kakar,Independents,27.0,0.000999371,12.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,4L58G1UN45,Muhammad Hanif Kakar,Independents,15.0,0.000555206,13.0,Loss
+2008-02-18,General Election,Contested,PB-9,Pishin-Ii,Balochistan,Provincial,65641.0,27017.0,1157.0,FkE6ox10Cs,Haji Abdul Hadi Kakar,Awami National Party,13.0,0.000481179,14.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,Q9RuZQ8gFE,Abdul Rehman Jamali,Pakistan Peoples Party Parliamentarians,22087.0,0.628954637,1.0,Win
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,KCn7lJmJEE,Muhammad Naeem,Pakistan Muslim League (Nawaz),9274.0,0.264088618,2.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,YIGZHBbOB2,Mir Hassan Sasoli,Muttahidda Majlis-e-Amal Pakistan,1106.0,0.031494718,3.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,NEfXTI7MOz,Mir Abdul Rasool Muhammad Hasni,Independents,1038.0,0.029558334,4.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,RScqILU5oH,Lal Bakhsh Khan Khoso,Independents,520.0,0.014807643,5.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,wOFbct81XH,Mir Asadullah Khan Khosa,Independents,261.0,0.007432298,6.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,w9G7s8PbsF,Haji Attaullah,Independents,167.0,0.004755532,7.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,9bG8ZTyfl0,Haji Ali Akbar Jattak,Independents,136.0,0.003872768,8.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,HD8LTfyJcT,Muhammad Ali,Independents,131.0,0.003730387,9.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,CPa8YEbwk2,Mir Sona Khan Khosa,Independents,96.0,0.002733719,10.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,c4GD9qmvZT,Muhammad Nadeem Khosa,Independents,48.0,0.001366859,11.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,6ii4Wn4GxY,Muhammad Gul Rind,Independents,32.0,0.00091124,12.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,18KqHn5rL3,Abdul Razzaq Bangulzai,Independents,29.0,0.000825811,13.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,Ffiu9cQhYh,Haji Naseer Ahmed Khosa,Independents,29.0,0.000825811,13.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,kGjflDcXil,Haji Mushtaq Ahmed Khosa,Independents,27.0,0.000768858,14.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,sJkwVYIOy3,Mir Sohbat Khan Khosa,Independents,24.0,0.00068343,15.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,xch0EGfadU,Nizamuddin Bangulzai,Independents,23.0,0.000654953,16.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,WW1pT8NClW,Mir Ubaidullah Abro,Independents,22.0,0.000626477,17.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,OHsIYbaqYN,Mir Nasrullah Khan Khosa,Independents,15.0,0.000427144,18.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,CKn2SICGGS,Syed Sharif Ali Shah,Independents,14.0,0.000398667,19.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,UZ3atxfyPd,Noor Muhammad Samalani,Independents,12.0,0.000341715,20.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,sD07o56I2H,Mir Manzoor Ahmed Khosa,Independents,10.0,0.000284762,21.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,14Ol6Yp5WT,Abdul Khaliq,Independents,8.0,0.00022781,22.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,UFaHBfZrri,Mir Niaz Ahmed Umrani,Independents,4.0,0.000113905,23.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,RKMl2npxFm,Sardar Murred Ahmed Bhatti,Independents,3.0,8.54e-05,24.0,Loss
+2008-06-26,By-Election,Contested,PB-26,Jaffarabad-Ii,Balochistan,Provincial,153708.0,35117.0,1755.0,5lJHt4xDKG,Nasrullah  Khan Khosa,Independents,1.0,2.85e-05,25.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,hytLqA9O3v,Molvi M. Sarwar,Muttahidda Majlis-e-Amal Pakistan,3767.0,0.288659004,1.0,Win
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,c7rwgLR1jB,Sardar Asmat Ullah Khan,Pakistan Muslim League (Qaid-e-Azam),3637.0,0.278697318,2.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,Q8z5e3uiP8,Sirajud Din,Muttahida Qaumi Movement Pakistan,2732.0,0.209348659,3.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,9evg7IY1qQ,Molvi Najam Ud Din,Independents,2290.0,0.175478927,4.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,xjxhFByepC,Jalil Ahmed,Pakistan Muslim League (Nawaz),323.0,0.024750958,5.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,ZaVRT3LhTA,Abdul Latif,Independents,194.0,0.0148659,6.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,Y8qcAaQ0x7,Asad Ullah Khan,Independents,64.0,0.004904215,7.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,qrHsye4SUL,Sardar Ghulam Hyder,Independents,24.0,0.00183908,8.0,Loss
+2008-02-18,General Election,Contested,PB-15,Musakhel (Old Loralai-Ii),Balochistan,Provincial,76224.0,13050.0,527.0,vz2k6uVezb,Jalat Khan Esote,Awami National Party,19.0,0.001455939,9.0,Loss

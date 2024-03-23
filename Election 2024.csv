@@ -1,0 +1,1211 @@
+constituency_number,NAME OF CONSTITUENCY,province,voter_reg,candidate_party,candidate_name
+NA-1,Chitral Upper-cum-Chitral Lower,Khyber Pakhtunkhwa,515935,Pakistan Peoples Party,Fazli Rabbi
+NA-1,Chitral Upper-cum-Chitral Lower,Khyber Pakhtunkhwa,515935,Jamiat Ulema-e Islam (Fazl),Muhammad Talha Mahmood
+NA-1,Chitral Upper-cum-Chitral Lower,Khyber Pakhtunkhwa,515935,Awami National Party,Khadija Bibi
+NA-1,Chitral Upper-cum-Chitral Lower,Khyber Pakhtunkhwa,515935,Pakistan Muslim League (Nawaz),Iftikhar uddin
+NA-1,Chitral Upper-cum-Chitral Lower,Khyber Pakhtunkhwa,515935,Pakistan Tehreek-e-Insaf,Abdul Latif
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Pakistan Tehreek-e-Insaf,Dr. Amjad
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Pakistan Peoples Party,Haider Ali Khan
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Pakistan Muslim League (Nawaz),Amir Muqam
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Awami National Party,Muhammad Ayub Khan
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Jamaat-e-Islami,Naveed Igbal
+NA-2,SWAT-1,Khyber Pakhtunkhwa,883636,Jamiat Ulema-e Islam (Fazl),Abdul Ghafoor
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Pakistan Tehreek-e-Insaf,Saleem ur Rehman
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Pakistan Peoples Party,Shaharyar Amirzeb
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Pakistan Muslim League (Nawaz),Muhammad Nisar Khan
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Awami National Party,Sher Baz Khan
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Jamaat-e-Islami,Sahib Zada Tariq Ullah
+NA-3,SWAT-2,Khyber Pakhtunkhwa,867243,Jamiat Ulema-e Islam (Fazl),Kaisar Khan
+NA-4,SWAT-3,Khyber Pakhtunkhwa,936506,Pakistan Tehreek-e-Insaf,Sohail Sultan
+NA-4,SWAT-3,Khyber Pakhtunkhwa,936506,Pakistan Peoples Party,Kamal Khan
+NA-4,SWAT-3,Khyber Pakhtunkhwa,936506,Awami National Party,Muhammad Saleem Khan
+NA-4,SWAT-3,Khyber Pakhtunkhwa,936506,Jamiat Ulema-e-Islam (F),Rahim Ullah
+NA-4,SWAT-3,Khyber Pakhtunkhwa,936506,Pakistan Tahreek Insaf Parliamentarian,Mehmood Khan
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Pakistan Tehreek-e-Insaf,Sahibzada Sibghatullah Virk
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Pakistan Peoples Party,Najam Uddin Khan
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Pakistan Muslim League (Nawaz),Muhammad Nisar Khan
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Awami National Party,Bahadar Khan
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Jamiat Ulema-e-Islam (F),Muhammad Nabi
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Jamaat-e-Islami Pakistan ,Sahib Zada Tariq Ullah
+NA-5,Upper Dir,Khyber Pakhtunkhwa,1083566,Pakistan Tahreek Insaf Parliamentarian,Muhammad Ibrahim
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Pakistan Tehreek-e-Insaf,Bashir Khan
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Pakistan Peoples Party,Muhammad Hanif 
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Pakistan Muslim League (Nawaz),Roh Ullah Khan
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Awami National Party,Muhammad Zahid Khan
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Jamiat Ulema-e-Islam (F),Muhammad Sher Khan
+NA-6,Lower Dir-1,Khyber Pakhtunkhwa,853612,Jamaat-e-Islami Pakistan ,Sirajul Hag
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Pakistan Tehreek-e-Insaf,Mehboob Shah
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Pakistan Peoples Party,Alam Zaib Khan
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Pakistan Muslim League (Nawaz),Yasir Khan
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Awami National Party,Khan Zeb
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Jamiat Ulema-e-Islam (F),Siraj Ud Din
+NA-7,Lower Dir-2,Khyber Pakhtunkhwa,796571,Jamaat-e-Islami Pakistan ,Muhammad Ismail
+NA-8,Bajaur,Khyber Pakhtunkhwa,1287960,Pakistan Tehreek-e-Insaf,Gul Zafar Khan
+NA-8,Bajaur,Khyber Pakhtunkhwa,1287960,Pakistan Peoples Party,Syed Akhunzada Chattan
+NA-8,Bajaur,Khyber Pakhtunkhwa,1287960,Pakistan Muslim League (Nawaz),Shahab Ud Din Khan
+NA-8,Bajaur,Khyber Pakhtunkhwa,1287960,Jamaat-e-Islami Pakistan ,Sahibzada Haroon Ur Rashid
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Pakistan Tehreek-e-Insaf,Junaid Akbar
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Pakistan Peoples Party,Syed Ahmad Ali Shah
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Pakistan Muslim League (Nawaz),Sajjad Ahmad
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Jamiat Ulema-e-Islam (F),Kifayat Ullah
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Jamaat-e-Islami Pakistan ,Bakht Jehan Khan
+NA-9,Malakand,Khyber Pakhtunkhwa,826250,Pakistan Tahreek Insaf Parliamentarian,Muhammad Zeeshan
+NA-10,Buner,Khyber Pakhtunkhwa,1016869,Pakistan Tehreek-e-Insaf,Barrister Gohar Ali Khan
+NA-10,Buner,Khyber Pakhtunkhwa,1016869,Pakistan Peoples Party,Yousaf Ali
+NA-10,Buner,Khyber Pakhtunkhwa,1016869,Pakistan Muslim League (Nawaz),Salar Khan
+NA-10,Buner,Khyber Pakhtunkhwa,1016869,Awami National Party,Abdur Rauf
+NA-10,Buner,Khyber Pakhtunkhwa,1016869,Pakistan Tahreek Insaf Parliamentarian,Sher Akbar Khan
+NA-11,Shangla,Khyber Pakhtunkhwa,891252,Pakistan Tehreek-e-Insaf,Said Fareed Khan
+NA-11,Shangla,Khyber Pakhtunkhwa,891252,Pakistan Peoples Party,Muhammad Alam Khan
+NA-11,Shangla,Khyber Pakhtunkhwa,891252,Pakistan Muslim League (Nawaz),Amir Muqam
+NA-11,Shangla,Khyber Pakhtunkhwa,891252,Awami National Party,Aurang Zeb khan 
+NA-11,Shangla,Khyber Pakhtunkhwa,891252,Pakistan Tahreek Insaf Parliamentarian,Mian Nazir Rahman
+NA-12,Kohistan Upper -cum- Kohistan Lower-cum-Kolai Palas Kohistan,Khyber Pakhtunkhwa,1043126,Pakistan Tehreek-e-Insaf,Taj Muhammad
+NA-12,Kohistan Upper -cum- Kohistan Lower-cum-Kolai Palas Kohistan,Khyber Pakhtunkhwa,1043126,Pakistan Peoples Party,Mehboob Ullah Jan
+NA-13,Battagram,Khyber Pakhtunkhwa,554133,Pakistan Tehreek-e-Insaf,Muhammad Nawaz Khan
+NA-13,Battagram,Khyber Pakhtunkhwa,554133,Pakistan Muslim League (Nawaz),Moin Khan
+NA-13,Battagram,Khyber Pakhtunkhwa,554133,Jamiat Ulema-e-Islam (F),Muhammad Yousaf
+NA-13,Battagram,Khyber Pakhtunkhwa,554133,Jamaat-e-Islami Pakistan ,syed tariq Hussain Shah Sehrazi
+NA-14,Mansehra,Khyber Pakhtunkhwa,969443,Pakistan Tehreek-e-Insaf,Muhammad Saleem Imran
+NA-14,Mansehra,Khyber Pakhtunkhwa,969443,Pakistan Peoples Party,Muhammad Shuja Khan
+NA-14,Mansehra,Khyber Pakhtunkhwa,969443,Pakistan Muslim League (Nawaz),Sardar Muhammad Yousaf Zaman
+NA-14,Mansehra,Khyber Pakhtunkhwa,969443,Jamaat-e-Islami Pakistan ,Muhammad Khalid
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Pakistan Tehreek-e-Insaf,Shehzada Muhammad Gustasif Khan
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Pakistan Peoples Party,Zar Gul Khan
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Pakistan Muslim League (Nawaz),Muhammad Nawaz Sharif
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Jamiat Ulema-e-Islam (F),Mufti Kitayat Ullah
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Pakistan Awami Thereek,Naseer khan
+NA-15,Mansehra-cum-Tor Ghar,Khyber Pakhtunkhwa,1028179,Pakistan Tahreek Insaf Parliamentarian,Saleh Muhmmad
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Pakistan Tehreek-e-Insaf,Ali Asghar Khan
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Pakistan Peoples Party,Noor ul Ain
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Pakistan Muslim League (Nawaz),Murtaza Javed Abbasi
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Jamiat Ulema-e-Islam (F),Ahmed Naseer
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Pakistan Awami Thereek,Muhammad Anwar Abbasi
+NA-16,Abbottabad-1,Khyber Pakhtunkhwa,699311,Pakistan Tahreek Insaf Parliamentarian,Shamraiz Khan
+NA-17,Abbottabad-2,Khyber Pakhtunkhwa,719761,Pakistan Tehreek-e-Insaf,Ali Khan Jadoon
+NA-17,Abbottabad-2,Khyber Pakhtunkhwa,719761,Pakistan Peoples Party,Saleem Shah
+NA-17,Abbottabad-2,Khyber Pakhtunkhwa,719761,Pakistan Muslim League (Nawaz),Muhabbat Awan
+NA-17,Abbottabad-2,Khyber Pakhtunkhwa,719761,Jamiat Ulema-e-Islam (F),Adnan Bin Abdul Aziz
+NA-18,Haripur,Khyber Pakhtunkhwa,1174783,Pakistan Tehreek-e-Insaf,Omar Ayub Khan
+NA-18,Haripur,Khyber Pakhtunkhwa,1174783,Pakistan Peoples Party,Syed Ali Zwari Hussain Naqvi
+NA-18,Haripur,Khyber Pakhtunkhwa,1174783,Pakistan Muslim League (Nawaz),Babar Nawaz Khan
+NA-18,Haripur,Khyber Pakhtunkhwa,1174783,Jamiat Ulema-e-Islam (F),Muhammad Ayub
+NA-19,Swabi-1,Khyber Pakhtunkhwa,951404,Pakistan Tehreek-e-Insaf,Asad Qaiser
+NA-19,Swabi-1,Khyber Pakhtunkhwa,951404,Pakistan Peoples Party,Muhammad Bilal Khan Sher Pao
+NA-19,Swabi-1,Khyber Pakhtunkhwa,951404,Awami National Party,Shahnawaz Khanzada
+NA-19,Swabi-1,Khyber Pakhtunkhwa,951404,Jamiat Ulema-e-Islam (F),Fazal Ali
+NA-19,Swabi-1,Khyber Pakhtunkhwa,951404,Jamaat-e-Islami Pakistan ,Umar Gul
+NA-20,Swabi-2,Khyber Pakhtunkhwa,943196,Pakistan Tehreek-e-Insaf,Shahram Khan Tarakai
+NA-20,Swabi-2,Khyber Pakhtunkhwa,943196,Pakistan Peoples Party,Usman Khan
+NA-20,Swabi-2,Khyber Pakhtunkhwa,943196,Awami National Party,Waris Khan
+NA-20,Swabi-2,Khyber Pakhtunkhwa,943196,Jamiat Ulema-e-Islam (F),Abdur Rahim Khan
+NA-21,Mardan-1,Khyber Pakhtunkhwa,976527,Pakistan Tehreek-e-Insaf,Mujahid Khan
+NA-21,Mardan-1,Khyber Pakhtunkhwa,976527,Pakistan Peoples Party,Asad Ullah Khan
+NA-21,Mardan-1,Khyber Pakhtunkhwa,976527,Awami National Party,Muhammad Ali
+NA-21,Mardan-1,Khyber Pakhtunkhwa,976527,Jamiat Ulema-e-Islam (F),Azam Khan
+NA-22,Mardan-2,Khyber Pakhtunkhwa,893577,Pakistan Tehreek-e-Insaf,Muhammad Atif
+NA-22,Mardan-2,Khyber Pakhtunkhwa,893577,Pakistan Peoples Party,Syed Abid Ali Shah
+NA-22,Mardan-2,Khyber Pakhtunkhwa,893577,Awami National Party,Ameer Haider Azam Khan 
+NA-22,Mardan-2,Khyber Pakhtunkhwa,893577,Jamiat Ulema-e-Islam (F),Nyaz Ali
+NA-23,Mardan-3,Khyber Pakhtunkhwa,874794,Pakistan Tehreek-e-Insaf,Ali Muhammad Khan
+NA-23,Mardan-3,Khyber Pakhtunkhwa,874794,Pakistan Peoples Party,Shoaib Alam Khan
+NA-23,Mardan-3,Khyber Pakhtunkhwa,874794,Pakistan Muslim League (Nawaz),Jalal Khan Khattak
+NA-23,Mardan-3,Khyber Pakhtunkhwa,874794,Awami National Party,Ahmad Khan
+NA-23,Mardan-3,Khyber Pakhtunkhwa,874794,Jamiat Ulema-e-Islam (F),Kaleem Ullah Khan
+NA-24,Charsadda-1,Khyber Pakhtunkhwa,926066,Pakistan Tehreek-e-Insaf,Anwar Taj
+NA-24,Charsadda-1,Khyber Pakhtunkhwa,926066,Pakistan Peoples Party,Shazia Tehmas Khan
+NA-24,Charsadda-1,Khyber Pakhtunkhwa,926066,Pakistan Muslim League (Nawaz),Farah Khan
+NA-24,Charsadda-1,Khyber Pakhtunkhwa,926066,Awami National Party,Irfan Ali 
+NA-24,Charsadda-1,Khyber Pakhtunkhwa,926066,Jamiat Ulema-e-Islam (F),Gohar Ali
+NA-25,Charsadda-2,Khyber Pakhtunkhwa,909438,Pakistan Tehreek-e-Insaf,Fazal Muhammad Khan
+NA-25,Charsadda-2,Khyber Pakhtunkhwa,909438,Pakistan Peoples Party,Aftab Alam
+NA-25,Charsadda-2,Khyber Pakhtunkhwa,909438,Awami National Party,Aimal Wali Khan
+NA-25,Charsadda-2,Khyber Pakhtunkhwa,909438,Jamiat Ulema-e-Islam (F),Molana Muhammad Gohar Shah
+NA-25,Charsadda-2,Khyber Pakhtunkhwa,909438,Pakistan Tahreek Insaf Parliamentarian,Falak Niaz
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Pakistan Tehreek-e-Insaf,Sajid Khan
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Pakistan Peoples Party,Abdul Waheed Khan
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Pakistan Muslim League (Nawaz),Zar Khan 
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Awami National Party,Nisar Ahmad
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Jamiat Ulema-e-Islam (F),Muhammad Arif
+NA-26,Mohmand,Khyber Pakhtunkhwa,553933,Jamaat-e-Islami Pakistan ,Muhammad Saeed
+NA-27,Khyber,Khyber Pakhtunkhwa,1146267,Pakistan Tehreek-e-Insaf,Muhammad Iqbal Khan
+NA-27,Khyber,Khyber Pakhtunkhwa,1146267,Pakistan Peoples Party,Shah Rehman
+NA-27,Khyber,Khyber Pakhtunkhwa,1146267,Pakistan Muslim League (Nawaz),Shah Jee Gul Afridi
+NA-27,Khyber,Khyber Pakhtunkhwa,1146267,Awami National Party,Shah Hussain
+NA-27,Khyber,Khyber Pakhtunkhwa,1146267,Jamiat Ulema-e-Islam (F),Hameed Ullab Jan Afridi
+NA-28,Peshawar-1,Khyber Pakhtunkhwa,985067,Pakistan Tehreek-e-Insaf,Sajid Nawaz Khan
+NA-28,Peshawar-1,Khyber Pakhtunkhwa,985067,Pakistan Peoples Party,Kiramat Ullah Khan
+NA-28,Peshawar-1,Khyber Pakhtunkhwa,985067,Awami National Party,Muhammad Fayaz Khan
+NA-28,Peshawar-1,Khyber Pakhtunkhwa,985067,Jamiat Ulema-e-Islam (F),Noor Alam Khan
+NA-28,Peshawar-1,Khyber Pakhtunkhwa,985067,Jamaat-e-Islami Pakistan ,Muhammad Saeed
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Pakistan Tehreek-e-Insaf,Arbab Amir Ayub
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Pakistan Peoples Party,Malik Amjad Aziz Khan
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Pakistan Muslim League (Nawaz),Sobia Shahid
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Awami National Party,Saqib Ullah Khan
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Jamiat Ulema-e-Islam (F),Akhunzada Irfan Ullah Shah
+NA-29,Peshawar-2,Khyber Pakhtunkhwa,917781,Pakistan Muslim League (Qaid-e-Azam),Riaz Ahmed Jan
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Pakistan Tehreek-e-Insaf,Shandana Gulzar
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Pakistan Peoples Party,Mishab ud Din
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Pakistan Muslim League (Nawaz),Raees Khan
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Awami National Party,Zain Umar Arbab
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Jamiat Ulema-e-Islam (F),Nasir Khan
+NA-30,Peshawar-3,Khyber Pakhtunkhwa,932556,Pakistan Tahreek Insaf Parliamentarian,Arbab Mohammad Haleem
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Pakistan Tehreek-e-Insaf,Sher Ali Arbab
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Pakistan Peoples Party,Arbab Alamgir Khan
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Pakistan Muslim League (Nawaz),Sobia Shahid
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Awami National Party,Syed Haroon Shah
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Jamiat Ulema-e-Islam (F),Muhammad Saeed Jan
+NA-31,Peshawar-4,Khyber Pakhtunkhwa,953527,Pakistan Tahreek Insaf Parliamentarian,Muhammad Saleem Akhtar Durrani
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Pakistan Tehreek-e-Insaf,Asif Khan
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Pakistan Peoples Party,Abid Ullah Khan
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Pakistan Muslim League (Nawaz),Sher Rehman
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Awami National Party,Haji Ghulam Ahmad Bilour
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Jamiat Ulema-e-Islam (F),Hussain Ahmad Madni
+NA-32,Peshawar-5,Khyber Pakhtunkhwa,969831,Pakistan Tahreek Insaf Parliamentarian,Abdul Waheed Khan
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Pakistan Tehreek-e-Insaf,Syed Shah Ahad Ali Shah
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Pakistan Peoples Party,Saleem Ullah Khan
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Pakistan Muslim League (Nawaz),Ikhtiar Wali
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Awami National Party,Khan Parvez
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Jamiat Ulema-e-Islam (F),Ijaz Ul Haq
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Jamaat-e-Islami Pakistan ,Inayat Ur Rahman
+NA-33,Nowshera-1,Khyber Pakhtunkhwa,895313,Pakistan Tahreek Insaf Parliamentarian,Prevez Khattak
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Pakistan Tehreek-e-Insaf,Zulfiqar
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Pakistan Peoples Party,Muhammad Idrees Khan
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Pakistan Muslim League (Nawaz),Muhammad Kashif
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Awami National Party,Mian Babar Shah Kakakhel
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Jamiat Ulema-e-Islam (F),Pervaiz Khan Khattaq
+NA-34,Nowshera-2,Khyber Pakhtunkhwa,845392,Pakistan Tahreek Insaf Parliamentarian,Imran Khattak
+NA-35,Kohat,Khyber Pakhtunkhwa,1234661,Pakistan Tehreek-e-Insaf,Shahriyar Afridi
+NA-35,Kohat,Khyber Pakhtunkhwa,1234661,Pakistan Muslim League (Nawaz),Abbas Afridi
+NA-35,Kohat,Khyber Pakhtunkhwa,1234661,Awami National Party,Noor Aslam 
+NA-35,Kohat,Khyber Pakhtunkhwa,1234661,Jamiat Ulema-e-Islam (F),Gohar Muhammad Khan Bnagash
+NA-36,Hangu-cum-Orakzai,Khyber Pakhtunkhwa,916463,Pakistan Tehreek-e-Insaf,Yousif Khan
+NA-36,Hangu-cum-Orakzai,Khyber Pakhtunkhwa,916463,Pakistan Peoples Party,Malak Mumtaz Khan
+NA-36,Hangu-cum-Orakzai,Khyber Pakhtunkhwa,916463,Pakistan Muslim League (Nawaz),Alhaj Muhammad farid Mufakkar
+NA-36,Hangu-cum-Orakzai,Khyber Pakhtunkhwa,916463,Jamiat Ulema-e-Islam (F),Ubaid Ullah
+NA-36,Hangu-cum-Orakzai,Khyber Pakhtunkhwa,916463,Jamaat-e-Islami Pakistan ,Afrasiab
+NA-37,Kurram,Khyber Pakhtunkhwa,785434,Pakistan Tehreek-e-Insaf,Hameed Hussain
+NA-37,Kurram,Khyber Pakhtunkhwa,785434,Pakistan Peoples Party,Sajid Hussain Turi
+NA-37,Kurram,Khyber Pakhtunkhwa,785434,Pakistan Muslim League (Nawaz),Muhammad Ullah
+NA-37,Kurram,Khyber Pakhtunkhwa,785434,Jamiat Ulema-e-Islam (F),Asmat Ullah
+NA-37,Kurram,Khyber Pakhtunkhwa,785434,Jamaat-e-Islami Pakistan ,Abdur Rasheed Khan
+NA-38,Karak,Khyber Pakhtunkhwa,815878,Pakistan Tehreek-e-Insaf,Shahid Ahmad Khattak
+NA-38,Karak,Khyber Pakhtunkhwa,815878,Pakistan Peoples Party,Mehar Sultana
+NA-38,Karak,Khyber Pakhtunkhwa,815878,Pakistan Muslim League (Nawaz),Akhlaq Younas
+NA-38,Karak,Khyber Pakhtunkhwa,815878,Awami National Party,Hamid Khan Toofan
+NA-38,Karak,Khyber Pakhtunkhwa,815878,Jamiat Ulema-e-Islam (F),Shah Abdul Aziz
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Pakistan Tehreek-e-Insaf,Naseem Ali Shah
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Pakistan Peoples Party,Farzana Sherin
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Pakistan Muslim League (Nawaz),Ghani Ur Rehman
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Jamiat Ulema-e-Islam (F),Zahid Akram Durrani
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Jamaat-e-Islami Pakistan ,Muhammad Ibrahim Khan
+NA-39,Bannu,Khyber Pakhtunkhwa,1367890,Pakistan Tahreek Insaf Parliamentarian,Syed Qaiser Abbas Shah
+NA-40,North Waziristan,Khyber Pakhtunkhwa,693332,Pakistan Tehreek-e-Insaf,Aurangzeb Khan
+NA-40,North Waziristan,Khyber Pakhtunkhwa,693332,Pakistan Muslim League (Nawaz),Muhammad Nazir Khan
+NA-40,North Waziristan,Khyber Pakhtunkhwa,693332,Awami National Party,Ashraf Ullah 
+NA-40,North Waziristan,Khyber Pakhtunkhwa,693332,Jamiat Ulema-e-Islam (F),Misbhau  din walid Ahmadu din 
+NA-41,Lakki Marwat,Khyber Pakhtunkhwa,1040856,Pakistan Tehreek-e-Insaf,Sher Afzal Marwat
+NA-41,Lakki Marwat,Khyber Pakhtunkhwa,1040856,Pakistan Muslim League (Nawaz),Mansoor Kamal Marwat
+NA-41,Lakki Marwat,Khyber Pakhtunkhwa,1040856,Awami National Party,Muhammad Riaz Khan
+NA-41,Lakki Marwat,Khyber Pakhtunkhwa,1040856,Jamiat Ulema-e-Islam (F),Asjad Mahmood
+NA-41,Lakki Marwat,Khyber Pakhtunkhwa,1040856,Jamaat-e-Islami Pakistan ,Irfan Ullah
+NA-42,South Waziristan Upper-cum-South Waziristan Lower,Khyber Pakhtunkhwa,888675,Pakistan Tehreek-e-Insaf,Zubair Khan Wazir
+NA-42,South Waziristan Upper-cum-South Waziristan Lower,Khyber Pakhtunkhwa,888675,Pakistan Peoples Party,Anam Ullah
+NA-42,South Waziristan Upper-cum-South Waziristan Lower,Khyber Pakhtunkhwa,888675,Pakistan Muslim League (Nawaz),Ghalib Khan
+NA-42,South Waziristan Upper-cum-South Waziristan Lower,Khyber Pakhtunkhwa,888675,Awami National Party,Hameed Ullah 
+NA-42,South Waziristan Upper-cum-South Waziristan Lower,Khyber Pakhtunkhwa,888675,Jamiat Ulema-e-Islam (F),Muhammad Jamal ud Din
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Pakistan Tehreek-e-Insaf,Dawar Khan
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Pakistan Peoples Party,Anwar Saifullah Khan
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Pakistan Muslim League (Nawaz),Muhammad Akbar Khan
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Awami National Party,Arshad Mansoor Shah
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Jamiat Ulema-e-Islam (F),Asad Mahmood
+NA-43,Tank-cum-Dera lsmail Khan,Khyber Pakhtunkhwa,764095,Jamaat-e-Islami Pakistan ,Muhammad Imtiaz
+NA-44,Dera lsmail Khan-1,Khyber Pakhtunkhwa,772742,Pakistan Tehreek-e-Insaf,Ayaz Amir
+NA-44,Dera lsmail Khan-1,Khyber Pakhtunkhwa,772742,Pakistan Peoples Party,Faisal Karim Kundi
+NA-44,Dera lsmail Khan-1,Khyber Pakhtunkhwa,772742,Awami National Party,Sherullah Khan
+NA-44,Dera lsmail Khan-1,Khyber Pakhtunkhwa,772742,Jamiat Ulema-e-Islam (F),FazI Ur Rahman
+NA-44,Dera lsmail Khan-1,Khyber Pakhtunkhwa,772742,Pakistan Tehreek-e-Insaf,Syed Muhammad Jawad Asghar Shah
+NA-45,Dera lsmail Khan-2,Khyber Pakhtunkhwa,763267,Pakistan Tehreek-e-Insaf,Muhammad Ruman Ahmad
+NA-45,Dera lsmail Khan-2,Khyber Pakhtunkhwa,763267,Pakistan Peoples Party,Fateh Ullah Khan
+NA-45,Dera lsmail Khan-2,Khyber Pakhtunkhwa,763267,Awami National Party,Shahi Khan
+NA-45,Dera lsmail Khan-2,Khyber Pakhtunkhwa,763267,Jamiat Ulema-e-Islam (F),Obaid Ur Rehman
+NA-45,Dera lsmail Khan-2,Khyber Pakhtunkhwa,763267,Jamaat-e-Islami Pakistan ,Muhammad Ijaz
+NA-46,ICT-1,Federal Capital,782561,Pakistan Tehreek-e-Insaf,Hassan Adeel Advocate
+NA-46,ICT-1,Federal Capital,782561,Pakistan Peoples Party,Raja Imran Ashraf
+NA-46,ICT-1,Federal Capital,782561,Muttahida Qaumi Movement,Shehzad Asif Javed
+NA-46,ICT-1,Federal Capital,782561,Pakistan Muslim League (Nawaz),Anjum Aqeel Khan
+NA-46,ICT-1,Federal Capital,782561,Awami National Party,Saif ullah
+NA-46,ICT-1,Federal Capital,782561,Jamaat-e-Islami Pakistan ,Mian Mohammad Aslam
+NA-46,ICT-1,Federal Capital,782561,Pakistan Awami Thereek,Muhammad Shafique
+NA-46,ICT-1,Federal Capital,782561,Pakistan Awami League,Nasir Mehmood
+NA-47,ICT-2,Federal Capital,800692,Pakistan Tehreek-e-Insaf,Shaukat Iqbal Mirza
+NA-47,ICT-2,Federal Capital,800692,Pakistan Peoples Party,Syed Sibtal Haider Bukhari
+NA-47,ICT-2,Federal Capital,800692,Muttahida Qaumi Movement,Syed Nadeem Mansur
+NA-47,ICT-2,Federal Capital,800692,Tehreek-e-Labbaik,Hafiz Khawar Ikhlas
+NA-47,ICT-2,Federal Capital,800692,Pakistan Muslim League (Nawaz),Tariq Fazal Chaudhary
+NA-47,ICT-2,Federal Capital,800692,Awami National Party,Syed Masood Shah
+NA-47,ICT-2,Federal Capital,800692,Pakistan Muslim League (Qaid-e-Azam),Syed Faqir Hussain Shah Bukhari 
+NA-47,ICT-2,Federal Capital,800692,Pakistan Awami Thereek,Nasir Mehmood
+NA-48,ICT-3,Federal Capital,786610,Pakistan Tehreek-e-Insaf,Chaudhary Ilyas
+NA-48,ICT-3,Federal Capital,786610,Pakistan Peoples Party,Choudhary Asad Parvez
+NA-48,ICT-3,Federal Capital,786610,Jamaat-e-Islami Pakistan ,MALIK ABDUL AZIZ
+NA-49,Attock-1,Punjab,1126142,Pakistan Tehreek-e-Insaf,Sajid Yousaf
+NA-49,Attock-1,Punjab,1126142,Pakistan Peoples Party,Khurram Shahzad
+NA-49,Attock-1,Punjab,1126142,Tehreek-e-Labbaik,Hafiz Muhammad Hamid
+NA-49,Attock-1,Punjab,1126142,Pakistan Muslim League (Nawaz),Sheikh Aftab Ahmad
+NA-49,Attock-1,Punjab,1126142,Pakistan Awami Thereek,Muhammad Amir Awan
+NA-50,Attock-2,Punjab,1044281,Pakistan Tehreek-e-Insaf,Qaisara Elahi
+NA-50,Attock-2,Punjab,1044281,Pakistan Peoples Party,Saleem Haider
+NA-50,Attock-2,Punjab,1044281,Muttahida Qaumi Movement,Sardar Ghulam Mujtaba Khan
+NA-50,Attock-2,Punjab,1044281,Pakistan Muslim League (Nawaz),Malik Sohail Khan
+NA-51,Rawalpindi-cumMurree,Punjab,853499,Pakistan Tehreek-e-Insaf,Syed Wajahat Shah
+NA-51,Rawalpindi-cumMurree,Punjab,853499,Pakistan Peoples Party,Mehreen Anwar Raja
+NA-51,Rawalpindi-cumMurree,Punjab,853499,Tehreek-e-Labbaik,Javed Akhtar Abbasi
+NA-51,Rawalpindi-cumMurree,Punjab,853499,Pakistan Muslim League (Nawaz),Raja Usama Sarwar
+NA-51,Rawalpindi-cumMurree,Punjab,853499,Pakistan Awami League,Amjad Arbab Abbasi
+NA-52,Rawalpindi-1,Punjab,897744,Pakistan Tehreek-e-Insaf,Muhammad Ahmed Chattha
+NA-52,Rawalpindi-1,Punjab,897744,Pakistan Peoples Party,Raja Pervez Ashraf
+NA-52,Rawalpindi-1,Punjab,897744,Tehreek-e-Labbaik,Chaudhary Muhammad Riaz
+NA-52,Rawalpindi-1,Punjab,897744,Pakistan Muslim League (Nawaz),Raja Muhammad javed Ikhlas
+NA-53,Rawalpindi-2,Punjab,887380,Pakistan Tehreek-e-Insaf,Aniqa Bhatti
+NA-53,Rawalpindi-2,Punjab,887380,Muttahida Qaumi Movement,munzleen
+NA-53,Rawalpindi-2,Punjab,887380,Tehreek-e-Labbaik,Muhammad Taimoor Khalid
+NA-53,Rawalpindi-2,Punjab,887380,Pakistan Muslim League (Nawaz),Raja Qamar Ul Islam
+NA-53,Rawalpindi-2,Punjab,887380,Pakistan Awami Thereek,Sardar Muhammad Mansoor Khan
+NA-54,Rawalpindi-3,Punjab,843410,Pakistan Tehreek-e-Insaf,Haji Imtiaz
+NA-54,Rawalpindi-3,Punjab,843410,Pakistan Peoples Party,Syed Qamar Abbas
+NA-54,Rawalpindi-3,Punjab,843410,Tehreek-e-Labbaik,Tahir Mehmood
+NA-54,Rawalpindi-3,Punjab,843410,Pakistan Awami Thereek,Mudassar Hussain Shah
+NA-54,Rawalpindi-3,Punjab,843410,Istehkam-e-Pakistan Party,Ghulam Sarwar Khan
+NA-55,Rawalpindi-4,Punjab,828862,Pakistan Tehreek-e-Insaf,Kausar Parveen
+NA-55,Rawalpindi-4,Punjab,828862,Pakistan Peoples Party,Babar Sultan Jadoon
+NA-55,Rawalpindi-4,Punjab,828862,Muttahida Qaumi Movement,Raziq Mehmood Bhatti
+NA-55,Rawalpindi-4,Punjab,828862,Tehreek-e-Labbaik,Faisal Ul Hasan Khan
+NA-55,Rawalpindi-4,Punjab,828862,Pakistan Muslim League (Nawaz),Abrar Ahmad
+NA-55,Rawalpindi-4,Punjab,828862,Awami National Party,Muhammad Nabi
+NA-55,Rawalpindi-4,Punjab,828862,Pakistan Awami Thereek,Nasir Mehmood
+NA-55,Rawalpindi-4,Punjab,828862,Pakistan Awami League,Nasir Mehmood
+NA-55,Rawalpindi-4,Punjab,828862,Istehkam-e-Pakistan Party,Nargis Jabeen
+NA-56,Rawalpindi-5,Punjab,879357,Pakistan Tehreek-e-Insaf,Hafiz Hamid Raza
+NA-56,Rawalpindi-5,Punjab,879357,Pakistan Peoples Party,Sumaira Gul
+NA-56,Rawalpindi-5,Punjab,879357,Muttahida Qaumi Movement,Abid hussain
+NA-56,Rawalpindi-5,Punjab,879357,Tehreek-e-Labbaik,Sajjad Akbar Abbasi
+NA-56,Rawalpindi-5,Punjab,879357,Pakistan Muslim League (Nawaz),Muhammad Hanif Abbassi
+NA-56,Rawalpindi-5,Punjab,879357,Pakistan Awami Thereek,Muhammad Nadeem
+NA-56,Rawalpindi-5,Punjab,879357,Pakistan Awami League,Syed Mazhar Ali
+NA-56,Rawalpindi-5,Punjab,879357,Istehkam-e-Pakistan Party,Sharjeel Meera 
+NA-57,Rawalpindi-6,Punjab,928659,Pakistan Tehreek-e-Insaf,Rehana Imtiaz Dar
+NA-57,Rawalpindi-6,Punjab,928659,Pakistan Peoples Party,Mukhtar Abbas
+NA-57,Rawalpindi-6,Punjab,928659,Tehreek-e-Labbaik,Ch Rizwan Younis
+NA-57,Rawalpindi-6,Punjab,928659,Pakistan Muslim League (Nawaz),Danyal Chaudhary
+NA-57,Rawalpindi-6,Punjab,928659,Pakistan Awami Thereek,Amjad Arbab Abbasi
+NA-57,Rawalpindi-6,Punjab,928659,Pakistan Awami League,Azmat Ali
+NA-58,Chakwal,Punjab,880509,Pakistan Tehreek-e-Insaf,Amjad Ali Bajwa
+NA-58,Chakwal,Punjab,880509,Pakistan Peoples Party,Zulfiqar Ali Khan
+NA-58,Chakwal,Punjab,880509,Muttahida Qaumi Movement,Qalb Abbas Malik
+NA-58,Chakwal,Punjab,880509,Tehreek-e-Labbaik,Raja Sohail Akhtar Salti
+NA-58,Chakwal,Punjab,880509,Pakistan Muslim League (Nawaz),Tahir Iqbal
+NA-58,Chakwal,Punjab,880509,Awami National Party,Umar Khan
+NA-58,Chakwal,Punjab,880509,Jamaat-e-Islami Pakistan ,MALIK ABDUL AZIZ
+NA-59,Talagang cumChakwal,Punjab,854345,Pakistan Tehreek-e-Insaf,Ali Asjid Malhi
+NA-59,Talagang cumChakwal,Punjab,854345,Tehreek-e-Labbaik,Muhammad Yaqub
+NA-59,Talagang cumChakwal,Punjab,854345,Pakistan Muslim League (Nawaz),Sardar Ghulam Abbass
+NA-59,Talagang cumChakwal,Punjab,854345,Jamaat-e-Islami Pakistan ,MUHAMMAD TAHIR MALIK
+NA-60,Jhelum-1,Punjab,691625,Pakistan Tehreek-e-Insaf,Brig. Aslam Ghumman
+NA-60,Jhelum-1,Punjab,691625,Pakistan Peoples Party,Chaudhry Tesneem Nasir
+NA-60,Jhelum-1,Punjab,691625,Muttahida Qaumi Movement,Sheikh Qaisar Javed
+NA-60,Jhelum-1,Punjab,691625,Pakistan Muslim League (Nawaz),Bila Azhar Kayani
+NA-60,Jhelum-1,Punjab,691625,Pakistan Awami Thereek,Muhammad Aziz
+NA-61,Jhelum-2,Punjab,690683,Pakistan Tehreek-e-Insaf,Dr. Tahir Ali Javed
+NA-61,Jhelum-2,Punjab,690683,Pakistan Peoples Party,Syed Amir Hamza Peerzada
+NA-61,Jhelum-2,Punjab,690683,Tehreek-e-Labbaik,Imran Haider
+NA-61,Jhelum-2,Punjab,690683,Pakistan Muslim League (Nawaz),Chaudhary Farrukh Altaf
+NA-62,Gujrat-1,Punjab,804655,Pakistan Tehreek-e-Insaf,Col. Javed Kholoon
+NA-62,Gujrat-1,Punjab,804655,Tehreek-e-Labbaik,Syed Shamim Raza
+NA-62,Gujrat-1,Punjab,804655,Pakistan Muslim League (Nawaz),Chaudhary Abid Raza
+NA-62,Gujrat-1,Punjab,804655,Pakistan Muslim League (Qaid-e-Azam),Musa Ellahi
+NA-62,Gujrat-1,Punjab,804655,Pakistan Awami Thereek,Naveed Akram
+NA-63,Gujrat-2,Punjab,782935,Pakistan Tehreek-e-Insaf,Mrs. Rashida Tariq
+NA-63,Gujrat-2,Punjab,782935,Pakistan Peoples Party,Chaudhry Shoukat Ali
+NA-63,Gujrat-2,Punjab,782935,Tehreek-e-Labbaik,Muhammad Mehmood Qadri
+NA-63,Gujrat-2,Punjab,782935,Pakistan Muslim League (Nawaz),Nawabzada Ghazanfar Ali Gul
+NA-63,Gujrat-2,Punjab,782935,Pakistan Muslim League (Qaid-e-Azam),Hussain Ellahi
+NA-63,Gujrat-2,Punjab,782935,Pakistan Awami Thereek,Mubashir Hussain
+NA-64,Gujrat-3,Punjab,819831,Pakistan Tehreek-e-Insaf,Mubeen Arif Jatt
+NA-64,Gujrat-3,Punjab,819831,Pakistan Peoples Party,Mubeen Arshad
+NA-64,Gujrat-3,Punjab,819831,Tehreek-e-Labbaik,Chaudhary Abdul Qadeer
+NA-64,Gujrat-3,Punjab,819831,Pakistan Muslim League (Qaid-e-Azam),Chaudhry Salik Hussain
+NA-64,Gujrat-3,Punjab,819831,Pakistan Awami Thereek,Muhammad Yousaf
+NA-65,Gujrat-4,Punjab,811954,Pakistan Tehreek-e-Insaf,Ehsan Ullah Virk
+NA-65,Gujrat-4,Punjab,811954,Pakistan Peoples Party,Qamar Zaman Kaira
+NA-65,Gujrat-4,Punjab,811954,Tehreek-e-Labbaik,Mudassar Ali
+NA-65,Gujrat-4,Punjab,811954,Pakistan Muslim League (Nawaz),Chaudhary Naseer Ahmad Abbass
+NA-65,Gujrat-4,Punjab,811954,Pakistan Awami Thereek,Muhammad Ayub Butt
+NA-66,Wazirabad,Punjab,993412,Pakistan Tehreek-e-Insaf,Lala Asad Ullah Papa
+NA-66,Wazirabad,Punjab,993412,Pakistan Peoples Party,Ejaz Ahmad Samma
+NA-66,Wazirabad,Punjab,993412,Tehreek-e-Labbaik,Muhammad Akram
+NA-66,Wazirabad,Punjab,993412,Pakistan Muslim League (Nawaz),Nisar Ahmad Cheema
+NA-66,Wazirabad,Punjab,993412,Pakistan Awami Thereek,Asjad Hussain 
+NA-67,Hafizabad,Punjab,963865,Pakistan Tehreek-e-Insaf,Bilal Ejaz
+NA-67,Hafizabad,Punjab,963865,Pakistan Peoples Party,Syed Waseem Ul Hassan Naqvi
+NA-67,Hafizabad,Punjab,963865,Muttahida Qaumi Movement,Mazhar Hussain
+NA-67,Hafizabad,Punjab,963865,Tehreek-e-Labbaik,Syed Muhammad Atta Ul Hasnain Ali
+NA-67,Hafizabad,Punjab,963865,Pakistan Muslim League (Nawaz),Saira Tarar
+NA-68,M.B.Din-1,Punjab,936239,Pakistan Tehreek-e-Insaf,Haroon Ehsan Paracha
+NA-68,M.B.Din-1,Punjab,936239,Pakistan Peoples Party,Aasif Bashir
+NA-68,M.B.Din-1,Punjab,936239,Muttahida Qaumi Movement,Irfan Siddique
+NA-68,M.B.Din-1,Punjab,936239,Tehreek-e-Labbaik,Muhammad Akram Tahir
+NA-68,M.B.Din-1,Punjab,936239,Pakistan Muslim League (Nawaz),Mushahid Raza
+NA-69,M.B.Din-2,Punjab,893247,Pakistan Tehreek-e-Insaf,Osama Maila
+NA-69,M.B.Din-2,Punjab,893247,Pakistan Peoples Party,Fakhar Umar Hayat
+NA-69,M.B.Din-2,Punjab,893247,Tehreek-e-Labbaik,Shehzad Ullah Chatha
+NA-69,M.B.Din-2,Punjab,893247,Pakistan Muslim League (Nawaz),Nasir Iqbal Bosal
+NA-69,M.B.Din-2,Punjab,893247,Awami National Party,Munir Shah
+NA-70,Sialkot-1,Punjab,904535,Pakistan Tehreek-e-Insaf,Shafqat Awan Advocate
+NA-70,Sialkot-1,Punjab,904535,Pakistan Peoples Party,Syed Istiaq Ul Hassan Gilani
+NA-70,Sialkot-1,Punjab,904535,Tehreek-e-Labbaik,Muhammad Shahid
+NA-70,Sialkot-1,Punjab,904535,Pakistan Muslim League (Nawaz),Chaudhary Armghan Subhani
+NA-70,Sialkot-1,Punjab,904535,Istehkam-e-Pakistan Party,Dr Firdous Awan
+NA-71,Sialkot-2,Punjab,938691,Pakistan Tehreek-e-Insaf,Khudada Kalyar advocate
+NA-71,Sialkot-2,Punjab,938691,Pakistan Peoples Party,Khuwaja Awais Mushtaq
+NA-71,Sialkot-2,Punjab,938691,Muttahida Qaumi Movement,CH Muhammad sarwar
+NA-71,Sialkot-2,Punjab,938691,Tehreek-e-Labbaik,Muhammad Aslam
+NA-71,Sialkot-2,Punjab,938691,Pakistan Muslim League (Nawaz),Khuwaja Muhammad Asif
+NA-71,Sialkot-2,Punjab,938691,Pakistan Awami Thereek,Mian Muhammad Raza
+NA-72,Sialkot-3,Punjab,931550,Pakistan Tehreek-e-Insaf,Muhammad Miqdad Ali Khan
+NA-72,Sialkot-3,Punjab,931550,Pakistan Peoples Party,Nadeem Ahmad Awan
+NA-72,Sialkot-3,Punjab,931550,Tehreek-e-Labbaik,Shujaat Ali
+NA-72,Sialkot-3,Punjab,931550,Pakistan Muslim League (Nawaz),Ali Zahid
+NA-72,Sialkot-3,Punjab,931550,Pakistan Awami Thereek,Sohail Babar
+NA-73,Sialkot-4,Punjab,868914,Pakistan Tehreek-e-Insaf,Malik Omar Aslam
+NA-73,Sialkot-4,Punjab,868914,Pakistan Peoples Party,Rana Mahmood Ashraf
+NA-73,Sialkot-4,Punjab,868914,Tehreek-e-Labbaik,Tariq Maqsood
+NA-73,Sialkot-4,Punjab,868914,Pakistan Muslim League (Nawaz),Nosheen Iftikhar
+NA-73,Sialkot-4,Punjab,868914,Pakistan Awami Thereek,Gulam Murtaza
+NA-74,Sialkot-5,Punjab,855704,Pakistan Tehreek-e-Insaf,Akram Niazi Advocate
+NA-74,Sialkot-5,Punjab,855704,Pakistan Peoples Party,Choudhry Ijaz Ahmad Cheema
+NA-74,Sialkot-5,Punjab,855704,Muttahida Qaumi Movement,Mahrukh Mirza
+NA-74,Sialkot-5,Punjab,855704,Tehreek-e-Labbaik,Sajjad Hussain Shah
+NA-74,Sialkot-5,Punjab,855704,Pakistan Muslim League (Nawaz),Rana Shamim Ahmad Khan
+NA-75,Narowal-1,Punjab,995071,Pakistan Tehreek-e-Insaf,Jamal Ahsan Khan
+NA-75,Narowal-1,Punjab,995071,Pakistan Peoples Party,Tariq Javed Manzoor
+NA-75,Narowal-1,Punjab,995071,Tehreek-e-Labbaik,Muhammad Ahsan
+NA-75,Narowal-1,Punjab,995071,Pakistan Muslim League (Nawaz),Anwar ul Haq Chaudhary
+NA-75,Narowal-1,Punjab,995071,Pakistan Awami Thereek,Syed Abrar Hussain 
+NA-76,Narowal-2,Punjab,955883,Pakistan Tehreek-e-Insaf,Umair Khan Niazi
+NA-76,Narowal-2,Punjab,955883,Pakistan Peoples Party,Sakhawat Masih
+NA-76,Narowal-2,Punjab,955883,Tehreek-e-Labbaik,Syed Jehanzaib Bukhari
+NA-76,Narowal-2,Punjab,955883,Pakistan Muslim League (Nawaz),Ahsan Iqbal Chaudhary
+NA-76,Narowal-2,Punjab,955883,Jamaat-e-Islami Pakistan ,Altaf Ahmad Khan
+NA-77,Gujranwala-1,Punjab,1098586,Pakistan Tehreek-e-Insaf,Sanaullah Mastikhel
+NA-77,Gujranwala-1,Punjab,1098586,Pakistan Peoples Party,Imtiaz Safdar Warriach
+NA-77,Gujranwala-1,Punjab,1098586,Pakistan Muslim League (Nawaz),Ch Mahmood Bashir Virk
+NA-77,Gujranwala-1,Punjab,1098586,Pakistan Awami Thereek,Muhammad Ijaz Arshad 
+NA-78,Gujranwala-2,Punjab,1081071,Pakistan Tehreek-e-Insaf,Zaheer Abbas Naqvi
+NA-78,Gujranwala-2,Punjab,1081071,Pakistan Peoples Party,Haris Meeran
+NA-78,Gujranwala-2,Punjab,1081071,Muttahida Qaumi Movement,Farruk Hussain
+NA-78,Gujranwala-2,Punjab,1081071,Tehreek-e-Labbaik,Muhammad Kamran
+NA-78,Gujranwala-2,Punjab,1081071,Pakistan Muslim League (Nawaz),Khurram Dastgir Khan
+NA-78,Gujranwala-2,Punjab,1081071,Pakistan Muslim League (Qaid-e-Azam),Muhammad Ishaq
+NA-78,Gujranwala-2,Punjab,1081071,Pakistan Awami Thereek,Pervaiz Abid Haral
+NA-79,Gujranwala-3,Punjab,1039703,Pakistan Tehreek-e-Insaf,Ghulam Muhammad Lalli
+NA-79,Gujranwala-3,Punjab,1039703,Pakistan Peoples Party,Muhammad Shakeel Ur Rehman
+NA-79,Gujranwala-3,Punjab,1039703,Tehreek-e-Labbaik,Muhammad Habib
+NA-79,Gujranwala-3,Punjab,1039703,Pakistan Muslim League (Nawaz),Zulfiqar Ahmad
+NA-80,Gujranwala-4,Punjab,1068215,Pakistan Tehreek-e-Insaf,Mehar Khalid
+NA-80,Gujranwala-4,Punjab,1068215,Pakistan Peoples Party,Imran
+NA-80,Gujranwala-4,Punjab,1068215,Tehreek-e-Labbaik,Muhammad Rafiq
+NA-80,Gujranwala-4,Punjab,1068215,Pakistan Muslim League (Nawaz),Shahid Usman
+NA-80,Gujranwala-4,Punjab,1068215,Pakistan Awami Thereek,Muhammad Shehzad
+NA-81,Gujranwala-cumHafizabad,Punjab,1034807,Pakistan Tehreek-e-Insaf,Ali Afzal Sahi
+NA-81,Gujranwala-cumHafizabad,Punjab,1034807,Pakistan Peoples Party,Muhammad Malik
+NA-81,Gujranwala-cumHafizabad,Punjab,1034807,Muttahida Qaumi Movement,Usman Ghani
+NA-81,Gujranwala-cumHafizabad,Punjab,1034807,Tehreek-e-Labbaik,Zulfiqar Ali
+NA-81,Gujranwala-cumHafizabad,Punjab,1034807,Pakistan Muslim League (Nawaz),Azhar Qayyum Nahra
+NA-82,Sargodha-1,Punjab,849601,Pakistan Tehreek-e-Insaf,Rai Haider Kharal
+NA-82,Sargodha-1,Punjab,849601,Pakistan Peoples Party,Nadeem Afzal Gondal
+NA-82,Sargodha-1,Punjab,849601,Tehreek-e-Labbaik,Saqib Hussain
+NA-82,Sargodha-1,Punjab,849601,Pakistan Muslim League (Nawaz),Mukhtar Ahmad Malik
+NA-83,Sargodha-2,Punjab,866093,Pakistan Tehreek-e-Insaf,Saad Ullah Baloch
+NA-83,Sargodha-2,Punjab,866093,Pakistan Peoples Party,Rao Abdul Ghaffar
+NA-83,Sargodha-2,Punjab,866093,Tehreek-e-Labbaik,Muhammad Younis
+NA-83,Sargodha-2,Punjab,866093,Pakistan Muslim League (Nawaz),Mohsin Nawaz Ranjha
+NA-84,Sargodha-3,Punjab,888239,Pakistan Tehreek-e-Insaf,Hafiz Mumtaz
+NA-84,Sargodha-3,Punjab,888239,Pakistan Peoples Party,Tasneem Ahmad Qureshi
+NA-84,Sargodha-3,Punjab,888239,Tehreek-e-Labbaik,Muhammad Munir
+NA-84,Sargodha-3,Punjab,888239,Pakistan Muslim League (Nawaz),Liaqat Ali Khan
+NA-85,Sargodha-4,Punjab,869880,Pakistan Tehreek-e-Insaf,Malik Umar Farooq
+NA-85,Sargodha-4,Punjab,869880,Pakistan Peoples Party,Tariq Mahmood
+NA-85,Sargodha-4,Punjab,869880,Tehreek-e-Labbaik,Chaudhary Al Hamza Husain cheema
+NA-85,Sargodha-4,Punjab,869880,Pakistan Muslim League (Nawaz),Zulfiqar Ali Bhatti
+NA-86,Sargodha-5,Punjab,860635,Pakistan Tehreek-e-Insaf,Dr. Nisar Jutt
+NA-86,Sargodha-5,Punjab,860635,Pakistan Peoples Party,Muhammad Jamshed
+NA-86,Sargodha-5,Punjab,860635,Tehreek-e-Labbaik,Haji Allah Dad
+NA-86,Sargodha-5,Punjab,860635,Pakistan Muslim League (Nawaz),Syed Javed Hasnain
+NA-86,Sargodha-5,Punjab,860635,Istehkam-e-Pakistan,Rana Nazir Khan
+NA-87,Khushab-1,Punjab,767177,Pakistan Tehreek-e-Insaf,Rana Atif
+NA-87,Khushab-1,Punjab,767177,Pakistan Peoples Party,Muhammad Ali Sawal
+NA-87,Khushab-1,Punjab,767177,Tehreek-e-Labbaik,Zammurad Abbas Khan
+NA-87,Khushab-1,Punjab,767177,Pakistan Muslim League (Nawaz),Malik Shakir Bashir Awan 
+NA-87,Khushab-1,Punjab,767177,Awami National Party,Bahadar Khan 
+NA-87,Khushab-1,Punjab,767177,Pakistan Awami Tehreek,Haji Fateh Din
+NA-88,Khushab-2,Punjab,733912,Pakistan Tehreek-e-Insaf,Changez Khan Kakar
+NA-88,Khushab-2,Punjab,733912,Tehreek-e-Labbaik,Hafiz Sher Muhammad Sialvi
+NA-88,Khushab-2,Punjab,733912,Istehkam-e-Pakistan,Gul Asgher
+NA-89,Mianwali-1,Punjab,898644,Pakistan Tehreek-e-Insaf,Ali Sarfaraz
+NA-89,Mianwali-1,Punjab,898644,Pakistan Peoples Party,Nawab Malik Amir Muhmmad Khan
+NA-89,Mianwali-1,Punjab,898644,Tehreek-e-Labbaik,Muhammad Amin uddin Sialvi
+NA-89,Mianwali-1,Punjab,898644,Pakistan Muslim League (Nawaz),Obaid Ullah Khan
+NA-90,Mianwali-2,Punjab,899624,Pakistan Tehreek-e-Insaf,Sahibzada Hamid Raza
+NA-90,Mianwali-2,Punjab,899624,Pakistan Peoples Party,Aziz Ur Rehman
+NA-90,Mianwali-2,Punjab,899624,Tehreek-e-Labbaik,Muhammad Tayyab
+NA-90,Mianwali-2,Punjab,899624,Pakistan Muslim League (Nawaz),Muhammad Humair Hayat Khan Niazi
+NA-91,Bhakkar-1,Punjab,936833,Pakistan Tehreek-e-Insaf,Usama Hamza
+NA-91,Bhakkar-1,Punjab,936833,Pakistan Peoples Party,Ejaz Ali khan Shahani
+NA-91,Bhakkar-1,Punjab,936833,Tehreek-e-Labbaik,Muhammad Younas
+NA-91,Bhakkar-1,Punjab,936833,Pakistan Muslim League (Nawaz),AbdulMajeed khan
+NA-92,Bhakkar-2,Punjab,1020637,Pakistan Tehreek-e-Insaf,Khalid Nawaz Sudharich
+NA-92,Bhakkar-2,Punjab,1020637,Pakistan Peoples Party,Ejaz Ali khan Shahani
+NA-92,Bhakkar-2,Punjab,1020637,Tehreek-e-Labbaik,Muhammad Amjad Jameel
+NA-93,Chiniot-1,Punjab,745298,Pakistan Tehreek-e-Insaf,Riyaz Fatyana
+NA-93,Chiniot-1,Punjab,745298,Pakistan Peoples Party,Allah Yar
+NA-93,Chiniot-1,Punjab,745298,Tehreek-e-Labbaik,Muhammas Sarfaraz
+NA-93,Chiniot-1,Punjab,745298,Pakistan Muslim League (Nawaz),Syed Muhammad Raza Bukhari
+NA-94,Chiniot-2,Punjab,817726,Pakistan Tehreek-e-Insaf,Sahibzada Mehboob Sultan
+NA-94,Chiniot-2,Punjab,817726,Pakistan Peoples Party,Syed Inayat Ali Shah
+NA-94,Chiniot-2,Punjab,817726,Tehreek-e-Labbaik,Rehmat Ullah
+NA-94,Chiniot-2,Punjab,817726,Pakistan Muslim League (Nawaz),Qaiser Ahmad Shiekh
+NA-94,Chiniot-2,Punjab,817726,Awami National Party,Muhammad Kamal
+NA-94,Chiniot-2,Punjab,817726,Pakistan Muslim League (Qaid-e-Azam),Arshad Ahmed Qamar
+NA-95,Faisalabad-1,Punjab,898613,Pakistan Tehreek-e-Insaf,Sheikh Waqas Akram
+NA-95,Faisalabad-1,Punjab,898613,Pakistan Peoples Party,Usman Nawaz
+NA-95,Faisalabad-1,Punjab,898613,Tehreek-e-Labbaik,Ghulam Meeran Shah Gillani
+NA-95,Faisalabad-1,Punjab,898613,Pakistan Muslim League (Nawaz),Azad Ali Tabassum
+NA-95,Faisalabad-1,Punjab,898613,Pakistan Awami Tehreek,Khalil ur Rehman
+NA-96,Faisalabad-2,Punjab,897367,Pakistan Tehreek-e-Insaf,Sahibzada Ameer Sultan
+NA-96,Faisalabad-2,Punjab,897367,Pakistan Peoples Party,Muhammad Shahjahan Khan
+NA-96,Faisalabad-2,Punjab,897367,Tehreek-e-Labbaik,Syed Asif Ullah Shah Bukhari
+NA-96,Faisalabad-2,Punjab,897367,Pakistan Muslim League (Nawaz),Nawab Sher
+NA-97,Faisalabad-3,Punjab,866762,Pakistan Tehreek-e-Insaf,Arshad Sahi
+NA-97,Faisalabad-3,Punjab,866762,Pakistan Peoples Party,Muhammad Khan Nadeem
+NA-97,Faisalabad-3,Punjab,866762,Tehreek-e-Labbaik,Hafiz Abid Hussain
+NA-97,Faisalabad-3,Punjab,866762,Pakistan Muslim League (Nawaz),Ali Gohar Khan
+NA-97,Faisalabad-3,Punjab,866762,Istehkam-e-Pakistan,Humayun Akhtar
+NA-98,Faisalabad-4,Punjab,883290,Pakistan Tehreek-e-Insaf,Brig Ejaz Shah
+NA-98,Faisalabad-4,Punjab,883290,Pakistan Peoples Party,Rana Muhammad Farooq Saeed Khan
+NA-98,Faisalabad-4,Punjab,883290,Tehreek-e-Labbaik,Muhammad Jawad Saleem
+NA-98,Faisalabad-4,Punjab,883290,Pakistan Muslim League (Nawaz),Ch Muhammad Shahbaz Babar
+NA-98,Faisalabad-4,Punjab,883290,Pakistan Awami Tehreek,Muhammad Usman
+NA-99,Faisalabad-5,Punjab,899991,Pakistan Tehreek-e-Insaf,Brig Rahat Amanullah Bhatti
+NA-99,Faisalabad-5,Punjab,899991,Pakistan Peoples Party,Neha Javed
+NA-99,Faisalabad-5,Punjab,899991,Tehreek-e-Labbaik,Imran Khan
+NA-99,Faisalabad-5,Punjab,899991,Pakistan Muslim League (Nawaz),Muhammad Qasim Farooq
+NA-100,Faisalabad-6,Punjab,902642,Pakistan Tehreek-e-Insaf,Arshad Mehmood Chaudhary
+NA-100,Faisalabad-6,Punjab,902642,Pakistan Peoples Party,Sidra Saeed
+NA-100,Faisalabad-6,Punjab,902642,Tehreek-e-Labbaik,Abrar Hussain
+NA-100,Faisalabad-6,Punjab,902642,Pakistan Muslim League (Nawaz),Rana Sana Ullah Khan
+NA-101,Faisalabad-7,Punjab,926000,Pakistan Tehreek-e-Insaf,Khurram Shahzad Virk
+NA-101,Faisalabad-7,Punjab,926000,Tehreek-e-Labbaik,Muhammasd Asad Iqbal
+NA-101,Faisalabad-7,Punjab,926000,Pakistan Muslim League (Nawaz),Irfan Ahmad
+NA-102,Faisalabad-8,Punjab,937233,Pakistan Tehreek-e-Insaf,Khurram Munj
+NA-102,Faisalabad-8,Punjab,937233,Pakistan Peoples Party,Naeem Dastgir Khan
+NA-102,Faisalabad-8,Punjab,937233,Tehreek-e-Labbaik,Raja Saleem Abid
+NA-102,Faisalabad-8,Punjab,937233,Pakistan Muslim League (Nawaz),Abid Sher Ali
+NA-103,Faisalabad-9,Punjab,934827,Pakistan Tehreek-e-Insaf,Ali Ejaz Bhuttar
+NA-103,Faisalabad-9,Punjab,934827,Pakistan Peoples Party,Rana Mubashar Hussain
+NA-103,Faisalabad-9,Punjab,934827,Muttahida Qaumi Movement,Muhammad Amin
+NA-103,Faisalabad-9,Punjab,934827,Tehreek-e-Labbaik,Muhammad Gulam Rasool
+NA-103,Faisalabad-9,Punjab,934827,Pakistan Muslim League (Nawaz),Haji Muhammad Akram Ansari
+NA-104,Faisalabad-10,Punjab,929094,Pakistan Tehreek-e-Insaf,Aliya Hamza
+NA-104,Faisalabad-10,Punjab,929094,Pakistan Peoples Party,Basharat Ali / Faqir Muhammad
+NA-104,Faisalabad-10,Punjab,929094,Tehreek-e-Labbaik,Hafiz Muhammad Abu Bakar
+NA-104,Faisalabad-10,Punjab,929094,Pakistan Muslim League (Nawaz),Danyal Ahmed
+NA-104,Faisalabad-10,Punjab,929094,Pakistan Awami Tehreek,Abid hussain
+NA-105,T.T.Singh-1,Punjab,805599,Pakistan Tehreek-e-Insaf,Shahzad Farooq
+NA-105,T.T.Singh-1,Punjab,805599,Pakistan Peoples Party,Sarshar Hassan Cheema
+NA-105,T.T.Singh-1,Punjab,805599,Tehreek-e-Labbaik,Sarshar Hassan Cheema
+NA-105,T.T.Singh-1,Punjab,805599,Pakistan Muslim League (Nawaz),Chaudhary Khalid Javed
+NA-106,T.T.Singh-2,Punjab,827193,Pakistan Tehreek-e-Insaf,Usman Hamza Awan
+NA-106,T.T.Singh-2,Punjab,827193,Pakistan Peoples Party,Muhammad Zulfiqar Ali
+NA-106,T.T.Singh-2,Punjab,827193,Tehreek-e-Labbaik,Mohsin Raza
+NA-106,T.T.Singh-2,Punjab,827193,Pakistan Muslim League (Nawaz),M. Junaid Anwar Chaudhary
+NA-107,T.T.Singh-3,Punjab,879171,Pakistan Tehreek-e-Insaf,Wasim Qadir
+NA-107,T.T.Singh-3,Punjab,879171,Pakistan Peoples Party,Amjad Yaqub
+NA-107,T.T.Singh-3,Punjab,879171,Tehreek-e-Labbaik,Hafiz Farruk Saleem
+NA-107,T.T.Singh-3,Punjab,879171,Pakistan Muslim League (Nawaz),Ch Asad ur Rahman
+NA-108,Jhang-1,Punjab,1007633,Pakistan Tehreek-e-Insaf,Latif Khan Khosa
+NA-108,Jhang-1,Punjab,1007633,Pakistan Peoples Party,Muhammad Haider Shah
+NA-108,Jhang-1,Punjab,1007633,Tehreek-e-Labbaik,Muhammad Ramzan
+NA-108,Jhang-1,Punjab,1007633,Pakistan Muslim League (Nawaz),Makhdoom Faisal Saleh Hayat
+NA-109,Jhang-2,Punjab,1041240,Pakistan Tehreek-e-Insaf,Afzaal Azeem Pahat Advocate
+NA-109,Jhang-2,Punjab,1041240,Pakistan Peoples Party,Muhammad Hyder Ali Bokhari
+NA-109,Jhang-2,Punjab,1041240,Tehreek-e-Labbaik,Nasir Ali
+NA-109,Jhang-2,Punjab,1041240,Pakistan Muslim League (Nawaz),Muhammad Yaqub Sheikh
+NA-110,Jhang-3,Punjab,1028847,Pakistan Tehreek-e-Insaf,Zameer Jedhu Advocate
+NA-110,Jhang-3,Punjab,1028847,Pakistan Peoples Party,Umar Aftab
+NA-110,Jhang-3,Punjab,1028847,Tehreek-e-Labbaik,Muhammad Amad Khan Wajid
+NA-110,Jhang-3,Punjab,1028847,Pakistan Muslim League (Nawaz),Muhammad Asif Muawia
+NA-111,nankana Sahib-1,Punjab,819869,Pakistan Tehreek-e-Insaf,Rana Javed Umar
+NA-111,nankana Sahib-1,Punjab,819869,Pakistan Peoples Party,Muhammad Waqas
+NA-111,nankana Sahib-1,Punjab,819869,Tehreek-e-Labbaik,Muhammad Rizwan
+NA-111,nankana Sahib-1,Punjab,819869,Pakistan Muslim League (Nawaz),Muhammad Barjees Tahir
+NA-112,nankana Sahib-2,Punjab,815002,Pakistan Tehreek-e-Insaf,Malik Touqeer Khokhar
+NA-112,nankana Sahib-2,Punjab,815002,Pakistan Peoples Party,Shahjahan Ahmad Bhatti
+NA-112,nankana Sahib-2,Punjab,815002,Muttahida Qaumi Movement,Agha Muhammad Ali Khan
+NA-112,nankana Sahib-2,Punjab,815002,Tehreek-e-Labbaik,Abrar Ahmed
+NA-112,nankana Sahib-2,Punjab,815002,Pakistan Muslim League (Nawaz),Shezra Mansab Ali Khan Kharal
+NA-113,Sheikhupura-1,Punjab,1066976,Pakistan Tehreek-e-Insaf,Zaheer Abbas Khokar
+NA-113,Sheikhupura-1,Punjab,1066976,Pakistan Peoples Party,Sabir Hussain
+NA-113,Sheikhupura-1,Punjab,1066976,Tehreek-e-Labbaik,Muhammad Nouman Khalid
+NA-113,Sheikhupura-1,Punjab,1066976,Pakistan Muslim League (Nawaz),Ahmad Atteeq Anwer
+NA-113,Sheikhupura-1,Punjab,1066976,Pakistan Awami Tehreek,Muhammad Asif Sulehria
+NA-114,Sheikhupura-2,Punjab,991233,Pakistan Tehreek-e-Insaf,Salman Akram Raja Advocate
+NA-114,Sheikhupura-2,Punjab,991233,Pakistan Peoples Party,Sardar Ali
+NA-114,Sheikhupura-2,Punjab,991233,Tehreek-e-Labbaik,Asif Mehmood
+NA-114,Sheikhupura-2,Punjab,991233,Pakistan Muslim League (Nawaz),Rana  Tanveer Hussain
+NA-114,Sheikhupura-2,Punjab,991233,Pakistan Awami Tehreek,Muhammad khalil
+NA-115,Sheikhupura-3,Punjab,1010658,Pakistan Tehreek-e-Insaf,Mian Muhammad Azhar
+NA-115,Sheikhupura-3,Punjab,1010658,Pakistan Peoples Party,Altaf Hussain Virk
+NA-115,Sheikhupura-3,Punjab,1010658,Tehreek-e-Labbaik,Nadeem Zafar
+NA-115,Sheikhupura-3,Punjab,1010658,Pakistan Muslim League (Nawaz),Javed Latif
+NA-115,Sheikhupura-3,Punjab,1010658,Pakistan Awami Tehreek,Shafique Ahmad
+NA-116,Sheikhupura-4,Punjab,980551,Pakistan Tehreek-e-Insaf,Dr. Yasmeen Rashid
+NA-116,Sheikhupura-4,Punjab,980551,Pakistan Peoples Party,Ria Ijaz Ahmad khan
+NA-116,Sheikhupura-4,Punjab,980551,Tehreek-e-Labbaik,Syed Zaheer ul Hassan Bukhari
+NA-116,Sheikhupura-4,Punjab,980551,Pakistan Muslim League (Nawaz),Sardar Muhammad Irfan Dogar
+NA-117,Lahore-1,Punjab,902499,Pakistan Tehreek-e-Insaf,Maqsood Sabir Ansari
+NA-117,Lahore-1,Punjab,902499,Pakistan Peoples Party,Syed Asif Akhtar Hashmi
+NA-117,Lahore-1,Punjab,902499,Tehreek-e-Labbaik,Saif ur Rehman
+NA-117,Lahore-1,Punjab,902499,Istehkam-e-Pakistan,Abdul Aleem Khan 
+NA-118,Lahore-2,Punjab,965233,Pakistan Tehreek-e-Insaf,Sardar M Hussain Dogar
+NA-118,Lahore-2,Punjab,965233,Pakistan Peoples Party,Shahid Abbas
+NA-118,Lahore-2,Punjab,965233,Tehreek-e-Labbaik,Abid Hussain
+NA-118,Lahore-2,Punjab,965233,Pakistan Muslim League (Nawaz),Muhammad Hamza Shehbaz Sharif
+NA-119,Lahore-3,Punjab,916577,Pakistan Tehreek-e-Insaf,Dr. Azeem Zahid Lakhvi
+NA-119,Lahore-3,Punjab,916577,Pakistan Peoples Party,Iftikhar Shahid
+NA-119,Lahore-3,Punjab,916577,Muttahida Qaumi Movement,Kiran Muhammad Ali
+NA-119,Lahore-3,Punjab,916577,Tehreek-e-Labbaik,Muhammad Zaheer
+NA-119,Lahore-3,Punjab,916577,Pakistan Muslim League (Nawaz),Maryam Nawaz Sharif
+NA-120,Lahore-4,Punjab,937239,Pakistan Tehreek-e-Insaf,Sidra Faisal
+NA-120,Lahore-4,Punjab,937239,Pakistan Peoples Party,Munir Ahmad
+NA-120,Lahore-4,Punjab,937239,Tehreek-e-Labbaik,Rashid Ali
+NA-120,Lahore-4,Punjab,937239,Pakistan Muslim League (Nawaz),Sardar Ayaz Sadiq
+NA-121,Lahore-5,Punjab,902684,Pakistan Tehreek-e-Insaf,Wasim Qadir
+NA-121,Lahore-5,Punjab,902684,Pakistan Peoples Party,Iftikhar Shahid
+NA-121,Lahore-5,Punjab,902684,Muttahida Qaumi Movement,Imran Ashraf
+NA-121,Lahore-5,Punjab,902684,Tehreek-e-Labbaik,Muhammad Yousaf
+NA-121,Lahore-5,Punjab,902684,Pakistan Muslim League (Nawaz),Sheikh Rohale Asghar
+NA-121,Lahore-5,Punjab,902684,Jamaat-e-Islami Pakistan ,Amir Siddiqui
+NA-122,Lahore-6,Punjab,953104,Pakistan Tehreek-e-Insaf,Latif Khan Khosa
+NA-122,Lahore-6,Punjab,953104,Tehreek-e-Labbaik,Muhammad Imtiaz
+NA-122,Lahore-6,Punjab,953104,Pakistan Muslim League (Nawaz),khuwaja Saad Rafique
+NA-123,Lahore-7,Punjab,911608,Pakistan Tehreek-e-Insaf,Afzaal Azeem Pahat Advocate
+NA-123,Lahore-7,Punjab,911608,Pakistan Peoples Party,Muhammad Zia Ul Haq
+NA-123,Lahore-7,Punjab,911608,Tehreek-e-Labbaik,Amjad Naeem
+NA-123,Lahore-7,Punjab,911608,Pakistan Muslim League (Nawaz),Mian Muhammad Shehbaz Sharif
+NA-123,Lahore-7,Punjab,911608,Pakistan Awami Thereek,Latif Ahmad Hussain
+NA-124,Lahore-8,Punjab,901447,Pakistan Tehreek-e-Insaf,Zameer Jedhu Advocate
+NA-124,Lahore-8,Punjab,901447,Tehreek-e-Labbaik,Irfan Ali Bhatti
+NA-124,Lahore-8,Punjab,901447,Pakistan Muslim League (Nawaz),Rana Mubashir Iqbal
+NA-124,Lahore-8,Punjab,901447,Pakistan Awami Thereek,Mujahid Mahmood
+NA-125,Lahore-9,Punjab,899803,Pakistan Tehreek-e-Insaf,Rana Javed Umar
+NA-125,Lahore-9,Punjab,899803,Pakistan Peoples Party,Chaudhry Abdul Ghafoor Khan
+NA-125,Lahore-9,Punjab,899803,Balochistan National Party,Jahanzeb Khan
+NA-125,Lahore-9,Punjab,899803,Tehreek-e-Labbaik,Khuram Shehzad
+NA-125,Lahore-9,Punjab,899803,Pakistan Muslim League (Nawaz),Muhammad Afzal
+NA-125,Lahore-9,Punjab,899803,Pakistan Awami Thereek,Ahmad ikhwan
+NA-126,Lahore-10,Punjab,938880,Pakistan Tehreek-e-Insaf,Malik Touqeer Khokhar
+NA-126,Lahore-10,Punjab,938880,Pakistan Peoples Party,Amjad Ali
+NA-126,Lahore-10,Punjab,938880,Tehreek-e-Labbaik,Muhammad Ahmed Majeed
+NA-126,Lahore-10,Punjab,938880,Pakistan Muslim League (Nawaz),Malik Saif ul Malook Khokhar
+NA-127,Lahore-11,Punjab,972875,Pakistan Tehreek-e-Insaf,Zaheer Abbas Khokar
+NA-127,Lahore-11,Punjab,972875,Pakistan Peoples Party,Bilawal Bhutto Zardari
+NA-127,Lahore-11,Punjab,972875,Tehreek-e-Labbaik,Matloob Ahmed
+NA-127,Lahore-11,Punjab,972875,Pakistan Muslim League (Nawaz),Attaullah Tarar
+NA-128,Lahore-12,Punjab,970499,Pakistan Tehreek-e-Insaf,Salman Akram Raja Advocate
+NA-128,Lahore-12,Punjab,970499,Pakistan Peoples Party,Taimoor Tahir
+NA-128,Lahore-12,Punjab,970499,Muttahida Qaumi Movement,Agha Muhammad Ali Khan
+NA-128,Lahore-12,Punjab,970499,Tehreek-e-Labbaik,Asim Irshad Khan
+NA-128,Lahore-12,Punjab,970499,Istehkam-e-Pakistan Party,Awn Chaudhry
+NA-129,Lahore-13,Punjab,907779,Pakistan Tehreek-e-Insaf,Mian Muhammad Azhar
+NA-129,Lahore-13,Punjab,907779,Pakistan Peoples Party,Aurangzeb Shaafi Burki
+NA-129,Lahore-13,Punjab,907779,Tehreek-e-Labbaik,Bilal Liaquat
+NA-129,Lahore-13,Punjab,907779,Pakistan Muslim League (Nawaz),Muhammad Numan
+NA-130,Lahore-14,Punjab,923908,Pakistan Tehreek-e-Insaf,Dr. Yasmeen Rashid
+NA-130,Lahore-14,Punjab,923908,Pakistan Peoples Party,Iqbal Ahmad Khan
+NA-130,Lahore-14,Punjab,923908,Tehreek-e-Labbaik,Muhammad Khuram Riaz
+NA-130,Lahore-14,Punjab,923908,Pakistan Muslim League (Nawaz),Muhammad Nawaz Sharif
+NA-131,Kasur-1,Punjab,1040674,Pakistan Tehreek-e-Insaf,barrister Taimur Malik
+NA-131,Kasur-1,Punjab,1040674,Pakistan Peoples Party,Chaudhry Manzoor Ahmad
+NA-131,Kasur-1,Punjab,1040674,Tehreek-e-Labbaik,Hafiz Muneeb Ahmad
+NA-131,Kasur-1,Punjab,1040674,Pakistan Muslim League (Nawaz),Saad Waseem
+NA-132,Kasur-2,Punjab,987859,Pakistan Tehreek-e-Insaf,Sardar M Hussain Dogar
+NA-132,Kasur-2,Punjab,987859,Pakistan Peoples Party,Shahoom Safdar
+NA-132,Kasur-2,Punjab,987859,Tehreek-e-Labbaik,Faqeer Hussain
+NA-132,Kasur-2,Punjab,987859,Pakistan Muslim League (Nawaz),Mian Muhammad Shehbaz Sharif
+NA-133,Kasur-3,Punjab,1022019,Pakistan Tehreek-e-Insaf,Dr. Azeem Zahid Lakhvi
+NA-133,Kasur-3,Punjab,1022019,Pakistan Peoples Party,Muhammad Irshad Khan
+NA-133,Kasur-3,Punjab,1022019,Tehreek-e-Labbaik,Ghulam Murtaza
+NA-133,Kasur-3,Punjab,1022019,Pakistan Muslim League (Nawaz),Rana Muhammad Ishaq Khan
+NA-133,Kasur-3,Punjab,1022019,Istehkam-e-Pakistan Party,Hashim Dogra
+NA-134,Kasur-4,Punjab,1033734,Pakistan Tehreek-e-Insaf,Sidra Faisal
+NA-134,Kasur-4,Punjab,1033734,Pakistan Peoples Party,Syed Raza Abbas
+NA-134,Kasur-4,Punjab,1033734,Tehreek-e-Labbaik,Manzoor Ilahi
+NA-134,Kasur-4,Punjab,1033734,Pakistan Muslim League (Nawaz),Rana Muhammad Hayat Khan
+NA-135,Okara-1,Punjab,849059,Pakistan Tehreek-e-Insaf,Malik Akram Bhatti
+NA-135,Okara-1,Punjab,849059,Pakistan Peoples Party,Rai Ghulam Mujtaba Kharal
+NA-135,Okara-1,Punjab,849059,Tehreek-e-Labbaik,Farzand Nasim
+NA-135,Okara-1,Punjab,849059,Pakistan Muslim League (Nawaz),Nadeem Abbas
+NA-136,Okara-2,Punjab,900262,Pakistan Tehreek-e-Insaf,Rao Hassan Sikandar
+NA-136,Okara-2,Punjab,900262,Pakistan Peoples Party,Sajjad Ul Hassan
+NA-136,Okara-2,Punjab,900262,Tehreek-e-Labbaik,Munawar Javaid
+NA-136,Okara-2,Punjab,900262,Pakistan Muslim League (Nawaz),Riaz Ul Haq 
+NA-137,Okara-3,Punjab,879120,Pakistan Tehreek-e-Insaf,Syed Raza Ali Gilani
+NA-137,Okara-3,Punjab,879120,Pakistan Peoples Party,Muhammad Yasin
+NA-137,Okara-3,Punjab,879120,Tehreek-e-Labbaik,Muhammad Anwar
+NA-137,Okara-3,Punjab,879120,Pakistan Muslim League (Nawaz),Rao Muhammad Ajmal Khan
+NA-137,Okara-3,Punjab,879120,Pakistan Awami Thereek,Muhammad Rafi
+NA-138,Okara-4,Punjab,868895,Pakistan Tehreek-e-Insaf,Mian Arshad Ali Khan Mayo
+NA-138,Okara-4,Punjab,868895,Pakistan Peoples Party,Ahmed Hassan
+NA-138,Okara-4,Punjab,868895,Tehreek-e-Labbaik,Muhammad Mushtaq Rehmani
+NA-138,Okara-4,Punjab,868895,Pakistan Muslim League (Nawaz),Muhammad Mueen Watto
+NA-139,Pakpattan-1,Punjab,1075327,Pakistan Tehreek-e-Insaf,Rao Umar Hashim
+NA-139,Pakpattan-1,Punjab,1075327,Pakistan Peoples Party,Mian Humayun Sarwar Bodla
+NA-139,Pakpattan-1,Punjab,1075327,Tehreek-e-Labbaik,Ghulam Mohyu Din
+NA-139,Pakpattan-1,Punjab,1075327,Pakistan Muslim League (Nawaz),Ahmad Raza Maneka
+NA-139,Pakpattan-1,Punjab,1075327,Jamaat-e-Islami Pakistan ,Shaukat Ali Bhatti
+NA-140,Pakpattan-2,Punjab,1060843,Pakistan Tehreek-e-Insaf,Raja Talia Saeed
+NA-140,Pakpattan-2,Punjab,1060843,Pakistan Peoples Party,Shaukat Ali Bajwa
+NA-140,Pakpattan-2,Punjab,1060843,Tehreek-e-Labbaik,Waseem Zafar
+NA-140,Pakpattan-2,Punjab,1060843,Pakistan Muslim League (Nawaz),Rana Iradat Sharif Khan
+NA-141,Sahiwal-1,Punjab,1005822,Pakistan Tehreek-e-Insaf,Rana Aamir Shahzad
+NA-141,Sahiwal-1,Punjab,1005822,Pakistan Peoples Party,Muhammad Zaki
+NA-141,Sahiwal-1,Punjab,1005822,Tehreek-e-Labbaik,Abdul Qadir
+NA-141,Sahiwal-1,Punjab,1005822,Pakistan Muslim League (Nawaz),Syed Imran Ahmad Shah
+NA-141,Sahiwal-1,Punjab,1005822,Jamaat-e-Islami Pakistan ,Muhammad Rehmat Ullah
+NA-142,Sahiwal-2,Punjab,966654,Pakistan Tehreek-e-Insaf,Muhammad Usman
+NA-142,Sahiwal-2,Punjab,966654,Pakistan Peoples Party,Ghulam Farid Kathia
+NA-142,Sahiwal-2,Punjab,966654,Tehreek-e-Labbaik,Rai Munsif Shabbir Ahmad
+NA-142,Sahiwal-2,Punjab,966654,Pakistan Muslim League (Nawaz),Ch Muhammad Ashraf
+NA-143,Sahiwal-3,Punjab,927489,Pakistan Tehreek-e-Insaf,Rai Hassan Nawaz Khan
+NA-143,Sahiwal-3,Punjab,927489,Pakistan Peoples Party,Ali Javed
+NA-143,Sahiwal-3,Punjab,927489,Tehreek-e-Labbaik,Majid Hussain
+NA-143,Sahiwal-3,Punjab,927489,Pakistan Awami Thereek,Salwat Shahzad Aziz
+NA-143,Sahiwal-3,Punjab,927489,Istehkam-e-Pakistan Party,Malik Nauman Langriyal
+NA-144,Khanewal-1,Punjab,860091,Pakistan Tehreek-e-Insaf,Shahbaz Ahmad Khan
+NA-144,Khanewal-1,Punjab,860091,Pakistan Peoples Party,Muhammad Zaman
+NA-144,Khanewal-1,Punjab,860091,Tehreek-e-Labbaik,Muhammad Mushtaq 
+NA-144,Khanewal-1,Punjab,860091,Pakistan Muslim League (Nawaz),Syed Muhammad Mukhtar Hussain
+NA-145,Khanewal-2,Punjab,815060,Pakistan Tehreek-e-Insaf,Abid Mehmood Khagga
+NA-145,Khanewal-2,Punjab,815060,Pakistan Peoples Party,Rana Abdul Rehman Khan
+NA-145,Khanewal-2,Punjab,815060,Tehreek-e-Labbaik,Muhammad Wakeel
+NA-145,Khanewal-2,Punjab,815060,Pakistan Muslim League (Nawaz),Muhammad Khan Daha
+NA-146,Khanewal-3,Punjab,872581,Pakistan Tehreek-e-Insaf,Imran Shah Khagga
+NA-146,Khanewal-3,Punjab,872581,Pakistan Peoples Party,Shahid Bashir
+NA-146,Khanewal-3,Punjab,872581,Tehreek-e-Labbaik,Hafiz Muhammad Imran Siddiq
+NA-146,Khanewal-3,Punjab,872581,Pakistan Muslim League (Nawaz),Pir Muhammad Aslam Bodla Siddiqui
+NA-146,Khanewal-3,Punjab,872581,Pakistan Awami Thereek,Mian Noor Ahmad
+NA-147,Khanewal-4,Punjab,816345,Pakistan Tehreek-e-Insaf,Mian Naveed Jahania
+NA-147,Khanewal-4,Punjab,816345,Tehreek-e-Labbaik,Gulam Abbas
+NA-147,Khanewal-4,Punjab,816345,Pakistan Muslim League (Nawaz),Choudhary Iftikhar Nazir
+NA-147,Khanewal-4,Punjab,816345,Istehkam-e-Pakistan Party,Mohammad Ayaz Khan Niazi 
+NA-148,Mulatn-1,Punjab,910134,Pakistan Tehreek-e-Insaf,Barrister Taimur Malik
+NA-148,Mulatn-1,Punjab,910134,Pakistan Peoples Party,Syed Yousaf Raza Gilani
+NA-148,Mulatn-1,Punjab,910134,Tehreek-e-Labbaik,Malik Azhar Ahmed Sandila
+NA-148,Mulatn-1,Punjab,910134,Pakistan Muslim League (Nawaz),Ahmad Hussain
+NA-148,Mulatn-1,Punjab,910134,Pakistan Muslim League (Qaid-e-Azam),Aneela Iftikhar
+NA-149,Mulatn-2,Punjab,907757,Pakistan Tehreek-e-Insaf,Malik Amir Dogar
+NA-149,Mulatn-2,Punjab,907757,Pakistan Peoples Party,Rizwan Ahmed Makki Haans
+NA-149,Mulatn-2,Punjab,907757,Muttahida Qaumi Movement,Muhammad Rashid Saleem Khanzada
+NA-149,Mulatn-2,Punjab,907757,Tehreek-e-Labbaik,Zahid Hameed Gujjar
+NA-149,Mulatn-2,Punjab,907757,Istehkam-e-Pakistan Party,Jahangir Khan Tareen
+NA-150,Mulatn-3,Punjab,899916,Pakistan Tehreek-e-Insaf,Zain Qureshi
+NA-150,Mulatn-3,Punjab,899916,Pakistan Peoples Party,Rana Mahmood ul Hassan
+NA-150,Mulatn-3,Punjab,899916,Tehreek-e-Labbaik,Muhammad Hussain Babar
+NA-150,Mulatn-3,Punjab,899916,Pakistan Muslim League (Nawaz),Javed Akhtar
+NA-150,Mulatn-3,Punjab,899916,Awami National Party,Sheheryar Khan
+NA-151,Mulatn-4,Punjab,879112,Pakistan Tehreek-e-Insaf,Mehar Bano Qureshi
+NA-151,Mulatn-4,Punjab,879112,Pakistan Peoples Party,Syed Ali Musa Gilani
+NA-151,Mulatn-4,Punjab,879112,Tehreek-e-Labbaik,Irshad Ali Babar
+NA-151,Mulatn-4,Punjab,879112,Pakistan Muslim League (Nawaz),Abdul Ghaffar
+NA-152,Mulatn-5,Punjab,871916,Pakistan Tehreek-e-Insaf,Imran Shaukat
+NA-152,Mulatn-5,Punjab,871916,Pakistan Peoples Party,Syed Abdul Qadir Gilani
+NA-152,Mulatn-5,Punjab,871916,Tehreek-e-Labbaik,Syed Atta Ullah Shah Bukhari
+NA-152,Mulatn-5,Punjab,871916,Pakistan Muslim League (Nawaz),Syed Javed Ali Shah
+NA-153,Mulatn-6,Punjab,893470,Pakistan Tehreek-e-Insaf,Dr. Riaz Lang
+NA-153,Mulatn-6,Punjab,893470,Pakistan Peoples Party,Hamid Ali
+NA-153,Mulatn-6,Punjab,893470,Tehreek-e-Labbaik,Syed Shahid Zahoor Gillani
+NA-153,Mulatn-6,Punjab,893470,Pakistan Muslim League (Nawaz),Rana Muhammad Qasim Noon
+NA-154,Lodhran-1,Punjab,940216,Pakistan Tehreek-e-Insaf,Rana Faraz Ahmad Noon
+NA-154,Lodhran-1,Punjab,940216,Pakistan Peoples Party,Imdad Ullah Abbasi
+NA-154,Lodhran-1,Punjab,940216,Tehreek-e-Labbaik,Muhammad zubair
+NA-154,Lodhran-1,Punjab,940216,Pakistan Muslim League (Nawaz),Abdul Rehman Khan Kanju
+NA-155,Lodhran-2,Punjab,988083,Pakistan Tehreek-e-Insaf,Iffat Somro
+NA-155,Lodhran-2,Punjab,988083,Pakistan Peoples Party,Muhammad Azhar
+NA-155,Lodhran-2,Punjab,988083,Tehreek-e-Labbaik,Rana Muhammad Rafiq
+NA-155,Lodhran-2,Punjab,988083,Pakistan Muslim League (Nawaz),Khan Muhammad Siddique Khan Balooch
+NA-155,Lodhran-2,Punjab,988083,Istehkam-e-Pakistan Party,Jahangir Khan Tareen
+NA-156,Vehari-1,Punjab,890111,Pakistan Tehreek-e-Insaf,Ayesha Nazir Jutt
+NA-156,Vehari-1,Punjab,890111,Pakistan Peoples Party,Kamran Yusuf Ghumman
+NA-156,Vehari-1,Punjab,890111,Tehreek-e-Labbaik,Shehbaz Ahmad
+NA-156,Vehari-1,Punjab,890111,Pakistan Muslim League (Nawaz),Chaudhry Nazir Ahmad
+NA-157,Vehari-2,Punjab,814217,Pakistan Tehreek-e-Insaf,Sabeen Safdar Bandesha
+NA-157,Vehari-2,Punjab,814217,Tehreek-e-Labbaik,Muhammad Ali Langrial
+NA-157,Vehari-2,Punjab,814217,Pakistan Muslim League (Nawaz),Sajid Mehdi
+NA-158,Vehari-3,Punjab,870478,Pakistan Tehreek-e-Insaf,Tahir Iqbal Chaudhary
+NA-158,Vehari-3,Punjab,870478,Pakistan Peoples Party,Muhammad Kashif Mushtaq Bhabha
+NA-158,Vehari-3,Punjab,870478,Tehreek-e-Labbaik,Syed Muhammad Ismail Shah
+NA-158,Vehari-3,Punjab,870478,Pakistan Muslim League (Nawaz),Gegum Tehmina Daultana
+NA-159,Vehari-4,Punjab,855615,Pakistan Tehreek-e-Insaf,Aurangzeb Khichi
+NA-159,Vehari-4,Punjab,855615,Pakistan Peoples Party,Mahmood Hayat Khan
+NA-159,Vehari-4,Punjab,855615,Tehreek-e-Labbaik,Muhammad Iqbal
+NA-159,Vehari-4,Punjab,855615,Pakistan Muslim League (Nawaz),Saeed Ahmad Khan Manais
+NA-160,Bahawalnagar-1,Punjab,870484,Pakistan Tehreek-e-Insaf,Dr. Noor Ghafari
+NA-160,Bahawalnagar-1,Punjab,870484,Tehreek-e-Labbaik,Hafiz Muhammad Saad
+NA-160,Bahawalnagar-1,Punjab,870484,Pakistan Muslim League (Nawaz),Muhammad Abdul Ghaffar Watto
+NA-161,Bahawalnagar-2,Punjab,900954,Pakistan Tehreek-e-Insaf,Shahid Ameen Akooka
+NA-161,Bahawalnagar-2,Punjab,900954,Pakistan Peoples Party,Najeeb Ur Rehman
+NA-161,Bahawalnagar-2,Punjab,900954,Tehreek-e-Labbaik,Aftab Ahmad Joiya
+NA-161,Bahawalnagar-2,Punjab,900954,Pakistan Muslim League (Nawaz),Alam Dad Laleka
+NA-162,Bahawalnagar-3,Punjab,866244,Pakistan Tehreek-e-Insaf,Ch Khalil Arain
+NA-162,Bahawalnagar-3,Punjab,866244,Pakistan Peoples Party,Mian Muhammad Ali Laleka
+NA-162,Bahawalnagar-3,Punjab,866244,Tehreek-e-Labbaik,Muhammad Athar
+NA-162,Bahawalnagar-3,Punjab,866244,Pakistan Muslim League (Nawaz),Ehsan ul Haq Bajwa
+NA-163,Bahawalnagar-4,Punjab,912660,Pakistan Tehreek-e-Insaf,Shaukat Basra
+NA-163,Bahawalnagar-4,Punjab,912660,Pakistan Peoples Party,Aitzaz Rasheed
+NA-163,Bahawalnagar-4,Punjab,912660,Tehreek-e-Labbaik,Hafiz Muhammad Ahmad Bukhari
+NA-163,Bahawalnagar-4,Punjab,912660,Pakistan Muslim League (Nawaz),Noor ul Hassan Tanvir
+NA-164,Bahawalpur-1,Punjab,835131,Pakistan Tehreek-e-Insaf,Ijaz Ghaddan
+NA-164,Bahawalpur-1,Punjab,835131,Pakistan Peoples Party,Syed Erfan Ahmed Garderi
+NA-164,Bahawalpur-1,Punjab,835131,Tehreek-e-Labbaik,Gulam Farid
+NA-164,Bahawalpur-1,Punjab,835131,Pakistan Muslim League (Nawaz),Mian Riaz Hussain Pirzada
+NA-165,Bahawalpur-2,Punjab,844681,Pakistan Tehreek-e-Insaf,Basharat Randhawa
+NA-165,Bahawalpur-2,Punjab,844681,Pakistan Peoples Party,Qutab Din
+NA-165,Bahawalpur-2,Punjab,844681,Tehreek-e-Labbaik,Muhammad Arshad
+NA-165,Bahawalpur-2,Punjab,844681,Pakistan Muslim League (Qaid-e-Azam),Chaudhary Tariq Basheer Cheema
+NA-166,Bahawalpur-3,Punjab,829152,Pakistan Tehreek-e-Insaf,Kanwal Shauzab
+NA-166,Bahawalpur-3,Punjab,829152,Pakistan Peoples Party,Mukhdoom Syed Ali Hassan Gillani
+NA-166,Bahawalpur-3,Punjab,829152,Tehreek-e-Labbaik,Syed Ishrat Jahanian Bukhari
+NA-166,Bahawalpur-3,Punjab,829152,Pakistan Muslim League (Nawaz),Mk Syed Sami_ul_Hasan Gilani
+NA-167,Bahawalpur-4,Punjab,829152,Pakistan Tehreek-e-Insaf,Malik Mehboob Ahmed
+NA-167,Bahawalpur-4,Punjab,829152,Pakistan Peoples Party,Shahrukh Malik
+NA-167,Bahawalpur-4,Punjab,829152,Tehreek-e-Labbaik,Muhammad Akhtar Abbasi
+NA-167,Bahawalpur-4,Punjab,829152,Pakistan Muslim League (Nawaz),Muhammad Usman   Awaisi
+NA-168,Bahawalpur-5,Punjab,903795,Pakistan Tehreek-e-Insaf,Sami Ullah Chaudhary
+NA-168,Bahawalpur-5,Punjab,903795,Pakistan Peoples Party,Hussain Ahmad Madni
+NA-168,Bahawalpur-5,Punjab,903795,Tehreek-e-Labbaik,Syed Muhammad Irfan Shah
+NA-168,Bahawalpur-5,Punjab,903795,Pakistan Muslim League (Nawaz),Malik Muhammad Iqbal 
+NA-168,Bahawalpur-5,Punjab,903795,Pakistan Muslim League (Qaid-e-Azam),Chaudhary Tariq Basheer Cheema
+NA-169,R.Y.Khan-1,Punjab,968541,Pakistan Tehreek-e-Insaf,Raja Saleem
+NA-169,R.Y.Khan-1,Punjab,968541,Pakistan Peoples Party,Syed Murtaza Mahmud
+NA-169,R.Y.Khan-1,Punjab,968541,Tehreek-e-Labbaik,Muhammad Sohail Manzoor
+NA-169,R.Y.Khan-1,Punjab,968541,Pakistan Muslim League (Nawaz),Syed Mobeen Ahmed
+NA-170,R.Y.Khan-2,Punjab,968541,Pakistan Tehreek-e-Insaf,Mian Ghous
+NA-170,R.Y.Khan-2,Punjab,968541,Pakistan Peoples Party,Syed Hamid Saeed Kazmi
+NA-170,R.Y.Khan-2,Punjab,968541,Tehreek-e-Labbaik,Hafiz Muhammad Ahmad Bukhari
+NA-170,R.Y.Khan-2,Punjab,968541,Pakistan Muslim League (Nawaz),Sheikh Fayyaz Ud Din
+NA-171,R.Y.Khan-3,Punjab,889123,Pakistan Tehreek-e-Insaf,Mumtaz Mustafa Advocate
+NA-171,R.Y.Khan-3,Punjab,889123,Pakistan Peoples Party,Makhdoom Moeen Uddin Ali
+NA-171,R.Y.Khan-3,Punjab,889123,Tehreek-e-Labbaik,Muhammad Farooq Ul Hassan
+NA-171,R.Y.Khan-3,Punjab,889123,Pakistan Muslim League (Nawaz),Makhdoom Moeen Uddin Ali
+NA-172,R.Y.Khan-4,Punjab,964516,Pakistan Tehreek-e-Insaf,Chaudhary Javed Iqbal Waraich
+NA-172,R.Y.Khan-4,Punjab,964516,Pakistan Peoples Party,Choudhary Zafar Iqbal Warriach
+NA-172,R.Y.Khan-4,Punjab,964516,Tehreek-e-Labbaik,Muhammad Abbas
+NA-172,R.Y.Khan-4,Punjab,964516,Pakistan Muslim League (Nawaz),Mian Imtiaz Ahmad
+NA-173,R.Y.Khan-5,Punjab,884934,Pakistan Tehreek-e-Insaf,Barrister Nabeel Dahrir
+NA-173,R.Y.Khan-5,Punjab,884934,Pakistan Peoples Party,Syed Mustafa Mehmood 
+NA-173,R.Y.Khan-5,Punjab,884934,Tehreek-e-Labbaik,Allah Bakhsh
+NA-173,R.Y.Khan-5,Punjab,884934,Pakistan Muslim League (Nawaz),Uzair Tariq
+NA-174,R.Y.Khan-6,Punjab,917416,Pakistan Tehreek-e-Insaf,Raees Mehboob
+NA-174,R.Y.Khan-6,Punjab,917416,Pakistan Peoples Party,Syed Usman Mehmood
+NA-174,R.Y.Khan-6,Punjab,917416,Tehreek-e-Labbaik,Allah Bakhsh
+NA-174,R.Y.Khan-6,Punjab,917416,Pakistan Muslim League (Nawaz),Muhammad Azhar Khan Leghari
+NA-175,Muzaffargarh-1,Punjab,909230,Pakistan Tehreek-e-Insaf,Jamshaid Dasti
+NA-175,Muzaffargarh-1,Punjab,909230,Pakistan Peoples Party,Mahar Irshad Ahmad Khan
+NA-175,Muzaffargarh-1,Punjab,909230,Tehreek-e-Labbaik,Muhammad Yar Mehboob Khar
+NA-175,Muzaffargarh-1,Punjab,909230,Pakistan Muslim League (Nawaz),Hammad Nawaz Khan
+NA-176,Muzaffargarh-2,Punjab,865925,Pakistan Tehreek-e-Insaf,Nawab Muhammad Ahmad Khan
+NA-176,Muzaffargarh-2,Punjab,865925,Pakistan Peoples Party,Nawab Muhammad Ahmad Khan
+NA-176,Muzaffargarh-2,Punjab,865925,Tehreek-e-Labbaik,Abdul Wahab
+NA-176,Muzaffargarh-2,Punjab,865925,Pakistan Muslim League (Nawaz),Makhdoomzada S B A Sultan
+NA-177,Muzaffargarh-3,Punjab,876697,Pakistan Tehreek-e-Insaf,Moazam Jatoi
+NA-177,Muzaffargarh-3,Punjab,876697,Pakistan Peoples Party,Muhammad Zaffarullah Khan Laghari
+NA-177,Muzaffargarh-3,Punjab,876697,Tehreek-e-Labbaik,Rao Atif Ali Khan
+NA-177,Muzaffargarh-3,Punjab,876697,Pakistan Muslim League (Nawaz),Syeda Shehr Bano Bukhari 
+NA-178,Muzaffargarh-4,Punjab,876715,Pakistan Tehreek-e-Insaf,Abdul Qayum Jatoi
+NA-178,Muzaffargarh-4,Punjab,876715,Tehreek-e-Labbaik,Muhammad Shafi Khan
+NA-178,Muzaffargarh-4,Punjab,876715,Pakistan Muslim League (Nawaz),Aamir Talal Khan
+NA-179,Kot Addu-1,Punjab,772836,Pakistan Tehreek-e-Insaf,Shabbir Qureshi
+NA-179,Kot Addu-1,Punjab,772836,Pakistan Peoples Party,Muhammad Amjad Abbas
+NA-179,Kot Addu-1,Punjab,772836,Tehreek-e-Labbaik,Syed Muhammad Sarwar Shah
+NA-179,Kot Addu-1,Punjab,772836,Pakistan Muslim League (Nawaz),Malik Ghulam Qasim Hanjra
+NA-180,Kot Addu-2,Punjab,713922,Pakistan Tehreek-e-Insaf,Mian Fayaz Chajra
+NA-180,Kot Addu-2,Punjab,713922,Pakistan Peoples Party,Raza Rabbani Khar
+NA-180,Kot Addu-2,Punjab,713922,Tehreek-e-Labbaik,Allah Bachaya
+NA-180,Kot Addu-2,Punjab,713922,Pakistan Muslim League (Nawaz),Abdul Khaliq Khar
+NA-181,Layyah-1,Punjab,1056175,Pakistan Tehreek-e-Insaf,Mrs. Amber Majeed Niazi
+NA-181,Layyah-1,Punjab,1056175,Pakistan Peoples Party,Sardar Bahadur Admad Khan
+NA-181,Layyah-1,Punjab,1056175,Tehreek-e-Labbaik,Muhammad Shahid Iqbal
+NA-181,Layyah-1,Punjab,1056175,Pakistan Muslim League (Nawaz),Sahibzada Faiz Ul Hassan
+NA-181,Layyah-1,Punjab,1056175,Pakistan Awami Thereek,Aman Ullah
+NA-182,Layyah-2,Punjab,1046211,Pakistan Tehreek-e-Insaf,Awais Haider Jhakar
+NA-182,Layyah-2,Punjab,1046211,Pakistan Peoples Party,Muhammad Ramzan
+NA-182,Layyah-2,Punjab,1046211,Tehreek-e-Labbaik,Muhammad Yousaf
+NA-182,Layyah-2,Punjab,1046211,Pakistan Muslim League (Nawaz),Syed Muhammad  Saqlain Bukhari
+NA-183,Taunsa,Punjab,965311,Pakistan Tehreek-e-Insaf,Khwaja Sheraz Mehmood
+NA-183,Taunsa,Punjab,965311,Tehreek-e-Labbaik,Maqsood Ahmad
+NA-183,Taunsa,Punjab,965311,Pakistan Muslim League (Nawaz),Muhammad Amjad  Farooq Khan Khosa
+NA-184,D.G.Khan-1,Punjab,824356,Pakistan Tehreek-e-Insaf,Ali Muhammad Khalul
+NA-184,D.G.Khan-1,Punjab,824356,Tehreek-e-Labbaik,Irfan Ullah
+NA-184,D.G.Khan-1,Punjab,824356,Pakistan Muslim League (Nawaz),Abdul Qadir Khan
+NA-185,D.G.Khan-2,Punjab,823140,Pakistan Tehreek-e-Insaf,Zartaj Gul Wazir
+NA-185,D.G.Khan-2,Punjab,823140,Tehreek-e-Labbaik,Sardar Dost M Khan Khosa
+NA-185,D.G.Khan-2,Punjab,823140,Muttahida Qaumi Movement,Azhar Ul Haq Qureshi siddique
+NA-185,D.G.Khan-2,Punjab,823140,Pakistan Muslim League (Nawaz),Zaka Ullah
+NA-186,D.G.Khan-3,Punjab,780898,Pakistan Tehreek-e-Insaf,Mehar Sajjad Cheena
+NA-186,D.G.Khan-3,Punjab,780898,Pakistan Peoples Party,Sardar Dost M Khan Khosa
+NA-186,D.G.Khan-3,Punjab,780898,Tehreek-e-Labbaik,Syed Munir Hussain
+NA-186,D.G.Khan-3,Punjab,780898,Pakistan Muslim League (Nawaz),Sardar Awais Ahmad Khan Leghari
+NA-187,Rajanpur-1,Punjab,799415,Pakistan Tehreek-e-Insaf,Atif Ali Khan Dhreshak
+NA-187,Rajanpur-1,Punjab,799415,Pakistan Peoples Party,Athar Hassan Khan Gorchani
+NA-187,Rajanpur-1,Punjab,799415,Tehreek-e-Labbaik,Gulam Yaseen
+NA-187,Rajanpur-1,Punjab,799415,Pakistan Muslim League (Nawaz),Ammar Ahmad Khan Leghari
+NA-188,Rajanpur-2,Punjab,793321,Pakistan Tehreek-e-Insaf,Ahmed Ali Khan Dhreshak
+NA-188,Rajanpur-2,Punjab,793321,Pakistan Peoples Party,Liaqat Ali
+NA-188,Rajanpur-2,Punjab,793321,Tehreek-e-Labbaik,Sohail Anwar
+NA-188,Rajanpur-2,Punjab,793321,Pakistan Muslim League (Nawaz),Hafeez Ur Rehman Khan Drishak
+NA-189,Rajanpur-3,Punjab,788313,Pakistan Tehreek-e-Insaf,Zahid Mehmood Mazari
+NA-189,Rajanpur-3,Punjab,788313,Tehreek-e-Labbaik,Qari Ghulam Akber
+NA-189,Rajanpur-3,Punjab,788313,Pakistan Muslim League (Nawaz),Sardar Riaz Mahmood Khan Mazari
+NA-190,Jacobabad,Sindh,967956,Pakistan Peoples Party,Aijaz Hussain Jakhrani
+NA-190,Jacobabad,Sindh,967956,Jamaat-e-Islami Pakistan ,Muhammad Rehmat Ullah
+NA-191,Jacobabad-CumKashmore,Sindh,994642,Pakistan Peoples Party,Ali Jan Mazari
+NA-191,Jacobabad-CumKashmore,Sindh,994642,Jamiat Ulema-e-Islam (F),Shahzane Khan
+NA-191,Jacobabad-CumKashmore,Sindh,994642,Istehkam-e-Pakistan Party,Mir Fayyaz Ahmed
+NA-192,Kashmore-CumShikarpur,Sindh,917453,Pakistan Tehreek-e-Insaf,Muhammad Alam Bajarani
+NA-192,Kashmore-CumShikarpur,Sindh,917453,Pakistan Peoples Party,Mir Shabbir Ali Bijarani
+NA-192,Kashmore-CumShikarpur,Sindh,917453,Jamiat Ulema-e-Islam (F),Mohammad Ibrahim Jatoi
+NA-192,Kashmore-CumShikarpur,Sindh,917453,Jamaat-e-Islami Pakistan ,Abdul Fatah Pathan
+NA-193,Shikarpur,Sindh,914333,Pakistan Tehreek-e-Insaf,Maqsood Ali
+NA-193,Shikarpur,Sindh,914333,Pakistan Peoples Party,Muhammad Shahryar Khan Mahar
+NA-193,Shikarpur,Sindh,914333,Muttahida Qaumi Movement,Abdul jalil
+NA-193,Shikarpur,Sindh,914333,Jamiat Ulema-e-Islam (F),Rashid Mahmood Soorero
+NA-194,Larkana-1,Sindh,890703,Pakistan Tehreek-e-Insaf,Saif Ullah Abro
+NA-194,Larkana-1,Sindh,890703,Pakistan Peoples Party,Bilawal Bhutto Zardari
+NA-194,Larkana-1,Sindh,890703,Muttahida Qaumi Movement,Zameer Ahmed
+NA-194,Larkana-1,Sindh,890703,Jamiat Ulema-e-Islam (F),Rashid Mahmood Soomro
+NA-194,Larkana-1,Sindh,890703,Jamaat-e-Islami Pakistan ,Muhammad Ashique
+NA-194,Larkana-1,Sindh,890703,Pakistan Awami Thereek,Gul Hassan
+NA-195,Larkana-2,Sindh,893750,Pakistan Peoples Party,Nazir Ahmed Bhugio
+NA-195,Larkana-2,Sindh,893750,Muttahida Qaumi Movement,Ghulam yaseen
+NA-195,Larkana-2,Sindh,893750,Pakistan Muslim League (Functional),Safdar Ali Abbasi
+NA-196,Kamber Shahdadkot-1,Sindh,772747,Pakistan Tehreek-e-Insaf,Habibullah
+NA-196,Kamber Shahdadkot-1,Sindh,772747,Pakistan Peoples Party,Bilawal Bhutto Zardari
+NA-196,Kamber Shahdadkot-1,Sindh,772747,Muttahida Qaumi Movement,Aijaz Ali
+NA-196,Kamber Shahdadkot-1,Sindh,772747,Jamiat Ulema-e-Islam (F),Nasir Mahmood
+NA-196,Kamber Shahdadkot-1,Sindh,772747,Jamaat-e-Islami Pakistan ,Muhammad Ibrahim
+NA-197,Kamber Shahdadkot-2,Sindh,742122,Pakistan Tehreek-e-Insaf,Raja Abdul Haque
+NA-197,Kamber Shahdadkot-2,Sindh,742122,Pakistan Peoples Party,Mir Amir Ali Khan Magsi
+NA-197,Kamber Shahdadkot-2,Sindh,742122,Muttahida Qaumi Movement,ahmad Ali Buriro
+NA-197,Kamber Shahdadkot-2,Sindh,742122,Jamiat Ulema-e-Islam (F),Muhammad Uzair jagirani
+NA-198,Ghotki-1,Sindh,897715,Pakistan Tehreek-e-Insaf,Syed Mumtaz Ali Shah
+NA-198,Ghotki-1,Sindh,897715,Pakistan Peoples Party,Khalid Ahmed Khan lund
+NA-198,Ghotki-1,Sindh,897715,Muttahida Qaumi Movement,Muhammad Yaseen
+NA-199,Ghotki-2,Sindh,874894,Pakistan Tehreek-e-Insaf,Lalchand Malhi
+NA-199,Ghotki-2,Sindh,874894,Pakistan Peoples Party,Ali Gohar KhanMahar
+NA-199,Ghotki-2,Sindh,874894,Muttahida Qaumi Movement,Muhammad Shahid
+NA-199,Ghotki-2,Sindh,874894,Jamiat Ulema-e-Islam (F),Abdul Qayoom
+NA-199,Ghotki-2,Sindh,874894,Jamaat-e-Islami Pakistan ,Shakeela
+NA-200,Sukkur-1,Sindh,846935,Pakistan Tehreek-e-Insaf,Makhdoom Shah Mehmood Qureshi
+NA-200,Sukkur-1,Sindh,846935,Pakistan Peoples Party,Nauman Islam Shaikh
+NA-200,Sukkur-1,Sindh,846935,Pakistan Muslim League (Functional),Deedar Ali
+NA-200,Sukkur-1,Sindh,846935,Jamaat-e-Islami Pakistan ,Hisbullah Jakro
+NA-200,Sukkur-1,Sindh,846935,Pakistan Muslim League (Qaid-e-Azam),Abdul Qadir
+NA-201,Sukkur-2,Sindh,792962,Pakistan Tehreek-e-Insaf,Mehar u Nisa Baloch
+NA-201,Sukkur-2,Sindh,792962,Pakistan Peoples Party,Syed Khursheed Ahmed Shah
+NA-201,Sukkur-2,Sindh,792962,Muttahida Qaumi Movement,Saba Anwar
+NA-201,Sukkur-2,Sindh,792962,Jamaat-e-Islami Pakistan ,Sultan Ahmed
+NA-202,Khairpur-1,Sindh,851105,Pakistan Tehreek-e-Insaf,Nazish Bhatti
+NA-202,Khairpur-1,Sindh,851105,Pakistan Peoples Party,Niffisa Shah
+NA-202,Khairpur-1,Sindh,851105,Muttahida Qaumi Movement,Hubdar Ali
+NA-202,Khairpur-1,Sindh,851105,Pakistan Muslim League (Functional),Syed Glimis Ali Shah
+NA-202,Khairpur-1,Sindh,851105,Jamaat-e-Islami Pakistan ,Mumtaz Hussain
+NA-203,Khairpur-2,Sindh,837944,Pakistan Tehreek-e-Insaf,Rozina Bhutto
+NA-203,Khairpur-2,Sindh,837944,Pakistan Peoples Party,Fir Syed Fazat Ali Shah Jillani
+NA-203,Khairpur-2,Sindh,837944,Pakistan Muslim League (Qaid-e-Azam),Niaz Hussain Khaskheli
+NA-203,Khairpur-2,Sindh,837944,Pakistan Muslim League (Functional),Pir Sadar Uddin Shah
+NA-203,Khairpur-2,Sindh,837944,Jamaat-e-Islami Pakistan ,Sakeena
+NA-204,Khairpur-3,Sindh,908486,Pakistan Tehreek-e-Insaf,Mustansir Billah
+NA-204,Khairpur-3,Sindh,908486,Pakistan Peoples Party,Sved Abrar All Shah
+NA-204,Khairpur-3,Sindh,908486,Pakistan Muslim League (Nawaz),Asghar Ali Shah
+NA-205,Naushahro Feroze-1,Sindh,895256,Pakistan Tehreek-e-Insaf,Mustansir Billah
+NA-205,Naushahro Feroze-1,Sindh,895256,Pakistan Peoples Party,Sved Abrar All Shah
+NA-205,Naushahro Feroze-1,Sindh,895256,Muttahida Qaumi Movement,Ghulam Rasool
+NA-205,Naushahro Feroze-1,Sindh,895256,Pakistan Muslim League (Nawaz),Asghar Ali Shah
+NA-206,Naushahro Feroze-2,Sindh,881826,Pakistan Tehreek-e-Insaf,Faisal Mughal
+NA-206,Naushahro Feroze-2,Sindh,881826,Pakistan Peoples Party,Zulfiqarr Ali Bohan
+NA-206,Naushahro Feroze-2,Sindh,881826,Muttahida Qaumi Movement,Imran Khan Rajpoot
+NA-206,Naushahro Feroze-2,Sindh,881826,Pakistan Muslim League (Functional),Ghullam Murtaza Khan Jatoi
+NA-207,Benazirabad-1,Sindh,959756,Pakistan Tehreek-e-Insaf,Muhammad Irfan
+NA-207,Benazirabad-1,Sindh,959756,Pakistan Peoples Party,Asif Ali Zardari
+NA-208,Benazirabad-2,Sindh,885346,Pakistan Tehreek-e-Insaf,Shah Nawaz
+NA-208,Benazirabad-2,Sindh,885346,Pakistan Peoples Party,Syed Ghulam Mustafa Shah
+NA-208,Benazirabad-2,Sindh,885346,Muttahida Qaumi Movement,Najma
+NA-208,Benazirabad-2,Sindh,885346,Jamiat Ulema-e-Islam (F),Aneela
+NA-208,Benazirabad-2,Sindh,885346,Pakistan Muslim League (Functional),Syed Zainulabdin
+NA-209,Sanghar-1,Sindh,1172516,Pakistan Tehreek-e-Insaf,Azizullah Dero
+NA-209,Sanghar-1,Sindh,1172516,Pakistan Peoples Party,Shazia Jarmat Marri
+NA-209,Sanghar-1,Sindh,1172516,Muttahida Qaumi Movement,Nawab Ali
+NA-209,Sanghar-1,Sindh,1172516,Pakistan Muslim League (Functional),Muhammad Khan Junejo
+NA-209,Sanghar-1,Sindh,1172516,Jamaat-e-Islami Pakistan ,Zaheeruldin Babar
+NA-210,Sanghar-2,Sindh,1135949,Pakistan Tehreek-e-Insaf,Mumtaz Ali Shah
+NA-210,Sanghar-2,Sindh,1135949,Pakistan Peoples Party,Salahuddin Junejo
+NA-210,Sanghar-2,Sindh,1135949,Muttahida Qaumi Movement,Muhammad Zakir sheikh
+NA-210,Sanghar-2,Sindh,1135949,Pakistan Muslim League (Functional),Saira Bano
+NA-210,Sanghar-2,Sindh,1135949,Jamaat-e-Islami Pakistan ,Kamran Aziz Ghouri
+NA-211,Mirpurkhas-1,Sindh,850102,Pakistan Tehreek-e-Insaf,Syed Jameel Ahmed Shah Bukhari
+NA-211,Mirpurkhas-1,Sindh,850102,Pakistan Peoples Party,Pir Aftab Hussain Shah Jilani
+NA-211,Mirpurkhas-1,Sindh,850102,Muttahida Qaumi Movement,Afaque ahmad khan
+NA-211,Mirpurkhas-1,Sindh,850102,Pakistan Muslim League (Nawaz),Muhammad Asad Ali Khan Junejo
+NA-211,Mirpurkhas-1,Sindh,850102,Jamaat-e-Islami Pakistan ,Tahseen
+NA-212,Mirpurkhas-2,Sindh,831284,Pakistan Tehreek-e-Insaf,Abdul Hakeem Chandio
+NA-212,Mirpurkhas-2,Sindh,831284,Pakistan Peoples Party,Mir Munawar Ali Talpur
+NA-212,Mirpurkhas-2,Sindh,831284,Jamiat Ulema-e-Islam (F),Ghulam Qadir
+NA-212,Mirpurkhas-2,Sindh,831284,Jamaat-e-Islami Pakistan ,Muhammad Hanif Khan
+NA-213,Umerkot,Sindh,1159831,Pakistan Tehreek-e-Insaf,Shabana Nawab
+NA-213,Umerkot,Sindh,1159831,Pakistan Peoples Party,Nawab Muhammad Yousuf Talpur
+NA-213,Umerkot,Sindh,1159831,Muttahida Qaumi Movement,Pram Chand
+NA-213,Umerkot,Sindh,1159831,Pakistan Muslim League (Nawaz),Mir Amanullah Khan Talpur
+NA-214,Tharparkar-1,Sindh,897087,Pakistan Tehreek-e-Insaf,Zulfiqar Ali Malha
+NA-214,Tharparkar-1,Sindh,897087,Pakistan Peoples Party,Pir Ameer Ali Shah Jeelani
+NA-214,Tharparkar-1,Sindh,897087,Jamiat Ulema-e-Islam (F),Abdul Aziz
+NA-214,Tharparkar-1,Sindh,897087,Pakistan Muslim League (Functional),Saira Bano
+NA-215,Tharparkar-2,Sindh,881320,Pakistan Tehreek-e-Insaf,Wali Muhammad Mugheri
+NA-215,Tharparkar-2,Sindh,881320,Pakistan Peoples Party,Mahesh Kumar Malani
+NA-215,Tharparkar-2,Sindh,881320,Muttahida Qaumi Movement,Ghaman
+NA-215,Tharparkar-2,Sindh,881320,Jamiat Ulema-e-Islam (F),Aziz Ullah
+NA-216,Matiari,Sindh,849383,Pakistan Tehreek-e-Insaf,Dr Masroor Sial
+NA-216,Matiari,Sindh,849383,Pakistan Peoples Party,Makhdoom Jamil Uz Zaman
+NA-216,Matiari,Sindh,849383,Muttahida Qaumi Movement,Ghaman
+NA-216,Matiari,Sindh,849383,Pakistan Muslim League (Nawaz),Bashir Ahmed
+NA-216,Matiari,Sindh,849383,Jamaat-e-Islami Pakistan ,Atta Ur Rehman Korejo
+NA-217,Tando Allahyar,Sindh,922012,Pakistan Tehreek-e-Insaf,Khalid Mehmood Ali
+NA-217,Tando Allahyar,Sindh,922012,Pakistan Peoples Party,Zoiligar Bachani
+NA-217,Tando Allahyar,Sindh,922012,Muttahida Qaumi Movement,Muhammad azam khan
+NA-217,Tando Allahyar,Sindh,922012,Pakistan Muslim League (Functional),Rahila Maosi
+NA-218,Hyderabad-1,Sindh,847023,Pakistan Tehreek-e-Insaf,Adeel Ahmad
+NA-218,Hyderabad-1,Sindh,847023,Pakistan Peoples Party,Syed Hussain Tariq
+NA-218,Hyderabad-1,Sindh,847023,Muttahida Qaumi Movement,Naseem Akhtar
+NA-219,Hyderabad-2,Sindh,800983,Pakistan Tehreek-e-Insaf,Adv Muhammad Haris Meo
+NA-219,Hyderabad-2,Sindh,800983,Pakistan Peoples Party,Ali Muhammad Sahito
+NA-219,Hyderabad-2,Sindh,800983,Muttahida Qaumi Movement,Abdul Aleem Khan
+NA-219,Hyderabad-2,Sindh,800983,Pakistan Muslim League (Nawaz),Husnain Rashid
+NA-220,Hyderabad-3,Sindh,784534,Pakistan Tehreek-e-Insaf,Faheem Khan
+NA-220,Hyderabad-3,Sindh,784534,Pakistan Peoples Party,W aseem Khan Rajput
+NA-220,Hyderabad-3,Sindh,784534,Muttahida Qaumi Movement,Syed Waseem hussain
+NA-220,Hyderabad-3,Sindh,784534,Pakistan Muslim League (Nawaz),Khalid Aziz
+NA-221,Tando Muhammad Khan,Sindh,726119,Pakistan Tehreek-e-Insaf,Saif ur Rehman
+NA-221,Tando Muhammad Khan,Sindh,726119,Pakistan Peoples Party,Syed Naveed Qamar
+NA-221,Tando Muhammad Khan,Sindh,726119,Muttahida Qaumi Movement,Imtiaz Hussain
+NA-221,Tando Muhammad Khan,Sindh,726119,Pakistan Muslim League (Functional),Mir Ali Nawaz Talpur
+NA-221,Tando Muhammad Khan,Sindh,726119,Jamaat-e-Islami Pakistan ,Aijaz Ali
+NA-222,Badin-1,Sindh,938113,Pakistan Tehreek-e-Insaf,Muhammad Alamgir Khan
+NA-222,Badin-1,Sindh,938113,Pakistan Peoples Party,Mir Ghulam Ali Teipur
+NA-222,Badin-1,Sindh,938113,Jamiat Ulema-e-Islam (F),Azhar Ali
+NA-222,Badin-1,Sindh,938113,Jamaat-e-Islami Pakistan ,Safia Khanum
+NA-223,Badin-2,Sindh,1008968,Pakistan Tehreek-e-Insaf,Advocate Zahoor Mehsud
+NA-223,Badin-2,Sindh,1008968,Pakistan Peoples Party,Haji Rasool Bux Chandio
+NA-223,Badin-2,Sindh,1008968,Muttahida Qaumi Movement,Paras
+NA-223,Badin-2,Sindh,1008968,Jamiat Ulema-e-Islam (F),Fatah Muhammad
+NA-223,Badin-2,Sindh,1008968,Pakistan Muslim League (Functional),"Muhammad Hassan, Mirza"
+NA-224,Sujawal,Sindh,839292,Pakistan Tehreek-e-Insaf,Haleem Adil Sheikh
+NA-224,Sujawal,Sindh,839292,Pakistan Peoples Party,Syed ayaz ali shah
+NA-224,Sujawal,Sindh,839292,Muttahida Qaumi Movement,Muhammad Ramzan
+NA-224,Sujawal,Sindh,839292,Jamiat Ulema-e-Islam (F),Molvi Muhammad Saleh Alhadad
+NA-225,Thatta,Sindh,1083191,Pakistan Tehreek-e-Insaf,Yasir Baloch
+NA-225,Thatta,Sindh,1083191,Pakistan Peoples Party,Sadiq Ali Memon
+NA-225,Thatta,Sindh,1083191,Muttahida Qaumi Movement,Muhammad Junaid Niaz
+NA-225,Thatta,Sindh,1083191,Pakistan Muslim League (Nawaz),Rasool Bux Jakhro
+NA-226,Jamshoro,Sindh,1117308,Pakistan Tehreek-e-Insaf,Ramzan Ghachi
+NA-226,Jamshoro,Sindh,1117308,Pakistan Peoples Party,Malik Asad Sikandar
+NA-226,Jamshoro,Sindh,1117308,Pakistan Muslim League (Functional),Syed Munir Nyder Shah
+NA-227,Dadu-1,Sindh,900534,Pakistan Tehreek-e-Insaf,Khurram Sher Zaman
+NA-227,Dadu-1,Sindh,900534,Pakistan Peoples Party,Irian Ali Leghari
+NA-227,Dadu-1,Sindh,900534,Muttahida Qaumi Movement,Zulfiqar Ali
+NA-227,Dadu-1,Sindh,900534,Jamiat Ulema-e-Islam (F),Hajan Khan Leghari
+NA-227,Dadu-1,Sindh,900534,Pakistan Muslim League (Functional),Lia geat Ali Jatoi
+NA-228,Dadu-2,Sindh,841786,Pakistan Tehreek-e-Insaf,Dawa Khan
+NA-228,Dadu-2,Sindh,841786,Pakistan Peoples Party,Rafiq Ahmed Jamali
+NA-228,Dadu-2,Sindh,841786,Muttahida Qaumi Movement,Abdul majieed Chahwan
+NA-228,Dadu-2,Sindh,841786,Jamiat Ulema-e-Islam (F),Abu Bakar Brohi
+NA-228,Dadu-2,Sindh,841786,Pakistan Muslim League (Functional),Karim Ali Jatoi
+NA-229,Malir-1,Sindh,822528,Pakistan Tehreek-e-Insaf,Advocate Shujaat Ali Khan
+NA-229,Malir-1,Sindh,822528,Pakistan Peoples Party,Jam Abdul Karim Bijar
+NA-229,Malir-1,Sindh,822528,Muttahida Qaumi Movement,Fouzia Hameed
+NA-229,Malir-1,Sindh,822528,Pakistan Muslim League (Nawaz),Qadir Bux
+NA-229,Malir-1,Sindh,822528,Awami National Party,Sajid Mahmood
+NA-230,Malir-2,Sindh,786160,Pakistan Tehreek-e-Insaf,Aftab Jahangir
+NA-230,Malir-2,Sindh,786160,Pakistan Peoples Party,Syed Rafiullah
+NA-230,Malir-2,Sindh,786160,Pakistan Muslim League (Nawaz),Haji Muzaffar Ali Shajra
+NA-230,Malir-2,Sindh,786160,Awami National Party,Asif Ali
+NA-230,Malir-2,Sindh,786160,Jamaat-e-Islami Pakistan ,Muhammad Islam
+NA-231,Malir-3,Sindh,823560,Pakistan Tehreek-e-Insaf,Ata Ullah Khan
+NA-231,Malir-3,Sindh,823560,Pakistan Peoples Party,Abdul Hakeem Baloch
+NA-231,Malir-3,Sindh,823560,Pakistan Muslim League (Nawaz),Jamil Ahmed Khan
+NA-231,Malir-3,Sindh,823560,Awami National Party,Abdul Qayyum
+NA-231,Malir-3,Sindh,823560,Istehkam-e-Pakistan Party,Muhammad Qasim
+NA-232,Karachi Korangi-1,Sindh,1083685,Pakistan Tehreek-e-Insaf,Malik Arif Awan
+NA-232,Karachi Korangi-1,Sindh,1083685,Muttahida Qaumi Movement,Asia Ishaq siddique
+NA-232,Karachi Korangi-1,Sindh,1083685,Istehkam-e-Pakistan Party,Tariq Mehmood Qadri
+NA-233,Karachi Korangi-2,Sindh,1031170,Pakistan Tehreek-e-Insaf,Abbas Husnain
+NA-233,Karachi Korangi-2,Sindh,1031170,Pakistan Peoples Party,Nida Asim
+NA-233,Karachi Korangi-2,Sindh,1031170,Muttahida Qaumi Movement,Muhammad Jawad Hanif Khan
+NA-233,Karachi Korangi-2,Sindh,1031170,Pakistan Muslim League (Nawaz),Zain Ul Abdin Ansari
+NA-234,Karachi Korangi-3,Sindh,1014116,Pakistan Tehreek-e-Insaf,Arslan Khalid
+NA-234,Karachi Korangi-3,Sindh,1014116,Pakistan Peoples Party,Muhammad Ali Rashid
+NA-234,Karachi Korangi-3,Sindh,1014116,Muttahida Qaumi Movement,Muhammad Mueen Amir Pirzada
+NA-234,Karachi Korangi-3,Sindh,1014116,Pakistan Muslim League (Nawaz),Saleem Zia
+NA-234,Karachi Korangi-3,Sindh,1014116,Pakistan Muslim League (Functional),Dilawar Gulzar
+NA-234,Karachi Korangi-3,Sindh,1014116,Jamaat-e-Islami Pakistan ,Akhter Hussain Qureshi
+NA-234,Karachi Korangi-3,Sindh,1014116,Istehkam-e-Pakistan Party,Rasheed Ahmed
+NA-235,Karachi East-1,Sindh,1024024,Pakistan Tehreek-e-Insaf,Barrister Uzair Ghouri
+NA-235,Karachi East-1,Sindh,1024024,Pakistan Peoples Party,Muhammad Asif Khan
+NA-235,Karachi East-1,Sindh,1024024,Muttahida Qaumi Movement,Muhammad iqbal
+NA-235,Karachi East-1,Sindh,1024024,Pakistan Muslim League (Nawaz),Sharafat Khan
+NA-235,Karachi East-1,Sindh,1024024,Jamaat-e-Islami Pakistan ,Miraj Ul Huda Siqqiqui
+NA-235,Karachi East-1,Sindh,1024024,Istehkam-e-Pakistan Party,Syed Ali Hussain
+NA-236,Karachi East-2,Sindh,958292,Pakistan Tehreek-e-Insaf,Riaz Hyder
+NA-236,Karachi East-2,Sindh,958292,Pakistan Peoples Party,Muhammad Muzammil Qureshi
+NA-236,Karachi East-2,Sindh,958292,Muttahida Qaumi Movement,Hassan sabir
+NA-236,Karachi East-2,Sindh,958292,Pakistan Muslim League (Nawaz),Parveen Bashir
+NA-236,Karachi East-2,Sindh,958292,Pakistan Muslim League (Functional),Syed Mushtaq Hussain
+NA-237,Karachi East-3,Sindh,990405,Pakistan Tehreek-e-Insaf,Dawood Khan
+NA-237,Karachi East-3,Sindh,990405,Pakistan Peoples Party,Asad Alam Niazi
+NA-237,Karachi East-3,Sindh,990405,Muttahida Qaumi Movement,Muhammad Abdul Rauf
+NA-237,Karachi East-3,Sindh,990405,Pakistan Muslim League (Nawaz),Rehan Qaiser Sheikh
+NA-237,Karachi East-3,Sindh,990405,Awami National Party,Ahmed Zaman
+NA-237,Karachi East-3,Sindh,990405,Istehkam-e-Pakistan Party,Zunaria Rehman
+NA-238,Karachi East-4,Sindh,950644,Pakistan Tehreek-e-Insaf,Sardar Babar Musakhel
+NA-238,Karachi East-4,Sindh,950644,Pakistan Peoples Party,Pir Omer Uddin Zafar
+NA-238,Karachi East-4,Sindh,950644,Muttahida Qaumi Movement,Sadiq Iftikhar
+NA-238,Karachi East-4,Sindh,950644,Pakistan Muslim League (Nawaz),Sidra Tel Muntaha
+NA-238,Karachi East-4,Sindh,950644,Awami National Party,Aziz Ur Rehman
+NA-238,Karachi East-4,Sindh,950644,Pakistan Muslim League (Functional),Kausar Fatima Zaidi
+NA-238,Karachi East-4,Sindh,950644,Jamaat-e-Islami Pakistan ,Saif Uddin 
+NA-238,Karachi East-4,Sindh,950644,Istehkam-e-Pakistan Party,Mahmood Baqi Molvi
+NA-239,Karachi South-1,Sindh,783497,Pakistan Tehreek-e-Insaf,Saddam Tareen
+NA-239,Karachi South-1,Sindh,783497,Pakistan Peoples Party,Sardar Nabil Ahmed Gabol
+NA-239,Karachi South-1,Sindh,783497,Jamiat Ulema-e-Islam (F),Moulana Noor Ul Haq
+NA-239,Karachi South-1,Sindh,783497,Pakistan Muslim League (Functional),Shaista Ameer
+NA-239,Karachi South-1,Sindh,783497,Jamaat-e-Islami Pakistan ,Fazal Ul Rehman Niazi
+NA-240,Karachi South-2,Sindh,782762,Pakistan Tehreek-e-Insaf,Pir Bux Jamoot
+NA-240,Karachi South-2,Sindh,782762,Pakistan Peoples Party,Saleom Maittivra :Ala
+NA-240,Karachi South-2,Sindh,782762,Muttahida Qaumi Movement,Arshad Abdullah bohra
+NA-240,Karachi South-2,Sindh,782762,Pakistan Muslim League (Nawaz),Sakina Anwar
+NA-241,Karachi South-3,Sindh,761882,Pakistan Tehreek-e-Insaf,Khurram Sher Zaman
+NA-241,Karachi South-3,Sindh,761882,Pakistan Peoples Party,Mirza Ikhtiar Baig
+NA-241,Karachi South-3,Sindh,761882,Pakistan Muslim League (Nawaz),Rozina
+NA-241,Karachi South-3,Sindh,761882,Awami National Party,Owais Khan
+NA-241,Karachi South-3,Sindh,761882,Pakistan Muslim League (Functional),Shaheena
+NA-241,Karachi South-3,Sindh,761882,Jamaat-e-Islami Pakistan ,Naveed Ali Baig
+NA-241,Karachi South-3,Sindh,761882,Pakistan Muslim League (Qaid-e-Azam),Muhammad Tariq Hassan
+NA-241,Karachi South-3,Sindh,761882,Istehkam-e-Pakistan Party,Jairam Das
+NA-242,Karachi Keamari-1,Sindh,1025731,Pakistan Tehreek-e-Insaf,Dawa Khan
+NA-242,Karachi Keamari-1,Sindh,1025731,Pakistan Peoples Party,Qadir Khan Mandokhail
+NA-242,Karachi Keamari-1,Sindh,1025731,Awami National Party,Arshad Sohail
+NA-242,Karachi Keamari-1,Sindh,1025731,Jamaat-e-Islami Pakistan ,Fazal Ahad
+NA-242,Karachi Keamari-1,Sindh,1025731,Istehkam-e-Pakistan Party,Bakhtiar Ali
+NA-243,Karachi Keamari-2,Sindh,1042720,Pakistan Tehreek-e-Insaf,Advocate Shujaat Ali Khan
+NA-243,Karachi Keamari-2,Sindh,1042720,Pakistan Peoples Party,Abdul Qadir Patel
+NA-243,Karachi Keamari-2,Sindh,1042720,Pakistan Muslim League (Nawaz),Akhtar Hussain Jadoon
+NA-243,Karachi Keamari-2,Sindh,1042720,Jamaat-e-Islami Pakistan ,Shiraz Khan Jadoon
+NA-244,Karachi West-1,Sindh,944027,Pakistan Tehreek-e-Insaf,Aftab Jahangir
+NA-244,Karachi West-1,Sindh,944027,Pakistan Peoples Party,Abdul Berr
+NA-244,Karachi West-1,Sindh,944027,Pakistan Muslim League (Nawaz),Ghulam Rasool
+NA-244,Karachi West-1,Sindh,944027,Awami National Party,Muhammad Ishaq
+NA-245,Karachi West-2,Sindh,857495,Pakistan Tehreek-e-Insaf,Ata Ullah Khan
+NA-245,Karachi West-2,Sindh,857495,Pakistan Peoples Party,Siddique Akber
+NA-245,Karachi West-2,Sindh,857495,Awami National Party,Amir Nawab
+NA-245,Karachi West-2,Sindh,857495,Jamiat Ulema-e-Islam (F),Amin Ullah
+NA-246,Karachi West-3,Sindh,877858,Pakistan Tehreek-e-Insaf,Malik Arif Awan
+NA-246,Karachi West-3,Sindh,877858,Pakistan Peoples Party,Waseem Akhter
+NA-246,Karachi West-3,Sindh,877858,Pakistan Muslim League (Nawaz),Syed Muhammad Saleem Ashrafi
+NA-246,Karachi West-3,Sindh,877858,Awami National Party,DOST MUHAMMAD
+NA-246,Karachi West-3,Sindh,877858,Jamaat-e-Islami Pakistan ,Naeem Ur Rehman Khan
+NA-247,Karachi Central-1,Sindh,938178,Pakistan Tehreek-e-Insaf,Abbas Husnain
+NA-247,Karachi Central-1,Sindh,938178,Pakistan Peoples Party,Sheik Muhammad Maaz Feroz
+NA-247,Karachi Central-1,Sindh,938178,Pakistan Muslim League (Nawaz),Naheed Parveen
+NA-247,Karachi Central-1,Sindh,938178,Pakistan Muslim League (Functional),Anbar Naeem
+NA-248,Karachi Central-2,Sindh,978169,Pakistan Tehreek-e-Insaf,Arslan Khalid
+NA-248,Karachi Central-2,Sindh,978169,Pakistan Peoples Party,Muhammad Hassan Khan
+NA-248,Karachi Central-2,Sindh,978169,Istehkam-e-Pakistan Party,Muhammad Anwar Azeem Khan
+NA-249,Karachi Central-3,Sindh,948099,Pakistan Tehreek-e-Insaf,Barrister Uzair Ghouri
+NA-249,Karachi Central-3,Sindh,948099,Pakistan Muslim League (Nawaz),Syed Ansub Raza Fatmi
+NA-249,Karachi Central-3,Sindh,948099,Awami National Party,Naimat Khalil
+NA-249,Karachi Central-3,Sindh,948099,Jamaat-e-Islami Pakistan ,Mian Muslim Pervaiz
+NA-250,Karachi Central-4,Sindh,957879,Pakistan Tehreek-e-Insaf,Riaz Hyder
+NA-250,Karachi Central-4,Sindh,957879,Pakistan Peoples Party,Sohail Mansoor Khawaja
+NA-250,Karachi Central-4,Sindh,957879,Pakistan Muslim League (Nawaz),Furqan Ali
+NA-250,Karachi Central-4,Sindh,957879,Awami National Party,Muhammad Khan Afridi
+NA-250,Karachi Central-4,Sindh,957879,Jamaat-e-Islami Pakistan ,Naeem Ur Rehman Khan
+NA-250,Karachi Central-4,Sindh,957879,Istehkam-e-Pakistan Party,Noureen Iqbal
+NA-251,Sherani-cum-Zhob-cumKilla Saifullah,Balochistan,927579,Pakistan Tehreek-e-Insaf,Dawood Khan
+NA-251,Sherani-cum-Zhob-cumKilla Saifullah,Balochistan,927579,Pakistan Muslim League (Nawaz),Toor GulKhm Jogezai
+NA-251,Sherani-cum-Zhob-cumKilla Saifullah,Balochistan,927579,Awami National Party,Muhammad Shafi
+NA-251,Sherani-cum-Zhob-cumKilla Saifullah,Balochistan,927579,Jamiat Ulema-e-Islam (F),Syed Sami Ullah
+NA-252,Musa Khail-cum-Barkhancum-Loralai-cum-Duki,Balochistan,870000,Pakistan Tehreek-e-Insaf,Sardar Babar Musakhel
+NA-252,Musa Khail-cum-Barkhancum-Loralai-cum-Duki,Balochistan,870000,Pakistan Muslim League (Nawaz),Sardar Muhamrnad Yaqoob Khan Nasar
+NA-252,Musa Khail-cum-Barkhancum-Loralai-cum-Duki,Balochistan,870000,Awami National Party,Shazia Bibi
+NA-252,Musa Khail-cum-Barkhancum-Loralai-cum-Duki,Balochistan,870000,Jamiat Ulema-e-Islam (F),Amanullah Khan
+NA-252,Musa Khail-cum-Barkhancum-Loralai-cum-Duki,Balochistan,870000,Istehkam-e-Pakistan Party,Jalil Ahmad Khan
+NA-253,Harnai-cum-Sibi-cum-Kohlu-cum-Dera Bugti,Balochistan,967213,Pakistan Tehreek-e-Insaf,Saddam Tareen
+NA-253,Harnai-cum-Sibi-cum-Kohlu-cum-Dera Bugti,Balochistan,967213,Pakistan Muslim League (Nawaz),Mir Dostain Khan Domki
+NA-253,Harnai-cum-Sibi-cum-Kohlu-cum-Dera Bugti,Balochistan,967213,Awami National Party,Farid Ullah Dumar
+NA-253,Harnai-cum-Sibi-cum-Kohlu-cum-Dera Bugti,Balochistan,967213,Jamiat Ulema-e-Islam (F),Naseer Ahmed Kakar
+NA-254,Jhal Magsi-cum-Kachhicum-Nasirabad,Balochistan,919454,Pakistan Tehreek-e-Insaf,Pir Bux Jamoot
+NA-254,Jhal Magsi-cum-Kachhicum-Nasirabad,Balochistan,919454,Balochistan National Party,Khalid Magsi
+NA-254,Jhal Magsi-cum-Kachhicum-Nasirabad,Balochistan,919454,Jamiat Ulema-e-Islam (F),Nizam ud Din Lehri
+NA-255,Sohbat Pur-cumJaffarabad-cum-Usta Mohammadcum-Nasirabad,Balochistan,1124567,Pakistan Tehreek-e-Insaf,Arif Rind
+NA-255,Sohbat Pur-cumJaffarabad-cum-Usta Mohammadcum-Nasirabad,Balochistan,1124567,Pakistan Muslim League (Nawaz),Mir Muhammad Khan Jamali
+NA-255,Sohbat Pur-cumJaffarabad-cum-Usta Mohammadcum-Nasirabad,Balochistan,1124567,Awami National Party,Muhammad Ismail
+NA-255,Sohbat Pur-cumJaffarabad-cum-Usta Mohammadcum-Nasirabad,Balochistan,1124567,Jamiat Ulema-e-Islam (F),Mir Hussain
+NA-256,Khuzdar,Balochistan,997214,Pakistan Muslim League (Nawaz),Abdul Khaliq
+NA-256,Khuzdar,Balochistan,997214,Jamiat Ulema-e-Islam (F),"Salahuddin Son Of Haji Abdul
+Salarn"
+NA-257,Hub-cum-Lasbela-cumAwaran,Balochistan,859935,Pakistan Tehreek-e-Insaf,Mir Ali Ahmad Zehri
+NA-257,Hub-cum-Lasbela-cumAwaran,Balochistan,859935,Pakistan Muslim League (Nawaz),Jam Kamal Khan
+NA-257,Hub-cum-Lasbela-cumAwaran,Balochistan,859935,Awami National Party,Nawaz AIi Burfat
+NA-257,Hub-cum-Lasbela-cumAwaran,Balochistan,859935,Jamiat Ulema-e-Islam (F),Muhanmad Alam
+NA-258,Panjgur-cum-Kech,Balochistan,936284,Pakistan Muslim League (Nawaz),Mohammad Aslam Boledi
+NA-258,Panjgur-cum-Kech,Balochistan,936284,Jamiat Ulema-e-Islam (F),Zafarullah Khan Gichki
+NA-259,Kech-cum-Gwadar,Balochistan,939588,Pakistan Peoples Party,Mrlik Shah
+NA-259,Kech-cum-Gwadar,Balochistan,939588,Balochistan National Party,Kauda Babar
+NA-259,Kech-cum-Gwadar,Balochistan,939588,Jamiat Ulema-e-Islam (F),Khalid Waleed
+NA-260,Chagai-cum-N ushki-cumKharan-cum-Washuk,Balochistan,1040001,Pakistan Tehreek-e-Insaf,Ghulam Qadir Sanjrani
+NA-260,Chagai-cum-N ushki-cumKharan-cum-Washuk,Balochistan,1040001,Balochistan National Party,Ejaz Sanjrani
+NA-260,Chagai-cum-N ushki-cumKharan-cum-Washuk,Balochistan,1040001,Pakistan Muslim League (Nawaz),Sardar Fateh Muhammad Muhammad Hasni
+NA-260,Chagai-cum-N ushki-cumKharan-cum-Washuk,Balochistan,1040001,Jamiat Ulema-e-Islam (F),Muhammad Usman Badini
+NA-261,Surab-cum-Kalat-cumMastung,Balochistan,863869,Pakistan Muslim League (Nawaz),MirAtta UIIah
+NA-261,Surab-cum-Kalat-cumMastung,Balochistan,863869,Jamiat Ulema-e-Islam (F),Moulana Abdul Ghafoor Haideri 
+NA-262,Quetta-1,Balochistan,799886,Pakistan Tehreek-e-Insaf,Adil Bazai
+NA-262,Quetta-1,Balochistan,799886,Pakistan Peoples Party,Muhammad Ramzan
+NA-262,Quetta-1,Balochistan,799886,Balochistan National Party,Manzoor Ahmed
+NA-262,Quetta-1,Balochistan,799886,Pakistan Muslim League (Nawaz),Nawab Salman Khan Khilji
+NA-262,Quetta-1,Balochistan,799886,Jamiat Ulema-e-Islam (F),Malik Sikandar Khan
+NA-263,Quetta-2,Balochistan,821950,Pakistan Tehreek-e-Insaf,Salar Khan Kakar
+NA-263,Quetta-2,Balochistan,821950,Pakistan Peoples Party,Rozl Khn Kttar
+NA-263,Quetta-2,Balochistan,821950,Balochistan National Party,Rubina Irfan
+NA-263,Quetta-2,Balochistan,821950,Pakistan Muslim League (Nawaz),Haji Jamal Shah Kakar
+NA-263,Quetta-2,Balochistan,821950,Awami National Party,Asghar Khan
+NA-263,Quetta-2,Balochistan,821950,Pakistan Muslim League (Qaid-e-Azam),Shakeel Ahmed Roshan
+NA-264,Quetta-3,Balochistan,973656,Pakistan Tehreek-e-Insaf,Zain ul abidin Khilji
+NA-264,Quetta-3,Balochistan,973656,Awami National Party,Noor Ahmed
+NA-264,Quetta-3,Balochistan,973656,Jamiat Ulema-e-Islam (F),Abdul Rehman
+NA-265,Pishin-cum -Ziarat,Balochistan,1025017,Pakistan Tehreek-e-Insaf,Syed Zahoor Agha
+NA-265,Pishin-cum -Ziarat,Balochistan,1025017,Pakistan Muslim League (Nawaz),Saad UllahTareen
+NA-265,Pishin-cum -Ziarat,Balochistan,1025017,Awami National Party,Abdul Rashid
+NA-265,Pishin-cum -Ziarat,Balochistan,1025017,Jamiat Ulema-e-Islam (F),Fazl Ur Rahmen
+NA-266,Killa Abdullah-cum-Chaman,Balochistan,828189,Pakistan Tehreek-e-Insaf,Malak Muhammad Asmat Kakar
+NA-266,Killa Abdullah-cum-Chaman,Balochistan,828189,Pakistan Peoples Party,Nazar Muhammad
+NA-266,Killa Abdullah-cum-Chaman,Balochistan,828189,Pakistan Muslim League (Nawaz),Abdul Khaliq Son of  Mira Jan
+NA-266,Killa Abdullah-cum-Chaman,Balochistan,828189,Awami National Party,Muhibullah Kakar

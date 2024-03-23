@@ -1,0 +1,616 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,dRTReSzPQS,Syed Khursheed Ahmed Shah,Pakistan Peoples Party Parliamentarians,35291.0,0.429095994,1.0,Win
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,2ezwSoIPoT,Molana M. Asad Thanvi,Muttahidda Majlis-e-Amal Pakistan,17230.0,0.209496018,2.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,KH6OpuKjxP,Sakhi Abdul Razzaq Khoso,Muttahida Qaumi Movement,14945.0,0.181713174,3.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,Qwidb8sUW9,Abdul Qadir Ghumro,Pakistan Muslim League (Functional),11043.0,0.13426956,4.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,i2B9MRhzfL,Kh. Jalil Ahmed (Rtd),Pakistan Muslim League (Nawaz),981.0,0.011927777,5.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,mVR4oV4D28,Ahmed Ali Qureshi,Pakistan Muslim League (Qaid-e-Azam),825.0,0.010031005,6.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,XmIJjTa3Oj,Asghar Ali Chuhan,Pakistan Peoples Party (Shaheed Bhutto),628.0,0.007635723,7.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,KXYOaekUbK,Atta-Ur-Rehman,Sunni Tehreek,293.0,0.003562527,8.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,QbXQTritdi,Syed Shafqat Ali Shah Masoomi,Independents,276.0,0.003355827,9.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,bc2tewsU6a,Mufti M. Iqbal Hussain Shah Faizi,Nizam-e-Mustafa Party,220.0,0.002674935,10.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,o0KnAOVBJD,Syed Sardar Ali Shah Jilani,Pakistan Tehreek-e-Insaf,164.0,0.001994042,11.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,REo8vEhtRI,Khursheed Afghan,Independents,87.0,0.001057815,12.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,V50xE3of7F,Amir Ali Surhio,Independents,74.0,0.000899751,13.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,QJckN51IHU,Zahid Hussain Awan,Independents,69.0,0.000838957,14.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,o6PxS2Gsio,M. Ali Sheikh,Independents,66.0,0.00080248,15.0,Loss
+2002-10-10,General Election,Contested,NA-198,Sukkur 1,Sindh,National,238761.0,82245.0,1665.0,U9pe42ELrc,Ali Mardan Khan,Independents,53.0,0.000644416,16.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,2idY7vqeWf,Abdul Mujeeb Pirzada,Pakistan Peoples Party Parliamentarians,51694.0,0.478147864,1.0,Win
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,HDg5eQA207,Taj M. Sheikh,National Alliance,46282.0,0.428089129,2.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,oJKQDD7AFu,Begum Zahida Abbasi,Muttahida Qaumi Movement,3403.0,0.031476326,3.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,gPaweWjfxZ,H. M. Ramzan Bhutto,Muttahidda Majlis-e-Amal Pakistan,2694.0,0.024918372,4.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,HtsWZab8Z0,Mir Ijaz Hussain Khan Mehar,Pakistan Muslim League (Functional),1067.0,0.009869303,5.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,OOix8n80L5,Anwar Ali Leghari,Pakistan Peoples Party (Shaheed Bhutto),750.0,0.006937186,6.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,kuDQO9BCYm,M. Ali Sheikh,Independents,699.0,0.006465457,7.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,kNXSoZg1RP,Ch. Javed Iqbal,Pakistan Muslim League (Nawaz),634.0,0.005864235,8.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,Ce8UO7At2O,Abdullah Mangi,Independents,363.0,0.003357598,9.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,qS0rtYOimn,Ijaz Ali Kalwar,Pakistan Tehreek-e-Insaf,247.0,0.002284647,10.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,lY6lLHqwcI,Abdul Aziz Buriro,Independents,134.0,0.001239444,11.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,dzIFZ8xoaD,Hussain Ahmed Jagirani,Independents,51.0,0.000471729,12.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,vygpdhLQLy,Tahir Hussain Shah,Independents,43.0,0.000397732,13.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,NrBqmr36VP,M. Yameen Qadri,Sunni Tehreek,38.0,0.000351484,14.0,Loss
+2002-10-10,General Election,Contested,NA-199,Sukkur 2,Sindh,National,286117.0,108113.0,3008.0,R9ogLNbA4Y,Nadeem Kadir Bhutto,Independents,14.0,0.000129494,15.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,1CFRDSmq58,Khalid Ahmed Khan Lund,Pakistan Peoples Party Parliamentarians,68296.0,0.628240272,1.0,Win
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,BJUyNGmsV1,Mian Farooq Ahmed,Independents,35126.0,0.323116549,2.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,f1xNlthFTi,"Abdullah Malik, Adv.",Muttahida Qaumi Movement,3033.0,0.027899917,3.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,yIn0SbbpS4,Nazar Hussain Charan,Pakistan Peoples Party (Shaheed Bhutto),877.0,0.008067335,4.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,n7PX78RtAb,Haji Ahmed Ali Mehar,Independents,426.0,0.003918683,5.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,YsUfuIsMuV,Munir Ahmed Samejo,Pakistan Muslim League (Nawaz),395.0,0.00363352,6.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,VwMoE9RWWk,Sardar Ahmed Ali Khan Pitafi,Independents,378.0,0.003477141,7.0,Loss
+2002-10-10,General Election,Contested,NA-200,Ghotki 1,Sindh,National,281655.0,108710.0,3946.0,PbYl0dxXea,Jam Mahtab Hussain,Independents,179.0,0.001646583,8.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,VJ3ZW1rbVa,Ali M. Khan,Independents,77950.0,0.743975185,1.0,Win
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,rFe235RE9K,Ghulam Rasool Kalhoro,Muttahidda Majlis-e-Amal Pakistan,18115.0,0.172894297,2.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,2tEJbwU229,Abdul Shakoorr Soomro,Muttahida Qaumi Movement,1918.0,0.018305894,3.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,h7XV7BvbNp,"Syed Abdul Latif Shah Jilani, Adv.",Independents,1652.0,0.01576712,4.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,s9BrtjvlcZ,Akhtiar Ahmed Lund,Independents,1126.0,0.010746838,5.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,Q7cqI6EGbi,Jam Saifullah Khan Dharejo,Independents,917.0,0.008752088,6.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,dHLKBhhJRO,Abdul Majeed (Rtd),Independents,598.0,0.005707468,7.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,nI1v0FqJ80,Ghulam Hassan Chachar,Pakistan Muslim League (Functional),580.0,0.005535672,8.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,g1HghYws2j,Syed Attaullah Shah Bukhari,Pakistan Muslim League (Nawaz),579.0,0.005526127,9.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,uMS1VoTSNl,Sagheer Ahmed Khan Lund,Independents,401.0,0.003827249,10.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,Fuds9szDJO,Mir Ahsanullah Khan Sundrani,Independents,318.0,0.003035075,11.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,9wb8AjE2Ln,Nadeem Akhtar Pathan,Pakistan Tehreek-e-Insaf,279.0,0.002662849,12.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,rYPYcX5CLp,Jam Ghulam Qadir Khan Dharejo,Independents,176.0,0.00167979,13.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,7S1QjnMUn5,Abdul Razzaq Khan,Independents,117.0,0.001116679,14.0,Loss
+2002-10-10,General Election,Contested,NA-201,Ghotki 2,Sindh,National,285481.0,104775.0,4284.0,InylHd43rG,Ijaz Ali Chachar,Independents,49.0,0.000467669,15.0,Loss
+2002-10-10,General Election,Contested,NA-202,Shikarpur 1,Sindh,National,255576.0,94301.0,2146.0,yL1IMrio7e,M. Ibrahim Jatoi,National Alliance,53235.0,0.564522115,1.0,Win
+2002-10-10,General Election,Contested,NA-202,Shikarpur 1,Sindh,National,255576.0,94301.0,2146.0,touysH9duQ,Aftab Shahbbaan Mirani,Pakistan Peoples Party Parliamentarians,40125.0,0.425499199,2.0,Loss
+2002-10-10,General Election,Contested,NA-202,Shikarpur 1,Sindh,National,255576.0,94301.0,2146.0,yv3NlFX5XR,Akbar Khan Jatoi,Muttahida Qaumi Movement,489.0,0.005185523,3.0,Loss
+2002-10-10,General Election,Contested,NA-202,Shikarpur 1,Sindh,National,255576.0,94301.0,2146.0,dOJ7wjshp8,Naseer Ahmed Iqbal Lodhi,Independents,368.0,0.003902398,4.0,Loss
+2002-10-10,General Election,Contested,NA-202,Shikarpur 1,Sindh,National,255576.0,94301.0,2146.0,PNR5KEA36N,Aftab Ahmed Channa,Independents,84.0,0.000890765,5.0,Loss
+2002-10-10,General Election,Contested,NA-203,Shikarpur 2,Sindh,National,227629.0,88121.0,1535.0,8Byx59b9lx,Ghous Bakhsh Mehar,Pakistan Muslim League (Qaid-e-Azam),61432.0,0.697132352,1.0,Win
+2002-10-10,General Election,Contested,NA-203,Shikarpur 2,Sindh,National,227629.0,88121.0,1535.0,0ebXApQZn9,Agha Arsalan Khan,Pakistan Peoples Party Parliamentarians,26084.0,0.296002088,2.0,Loss
+2002-10-10,General Election,Contested,NA-203,Shikarpur 2,Sindh,National,227629.0,88121.0,1535.0,E9Hjdtwmpy,Ghulam Akbar Jatoi,Muttahida Qaumi Movement,368.0,0.004176076,3.0,Loss
+2002-10-10,General Election,Contested,NA-203,Shikarpur 2,Sindh,National,227629.0,88121.0,1535.0,xCFsPunOdK,Agha Rafiuddin,Independents,237.0,0.002689484,4.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,QPS8nTUQeu,M. Anwar Bhutto,Pakistan Peoples Party Parliamentarians,46743.0,0.667232888,1.0,Win
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,IHxf9TR16L,Syed Pir Shah,Pakistan Muslim League (Qaid-e-Azam),11062.0,0.157904504,2.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,zZhgoVeIJ1,Babu Sarfraz Khan Jatoi,Pakistan Muslim League (Nawaz),5649.0,0.080636643,3.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,HMSvQT3Rua,"M. Ashiq Dhamraho, Adv.",Muttahidda Majlis-e-Amal Pakistan,2887.0,0.041210477,4.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,9mOW1797Yd,Riaz Hussain Kanasiro,Muttahida Qaumi Movement,2129.0,0.030390408,5.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,i308aaRKt2,Naseem Akhtar Sahito,National Alliance,1130.0,0.016130183,6.0,Loss
+2002-10-10,General Election,Contested,NA-204,Larkana 1,Sindh,National,275041.0,70055.0,2241.0,9x2Ae2jSF2,Syed M. Younas Bukhari,Pakistan Awami Tehreek,455.0,0.006494897,7.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,W5WgxCjhd0,Hizbullah Bughio,Pakistan Peoples Party Parliamentarians,45097.0,0.498783374,1.0,Win
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,ZBjTmHyueq,Altaf Husssain Unar,Pakistan Muslim League (Qaid-e-Azam),44473.0,0.491881788,2.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,gdgeSK4bJV,Mukhtiar Ali Tunio,Independents,346.0,0.003826841,3.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,kOUk1pGeEn,Ghulam Yasin Mirani,Independents,183.0,0.002024023,4.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,nVYcbFpmO6,Ghulam Sarwar Khan Sial,Independents,104.0,0.001150264,5.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,eOk6X03WbC,Ali Gohar Tunio,Independents,87.0,0.00096224,6.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,oGLeKK7buI,Allah Bakhsh Khan Unar,Independents,56.0,0.000619373,7.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,p3RS9UkDJy,Manzoor Ali Choliyani,Independents,41.0,0.00045347,8.0,Loss
+2002-10-10,General Election,Contested,NA-205,Larkana 2,Sindh,National,272435.0,90414.0,2219.0,qbwgflqW9r,Qadir Bakhsh Brohi,Independents,27.0,0.000298626,9.0,Loss
+2002-10-10,General Election,Contested,NA-206,Larkana 3,Sindh,National,255723.0,68960.0,3005.0,JhIY3E9LOK,Khalid Iqbal Memon,Pakistan Peoples Party Parliamentarians,36929.0,0.535513341,1.0,Win
+2002-10-10,General Election,Contested,NA-206,Larkana 3,Sindh,National,255723.0,68960.0,3005.0,tNe683fIw9,Syed Asghar Hussain Rashidi,National Alliance,31841.0,0.461731439,2.0,Loss
+2002-10-10,General Election,Contested,NA-206,Larkana 3,Sindh,National,255723.0,68960.0,3005.0,uvqRarqumB,Fida Hussain Magsi,Pakistan Muslim League (Nawaz),190.0,0.00275522,3.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,mClQLlr9LG,Shahid Hussain Bhutto,Pakistan Peoples Party Parliamentarians,54349.0,0.599607242,1.0,Win
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,gyY5ZRMCjb,Dr. Khalid Mehmood Soomro,Muttahidda Majlis-e-Amal Pakistan,26183.0,0.288864862,2.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,4dsL7oRa5l,Farooq Ali Khan Bhutto,Pakistan Peoples Party (Shaheed Bhutto),4687.0,0.051709491,3.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,qzH2OtNVG7,Manzoor Ali Lashari,Independents,2188.0,0.024139186,4.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,rsuE2ZJ8Ha,Abdul Khaliq,Pakistan Muslim League (Functional),1173.0,0.012941163,5.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,JTU3lWW5i6,Arif Ali Jalbani,Pakistan Muslim League (Nawaz),915.0,0.010094769,6.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,sNg7bcFgeN,Ubedullah Lolai,Muttahida Qaumi Movement,843.0,0.009300427,7.0,Loss
+2002-10-10,General Election,Contested,NA-207,Larkana 4,Sindh,National,250200.0,90641.0,4429.0,6wLEqrNMp7,Dr. Mazhar Mughal,Independents,303.0,0.003342858,8.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,UYHMaiB4Xr,Mir Ijaz Hussain Jakhrani,Pakistan Peoples Party Parliamentarians,40147.0,0.567673426,1.0,Win
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,8OPQUsRLsD,Illahi Bakhsh Soomro,Pakistan Muslim League (Qaid-e-Azam),25639.0,0.362532168,2.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,2AQSQHA7Cc,Raja Khan Jakhrani,Muttahidda Majlis-e-Amal Pakistan,1997.0,0.028237324,3.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,MpDwyMjQRA,Agha Munir Ahmed Pathan,Muttahida Qaumi Movement,1118.0,0.015808376,4.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,TZXxOeuuD8,Abdul Nadeem Qureshi,Pakistan Peoples Party (Shaheed Bhutto),862.0,0.012188569,5.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,SkhdwL2oWE,Iftikhar Soomro,Independents,778.0,0.01100082,6.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,NCe5xpRyeA,Sajjad Hussain Jakhrani,Independents,126.0,0.001781624,7.0,Loss
+2002-10-10,General Election,Contested,NA-208,Jacobabad 1,Sindh,National,252842.0,70722.0,3006.0,qmYeszfgjV,Shahzada Wasim Shah,Pakistan Muslim League (Nawaz),55.0,0.000777693,8.0,Loss
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,zJzIGm1A2i,Mir Hazar Khan Bijarani,Pakistan Peoples Party Parliamentarians,52613.0,0.566730579,1.0,Win
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,XRfkNg9f8z,Abdur Raheem Khan Khoso,Pakistan Muslim League (Qaid-e-Azam),39024.0,0.420354173,2.0,Loss
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,0s6Rr5CWc6,Sikander Ali Shah,Muttahida Qaumi Movement,495.0,0.005331983,3.0,Loss
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,qJqOXrIN0T,Tahir Hussain Khan Khoso,Independents,349.0,0.003759318,4.0,Loss
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,DCWl702IW8,Mir Mehboob Ali Khan Bijarani,Independents,186.0,0.002003533,5.0,Loss
+2002-10-10,General Election,Contested,NA-209,Jacobabad 2,Sindh,National,281410.0,92836.0,2999.0,3KPYP5OPWA,Raheem Bakhsh Soomro,Pakistan Muslim League (Nawaz),169.0,0.001820414,6.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,HCjwoswWa5,Sardar Saleem Jan Khan Mazari,National Alliance,82810.0,0.627177436,1.0,Win
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,P37iBjn7Yl,Mir Imran Khan Bijarani,Pakistan Peoples Party Parliamentarians,39743.0,0.301001242,2.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,OTlvEbeWLv,Molvi Abdul Hafiz Bijarani,Muttahidda Majlis-e-Amal Pakistan,8087.0,0.061248447,3.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,5qsXCOlgRY,Zaffarullah Khan Domki,Independents,348.0,0.002635645,4.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,LVTEaxRDfw,Abdur Rasool Kalwar,Independents,273.0,0.002067618,5.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,rq4rPHo3zW,"Abdul Rauf Khoso, Adv.",Muttahida Qaumi Movement,251.0,0.001900997,6.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,DSis2uRMzA,Dr. Vishan Das,Independents,166.0,0.001257233,7.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,Y8cTqF80wN,Mir Hazar Khan Bijarani,Independents,141.0,0.001067891,8.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,xsUEsRwyIv,M. Murad Khan Chachar,Pakistan Muslim League (Nawaz),129.0,0.000977006,9.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,9Omgesbsts,Mir Ghulam Abid Khan Sundrani,Independents,47.0,0.000355964,10.0,Loss
+2002-10-10,General Election,Contested,NA-210,Jacobabad 3,Sindh,National,289394.0,132036.0,5331.0,RF5d2xPEVz,Mir Qudaratullah Khan Sundrani,Independents,41.0,0.000310521,11.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,Gp704pkAZv,Dr. Abdul Ghaffar Khan Jatoi,National Alliance,83403.0,0.645374211,1.0,Win
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,7SRSW2Deka,Zulfiqar Ali Behan,Pakistan Peoples Party Parliamentarians,43220.0,0.334437291,2.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,mg3uGohm8l,Ghulam Asghar Abbasi,Muttahida Qaumi Movement,906.0,0.007010648,3.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,HEx3agDYgF,Aiz Ahmed Behan,Independents,688.0,0.005323759,4.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,LheyU1fe3B,M. Akram Mughal,Pakistan Muslim League (Nawaz),609.0,0.004712455,5.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,qLrnIy8Gow,Qurban Ali,Independents,255.0,0.001973195,6.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,x8zK84N1k9,Arif Mustafa Jatoi,Independents,70.0,0.000541662,7.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,FtaUyjGs2w,Faisal Zaman Jatoi,Independents,63.0,0.000487495,8.0,Loss
+2002-10-10,General Election,Contested,NA-211,Naushero Feroz 1,Sindh,National,329798.0,129232.0,2610.0,KZpIfudglC,Allahando Shah Alias Zafar Ali Shah,Independents,18.0,0.000139284,9.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,gQFZTaz90G,Allahandho Shah Alias Zafar Ali Shah,Pakistan Peoples Party Parliamentarians,76470.0,0.547728363,1.0,Win
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,byPlPVd5Cw,Khalid Akhtar Jatoi,National Alliance,60121.0,0.430626088,2.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,AevS6vJdGS,Ghulam Shabir Lakho,Pakistan Muslim League (Nawaz),1220.0,0.008738441,3.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,XZJXIw8Ugl,Ibraheem Shah,Independents,1208.0,0.008652489,4.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,AV918mf06W,M. Ali Malak,Pakistan Tehreek-e-Insaf,162.0,0.00116035,5.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,p391ZpJy9C,Khalid Mian Rajpar,Sindh Urban-Rural Alliance,112.0,0.000802218,6.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,sQuZudjMsP,Sajjad Hussain Shah,Independents,97.0,0.000694778,7.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,pIZkFvYQMl,Syed Murad Ali Shah,Independents,79.0,0.00056585,8.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,bI7HFeBky7,Sher M. Baloch,Independents,67.0,0.000479898,9.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,DqDVKG0vYe,Syed Sarfraz Hussain Shah,Independents,51.0,0.000365295,10.0,Loss
+2002-10-10,General Election,Contested,NA-212,Naushero Feroz 2,Sindh,National,324754.0,139613.0,3172.0,kPDYyBobvD,Syed Amanullah Shah,Independents,26.0,0.000186229,11.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,NAzzjcVsYj,Azra Fazal,Pakistan Peoples Party Parliamentarians,75237.0,0.582014388,1.0,Win
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,G4uHRBJicl,Syed Zahid Hussain Shah,Pakistan Muslim League (Qaid-e-Azam),28824.0,0.222975168,2.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,txgnhoi4hJ,Ghulam Haider Rahu,Muttahida Qaumi Movement,20877.0,0.161499188,3.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,hksOQPA4qf,Sardar Ahmed,Pakistan Muslim League (Nawaz),1811.0,0.014009438,4.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,mVZCc0Ecw6,Syed Amjad Hussain Shah,Independents,1009.0,0.007805369,5.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,VA9ukxYX6V,"Abdul Hadi Khoso, Adv.",Pakistan Tehreek-e-Insaf,530.0,0.004099946,6.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,FcFIESa44H,Farooq Ahmed Chandio,Independents,279.0,0.002158273,7.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,ACtUIbr4xn,Syed Irshad Hussain Shah,Independents,272.0,0.002104123,8.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,6mZ4ETi4cC,Syed Bagh Ali Shah,Independents,154.0,0.001191305,9.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,uwgsVIHtpu,Fozi Iqbal,Independents,115.0,0.000889611,10.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,kJfyL7fNLY,Malik M. Iqbal,Sunni Tehreek,100.0,0.000773575,11.0,Loss
+2002-10-10,General Election,Contested,NA-213,Nawabshah 1,Sindh,National,330639.0,129270.0,3183.0,xJMJA0vqeb,Ameer Ali Khashkheli,Independents,62.0,0.000479616,12.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,veQ2oeipNo,Syed Ghulam Mustafa Shah,Pakistan Peoples Party Parliamentarians,60267.0,0.543916175,1.0,Win
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,URYeBObAmp,Mumtaz Ahmed Rahu,National Alliance,46188.0,0.416851681,2.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,xdz6OyeslR,Bahar Ali Shah,Muttahidda Majlis-e-Amal Pakistan,1193.0,0.010766954,3.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,0yGxJWs5df,Farooq Ahmad Chandio,Independents,999.0,0.009016083,4.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,aHYJrMyo1W,Shahnawaz Lakhmir,Muttahida Qaumi Movement,956.0,0.008628003,5.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,ful04YzItF,Dr. Bahadur Khan Dahri,Independents,679.0,0.006128048,6.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,g9VwNXP0Bh,Fozia Iqbal,Independents,286.0,0.002581181,7.0,Loss
+2002-10-10,General Election,Contested,NA-214,Nawabshah 2,Sindh,National,305810.0,110802.0,2754.0,dITEpwVxm9,Syed Mehmood Ahmed Shah,Independents,234.0,0.002111875,8.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,lXPEW0Xp7v,Manzoor Hussain Wasan,Pakistan Peoples Party Parliamentarians,62447.0,0.551072636,1.0,Win
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,vr12GgTpRT,Sher M. Phulpoto,Independents,36438.0,0.321552432,2.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,UbHGBxhpv9,Habib-Ur-Rehman Sheikh,Pakistan Muslim League (Functional),6319.0,0.055762935,3.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,3pmZ1EpRIu,"Manzoor Hussain Ansari, Adv.",Muttahida Qaumi Movement,3477.0,0.030683292,4.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,4Gcc7gQyVG,Ghulam Haider Phulpoto,Pakistan Muslim League (Nawaz),1918.0,0.01692567,5.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,Fa8RzjPipa,Allah Warayo Soomro,National Alliance,1251.0,0.011039631,6.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,Hds4Tddc8m,Abdul Qayoom Sheikh,Pakistan Tehreek-e-Insaf,1097.0,0.009680636,7.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,SuUobGvIZP,Ghulam Qadir Sattar Mehar,Independents,181.0,0.001597261,8.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,culyVFfDuC,Tahir Imtiaz Phulpoto,Independents,163.0,0.001438417,9.0,Loss
+2002-10-10,General Election,Contested,NA-215,Khairpur 1,Sindh,National,302490.0,113319.0,2781.0,klsdYSFuSR,Munwar Ali Wasan,Independents,28.0,0.00024709,10.0,Loss
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,6v1gqupTOW,Syed Sadaruddin Shah,Pakistan Muslim League (Functional),63520.0,0.512344833,1.0,Win
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,mmL0PVQDWQ,Syed Javed Ali Shah,Pakistan Peoples Party Parliamentarians,58735.0,0.473749587,2.0,Loss
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,1LbLKX9TPu,Mumtaz Hussain Sahito,Muttahidda Majlis-e-Amal Pakistan,1076.0,0.008678889,3.0,Loss
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,wc1yOCIBYj,Syed Shahabuddin Shah Syed Deenar Ali Shah Rashdi,Independents,312.0,0.002516555,4.0,Loss
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,dPHIasARpk,Bashir Ahmed Banbhan,Independents,228.0,0.001839021,5.0,Loss
+2002-10-10,General Election,Contested,NA-216,Khairpur 2,Sindh,National,301400.0,123979.0,2456.0,AD43WvJnTn,Shaukat Ali Rajpar,Independents,108.0,0.000871115,6.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,bF2vVzphjS,Pir Syed Fazal Ali Shah Jilani,Pakistan Peoples Party Parliamentarians,54388.0,0.506736234,1.0,Win
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,ZTIgonlWev,Syed Moharram Ali Shah,Pakistan Muslim League (Functional),47308.0,0.440771453,2.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,RUCITVM949,Nadeem Ahmed Hashmi,Pakistan Awami Tehreek,2512.0,0.023404454,3.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,ZvoqYYj3lX,Pir Syed Ahmed Raza Shah Jilani,Independents,2230.0,0.020777043,4.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,XUDkdkLlEe,Sardar Shah Dino,Pakistan Muslim League (Nawaz),574.0,0.005347992,5.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,WckLiEKlRO,Ghulam Mustafa Sahito (Rtd),Independents,164.0,0.001527998,6.0,Loss
+2002-10-10,General Election,Contested,NA-217,Khairpur 3,Sindh,National,290832.0,107330.0,3410.0,OIICTNu36O,Hakim Rehmatullah Abbbasi,Independents,154.0,0.001434827,7.0,Loss
+2002-10-10,General Election,Contested,NA-218,Hyderabad 1,Sindh,National,276462.0,112119.0,1105.0,qnqXgEPHJa,Makhdoom M. Amin Faheem,Pakistan Peoples Party Parliamentarians,102059.0,0.910273905,1.0,Win
+2002-10-10,General Election,Contested,NA-218,Hyderabad 1,Sindh,National,276462.0,112119.0,1105.0,hEcpLj2crq,Rasool Bakhsh Memon,Muttahida Qaumi Movement,3615.0,0.032242528,2.0,Loss
+2002-10-10,General Election,Contested,NA-218,Hyderabad 1,Sindh,National,276462.0,112119.0,1105.0,yOLqpNIuOg,Shahabuddin Shah,Pakistan Muslim League (Qaid-e-Azam),3277.0,0.029227874,3.0,Loss
+2002-10-10,General Election,Contested,NA-218,Hyderabad 1,Sindh,National,276462.0,112119.0,1105.0,zmQX8RB4O3,Peeral Majeedano,Pakistan Peoples Party (Shaheed Bhutto),3168.0,0.028255693,4.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,2km50FN21x,Prof. Khalid Wahab,Muttahida Qaumi Movement,36755.0,0.510259329,1.0,Win
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,tZuPNzxHQr,Mushtaq Ahmed Khan,Muttahidda Majlis-e-Amal Pakistan,16986.0,0.235811861,2.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,yIu8nfJ5gj,"Ch. Bashir Ahmed, Adv.",Pakistan Peoples Party Parliamentarians,8762.0,0.121640382,3.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,S87Ijad4ZM,Zaheer Ahmed,Sunni Tehreek,2818.0,0.039121502,4.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,h9SPgVU7QA,M. Iqbal Sheikh,Pakistan Muslim League (Qaid-e-Azam),2385.0,0.033110284,5.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,UoLfxmIO0p,Shabbir Ahmed,Pakistan Muslim League (Nawaz),1434.0,0.019907819,6.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,AydmVm0ord,Syed Mushtaq Ali Qadri,Pakistan Awami Tehreek,1023.0,0.014202021,7.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,XSCYrCUlpD,"Sohail Akhtar Siddiqi, Adv.",Mohajir Qaumi Movement (Haqiqi),661.0,0.009176477,8.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,sMfjGKK7Uh,Ahmed Ali Khan Naghar,Pakistan Tehreek-e-Insaf,495.0,0.006871946,9.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,tQnxrzkvBs,"Syed Sarfraz Ali, Adv.",Pakistan Muslim League (Functional),313.0,0.004345291,10.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,AQcFuZqAF8,Dr. Saleem Haider,Mohajir Ittehad Tehrik,262.0,0.003637272,11.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,oiwICUAZHQ,Kaleem Khan,Tehrik-e-Istaqlal,84.0,0.001166148,12.0,Loss
+2002-10-10,General Election,Contested,NA-219,Hyderabad 2,Sindh,National,236225.0,72032.0,506.0,6UdTBYcWhr,M. Shamim Sheikh,Independents,54.0,0.000749667,13.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,PsXVKGXAlL,Dr. Shabzada Abul Khair M. Zubair,Muttahidda Majlis-e-Amal Pakistan,41190.0,0.453934318,1.0,Win
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,FHsSbwyFCi,"Aftab Ahmed Sheikh, Adv.",Muttahida Qaumi Movement,40580.0,0.447211814,2.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,AeNLWQLqdn,M. Irfan Qureshi,Pakistan Peoples Party Parliamentarians,3579.0,0.039442363,3.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,BpFF2bruXG,Mir Haider Ali Khan Talpur,Pakistan Tehreek-e-Insaf,1414.0,0.015582984,4.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,Ej0w5zFEgq,Sharif,Sunni Tehreek,1302.0,0.014348689,5.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,iwC1ZZlw8f,Abdul Qadeer Ansari,Mohajir Qaumi Movement (Haqiqi),826.0,0.009102931,6.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,KpD0Q0WPEk,M. Hanif Siddiqi,Pakistan Muslim League (Nawaz),643.0,0.00708618,7.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,NZyMVxvSYN,Shabbir Hussain Hashmi,Pakistan Muslim League (Qaid-e-Azam),471.0,0.005190655,8.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,Q2RtIXvZ8w,M. Azam Qureshi,Independents,427.0,0.004705753,9.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,Pk3s5JovTb,Shahzad Hussain,Pakistan Awami Tehreek,207.0,0.002281243,10.0,Loss
+2002-10-10,General Election,Contested,NA-220,Hyderabad 3,Sindh,National,273607.0,90740.0,1197.0,ilFPZ3L8oM,Shujauddin Sheikh,Independents,101.0,0.00111307,11.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,7j3FG9vxyd,Syed Amir Ali Shah Jamot,Pakistan Peoples Party Parliamentarians,44899.0,0.657706618,1.0,Win
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,JB2PAT4715,Syed Shahabuddin Shah,Pakistan Muslim League (Qaid-e-Azam),12966.0,0.189933495,2.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,rUqabwUBUD,Shabbir Hussain Bajkani,Muttahida Qaumi Movement,7136.0,0.104532271,3.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,WbJr1ZeTxE,Moula Bakhsh Mashori,Pakistan Peoples Party (Shaheed Bhutto),1230.0,0.018017754,4.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,GTY9yHl2wd,Dost M. Serai,Qaumi Jamhoori Party,617.0,0.009038174,5.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,LqkKGQobFy,Badar-Un-Nisa Qazi,Pakistan Muslim League (Nawaz),362.0,0.005302786,6.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,7sGtkj2KE5,Mir Sher M. Talpur,Pakistan Tehreek-e-Insaf,285.0,0.004174845,7.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,Og2hBJq0kN,Abdul Sattar Khan,Pakistan Awami Tehreek,250.0,0.003662145,8.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,Zqt933PGYS,Syed Ali Hussain Shah,Independents,219.0,0.003208039,9.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,escVDJykot,Dost M. Channa,Labour Party Pakistan,181.0,0.002651393,10.0,Loss
+2002-10-10,General Election,Contested,NA-221,Hyderabad 4,Sindh,National,223681.0,68266.0,1466.0,uzyip2omZL,Qaisar Khan Talpur,Independents,121.0,0.001772478,11.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,j6ySf2Ce9t,Syed Naveed Qamar,Pakistan Peoples Party Parliamentarians,53705.0,0.580563213,1.0,Win
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,zCKfEjIcWP,Pir Sajjad Saeed Jan Sarhandi,National Alliance,34627.0,0.374325712,2.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,oUoR2GGs54,Asadullah Anwar Baloch,Muttahida Qaumi Movement,3338.0,0.036084536,3.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,hAJfEFbEPc,Saood Ahmed Farooqi,Independents,387.0,0.004183558,4.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,h4lNojtDfB,Syed Qamar Zaman Shah,Independents,258.0,0.002789038,5.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,fFCcjLlZgN,Mir Haider Ali Khan Talpur,Pakistan Tehreek-e-Insaf,109.0,0.001178315,6.0,Loss
+2002-10-10,General Election,Contested,NA-222,Hyderabad 5,Sindh,National,262149.0,92505.0,1794.0,dpzPjYjNbm,Qadeer Khan Gaddi,Pakistan Muslim League (Nawaz),81.0,0.000875628,7.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,e72nOVWYjR,Shamshad Sattar Bachani,Pakistan Peoples Party Parliamentarians,50624.0,0.517410901,1.0,Win
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,SiG9pXZl6h,Adeeba Gul Magsi,Independents,28610.0,0.292413201,2.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,htR0INF6dn,Samina Arif Rajput,Muttahida Qaumi Movement,7515.0,0.076808291,3.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,rzfcPV5Nb4,Dr. Nawaz Ali Nizamani,Muttahidda Majlis-e-Amal Pakistan,5669.0,0.057940945,4.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,rXFhsGgVXF,M. Amin Jarwar,Independents,2429.0,0.024825993,5.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,MiV6AitYmC,Shah Jahan Memon,Independents,1614.0,0.016496152,6.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,M1CNLDAP1G,Saqib Jan Babbar,Awami Qiadat Party,784.0,0.008013001,7.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,dRDiaVhK2G,Masood-Ul-Nabi,Independents,390.0,0.003986059,8.0,Loss
+2002-10-10,General Election,Contested,NA-223,Hyderabad 6,Sindh,National,274892.0,97841.0,2827.0,a9UYnqNhhx,Dilshad Ahmed,Pakistan Muslim League (Qaid-e-Azam),206.0,0.002105457,9.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,GvDLtW8bU5,Ghulam Ali Nizamani,Pakistan Peoples Party Parliamentarians,70231.0,0.505211743,1.0,Win
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,4xBTNXSpWY,M. Akram Nizamani,Independents,65904.0,0.474085158,2.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,tSNPbSYAsP,M. Aleem Qaimkhani,Muttahida Qaumi Movement,1203.0,0.008653867,3.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,zFhzLw62xs,Abdul Sattar Srewal,Independents,428.0,0.003078849,4.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,He2NALtbb1,Syed Kousar Raza,Pakistan Peoples Party (Shaheed Bhutto),418.0,0.003006913,5.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,g8GtMBuL6v,Zulfiqar Ali Nizamani,Independents,296.0,0.002129297,6.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,lMKKvCpaxD,Yar M. Talpur,Independents,228.0,0.001640134,7.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,9VMND2WFXh,Noor Nabi M. Salih Memon,Pakistan Tehreek-e-Insaf,161.0,0.001158165,8.0,Loss
+2002-10-10,General Election,Contested,NA-224,Badin 1,Sindh,National,364228.0,139013.0,2582.0,DPzw52A9pv,M. Ishaq Thebo,Pakistan Muslim League (Nawaz),144.0,0.001035874,9.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,G0FnFA4RAV,Dr. Fehmida Mirza,Pakistan Peoples Party Parliamentarians,71537.0,0.653562586,1.0,Win
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,hL6qTdhnX0,Khan M. Halepota,Pakistan Muslim League (Qaid-e-Azam),33400.0,0.305142659,2.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,NsmVIVKq1l,Abdullah Sheedi,Independents,2169.0,0.019816001,3.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,Ybej9xvcjn,Asghar Ali Perhiar,Muttahida Qaumi Movement,1297.0,0.011849402,4.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,JMOpfOl1Y2,Yar M. Talpur,Independents,538.0,0.004915172,5.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,N9LJmmsY40,Mir Haider Ali Khan Talpur,Pakistan Tehreek-e-Insaf,279.0,0.002548946,6.0,Loss
+2002-10-10,General Election,Contested,NA-225,Badin 2,Sindh,National,297293.0,109457.0,2618.0,5FTnk1c4KX,M. Umer Farooq Cheema,Pakistan Muslim League (Nawaz),237.0,0.002165234,7.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,3GPW7uTyTy,Pir Aftab Hussain Shah Jilani,Pakistan Peoples Party Parliamentarians,63638.0,0.551881434,1.0,Win
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,fbNFMamAIx,Rais Ahmed Khan,Muttahida Qaumi Movement,35221.0,0.30544354,2.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,ncbbi6t5E4,Molana Mushtaq Ahmed Naqshbandi,Muttahidda Majlis-e-Amal Pakistan,5610.0,0.048651039,3.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,JJtQGs4ytQ,Muzaffar Ali Leghari,Pakistan Muslim League (Functional),4127.0,0.035790167,4.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,4WKxiRupM1,Abdul Ghaffar Qureshi,Pakistan Muslim League (Qaid-e-Azam),4077.0,0.035356557,5.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,Qswz74jx4E,"Anwar Jaml, Adv.",Sunni Tehreek,1690.0,0.014656017,6.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,TstT3iIEZn,M. Rizwan,Mohajir Qaumi Movement (Haqiqi),565.0,0.004899793,7.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,CYF0d77sAW,Sarfraz Ali Junejo,Independents,185.0,0.001604357,8.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,3oUtGlBN7o,Mujeeb-Ul-Haq,Independents,75.0,0.000650415,9.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,oHBF3s7lH1,Shamsuddin Sheikh,Independents,67.0,0.000581037,10.0,Loss
+2002-10-10,General Election,Contested,NA-226,Mirpurkhas 1,Sindh,National,261129.0,115311.0,2519.0,oFORuqyPOK,Abdul Saeed Qureshi,Independents,56.0,0.000485643,11.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,fRlhj0IgG0,Syed Qurban Ali Shah,Pakistan Peoples Party Parliamentarians,56627.0,0.529684679,1.0,Win
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,SAh3cZNQIO,Shabbir Ahmed Qaimkhani,Muttahida Qaumi Movement,21117.0,0.197526822,2.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,DrhozFb2RS,Shahnawaz,National Alliance,11526.0,0.107813333,3.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,gK6uXwxWir,Makhdoom Shah Nawaz,Pakistan Muslim League (Nawaz),10850.0,0.10149008,4.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,XSIl7gjmAF,"M. Umer Khan Qaimkhani, Adv.",Muttahidda Majlis-e-Amal Pakistan,3149.0,0.029455508,5.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,RxVXLSmHoh,Dr. Naeem Ahmed Khan,Pakistan Muslim League (Functional),2736.0,0.025592337,6.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,OtgBYx978j,Syed Irfan Ali Shah,Independents,223.0,0.002085925,7.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,Olasa5p8YW,Makhdoom Atta Hussain,Independents,189.0,0.001767892,8.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,r2Zgen2z46,Ch. M. Aslam Gill,Independents,172.0,0.001608875,9.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,6PSvqyZMn0,M. Asad Ali Khan Junejo,Independents,112.0,0.00104764,10.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,mJb2dts3tL,Jameel Ahmed,Independents,63.0,0.000589297,11.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,RCgyfkvnLA,Fatehyab Ali Khan,Pakistan Mazdoor Kissan Party,54.0,0.000505112,12.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,aX5xlf48YA,"Gulab Khan Qaimkhani, Adv.",Independents,53.0,0.000495758,13.0,Loss
+2002-10-10,General Election,Contested,NA-227,Mirpurkhas 2,Sindh,National,259929.0,106907.0,3331.0,lhzq3TX9wJ,Ali Hassan Khan Qaimkhani,Pakistan Awami Tehreek,36.0,0.000336741,14.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,tEVnnuGnPn,Nawab M. Yusuf Talpur,Pakistan Peoples Party Parliamentarians,58161.0,0.522828403,1.0,Win
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,jj8IU3OXc2,Kishan Chand Parwani,National Alliance,48905.0,0.439623167,2.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,PwX9xoglFX,Syed Ali Mardan Shah,Independents,2107.0,0.018940518,3.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,tuX0mfOMRU,Ghulam Mustafa Wahid,Muttahida Qaumi Movement,842.0,0.007569016,4.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,zjL0eO2u5C,M. Essa Nagori,Pakistan Tehreek-e-Insaf,704.0,0.006328488,5.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,9UKB8CkPCi,Abdul Munaim Khan,Pakistan Muslim League (Nawaz),490.0,0.004404772,6.0,Loss
+2002-10-10,General Election,Contested,NA-228,Mirpurkhas 3,Sindh,National,261464.0,111243.0,2999.0,q03wh8TgCr,Rijhumal Shewni,Independents,34.0,0.000305637,7.0,Loss
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,UN3zu9DuWj,Arbab Ghulam Rahim,National Alliance,86196.0,0.703296345,1.0,Win
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,42tRRue9rL,Gul M. Lot,Pakistan Peoples Party Parliamentarians,34342.0,0.280205614,2.0,Loss
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,KmMQxnrE8s,Engr. Gian Chand,Independents,1382.0,0.01127611,3.0,Loss
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,jkzPk9yJ1B,Arbab Haji Abdullah,Independents,434.0,0.003541123,4.0,Loss
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,mXg3nRcxVf,Allah Rakhio,Independents,193.0,0.001574739,5.0,Loss
+2002-10-10,General Election,Contested,NA-229,Tharparkar 1,Sindh,National,250983.0,122560.0,3054.0,LPgruFq4XW,Guman Singh,Independents,13.0,0.00010607,6.0,Loss
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,WP0srzkJDC,Ghulam Haider Samejo,National Alliance,59639.0,0.611387331,1.0,Win
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,D9XKvz91I6,Pir Imdad Ali Shah Jilani,Pakistan Peoples Party Parliamentarians,36785.0,0.37710027,2.0,Loss
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,X1C59QMC09,Pir Gul M. Shah,Independents,503.0,0.005156489,3.0,Loss
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,lGzcfPXHBP,Arbab Abdul Malik,Independents,351.0,0.003598265,4.0,Loss
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,OAGKbAlNLN,Ghulam M. Lot,Independents,248.0,0.002542364,5.0,Loss
+2002-10-10,General Election,Contested,NA-230,Tharparkar 2,Sindh,National,212494.0,97547.0,4157.0,7aN60MPZFc,M. Malook,Independents,21.0,0.000215281,6.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,HOs9nr9HaX,Nawab Abdul Ghani Talpur,Pakistan Peoples Party Parliamentarians,76568.0,0.634124526,1.0,Win
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,EeUcBwiIwF,Syed Jalal Mehmood,Independents,39320.0,0.325642257,2.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,9ray8h5Qff,Ali Nawaz Shoro,Muttahida Qaumi Movement,4035.0,0.033417256,3.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,0yLNe5nKUm,Sheikh Israil,Independents,275.0,0.002277508,4.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,BJofhh8TjB,Dr. Abdul Hameed Rajput,Pakistan Muslim League (Nawaz),239.0,0.001979362,5.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,Vs1Tdglo9T,Syed Zain-Ul-Abdin,Independents,174.0,0.001441042,6.0,Loss
+2002-10-10,General Election,Contested,NA-231,Dadu 1,Sindh,National,340793.0,120746.0,2422.0,zY0snZ9Uom,M. Suleman Bhalai,Pakistan Peoples Party (Shaheed Bhutto),135.0,0.001118049,7.0,Loss
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,rC5HfwVaqO,Rafiq Ahmed Jamali,Pakistan Peoples Party Parliamentarians,56814.0,0.563223063,1.0,Win
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,DhVbyvZJNv,Ahmed Khan Lund,Pakistan Muslim League (Qaid-e-Azam),41982.0,0.41618669,2.0,Loss
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,oeOc2RoDtl,"Hussain Bakhsh Solangi, Adv.",Muttahida Qaumi Movement,1249.0,0.012381906,3.0,Loss
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,5PVr4E2Sl7,Bashir Ahmed Channa,Independents,448.0,0.004441228,4.0,Loss
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,zkWpSM7CO8,Asghar Ali Panhwar,Independents,247.0,0.002448624,5.0,Loss
+2002-10-10,General Election,Contested,NA-232,Dadu 2,Sindh,National,277302.0,100873.0,2628.0,23gUvItWnf,Zafar Ali Bhand,Pakistan Muslim League (Nawaz),133.0,0.00131849,6.0,Loss
+2002-10-10,General Election,Contested,NA-233,Dadu 3,Sindh,National,329858.0,115441.0,1829.0,leslinHHeY,Liaqat Ali Jatoi,Pakistan Muslim League (Qaid-e-Azam),62388.0,0.540431909,1.0,Win
+2002-10-10,General Election,Contested,NA-233,Dadu 3,Sindh,National,329858.0,115441.0,1829.0,X0mj6bEjtD,Rafiq Ahmed Mahessar,Pakistan Peoples Party Parliamentarians,52784.0,0.457237896,2.0,Loss
+2002-10-10,General Election,Contested,NA-233,Dadu 3,Sindh,National,329858.0,115441.0,1829.0,PbWNtTNYIH,Talat Iqbal Mahessar,Independents,269.0,0.002330195,3.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,kKRg5WoObq,Haji Khuda Bakhsh Nizamani,Pakistan Muslim League (Functional),61741.0,0.603540636,1.0,Win
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,Gda5w3vvQC,Mian Ijaz Ahmed Shafi,Pakistan Muslim League (Nawaz),24474.0,0.239242214,2.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,5oUAIgcqhF,Abid Hussain Rind,Pakistan Peoples Party Parliamentarians,9165.0,0.089591194,3.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,0Q7xlz1YXH,Abdul Malik Shar,Muttahida Qaumi Movement,4441.0,0.043412383,4.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,tclYmQldpG,Haji Ali Akbar Bugti,Jamhoori Wattan Party,1888.0,0.018455884,5.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,lkdEhnbodO,Haji Khuda Bakhsh Rajar,Independents,184.0,0.001798667,6.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,wpUo9LqXba,Haji Khuda Bakhsh Nizamani,Independents,139.0,0.001358775,7.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,gTso2FrMQX,Amjad Ghori,Mohajir Qaumi Movement (Haqiqi),125.0,0.00122192,8.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,3TcTdeONLD,Raja Liaqat Ali,Independents,77.0,0.000752703,9.0,Loss
+2002-10-10,General Election,Contested,NA-234,Sanghar 1,Sindh,National,242471.0,102298.0,4061.0,liGqZyExmk,Saddiq Ali Leghari,Independents,64.0,0.000625623,10.0,Loss
+2002-10-10,General Election,Contested,NA-235,Sanghar 2,Sindh,National,230238.0,103472.0,2341.0,4iLDU80xnw,Qazi Abdul Qudus Rajar,Pakistan Muslim League (Functional),61671.0,0.596016314,1.0,Win
+2002-10-10,General Election,Contested,NA-235,Sanghar 2,Sindh,National,230238.0,103472.0,2341.0,THrhsqUeAW,M. Asad Ali Khan Junejo,Independents,34888.0,0.337173342,2.0,Loss
+2002-10-10,General Election,Contested,NA-235,Sanghar 2,Sindh,National,230238.0,103472.0,2341.0,cxBKeo0DI3,Jian Khan Sarfraz Rajar,Pakistan Peoples Party Parliamentarians,5212.0,0.050371115,3.0,Loss
+2002-10-10,General Election,Contested,NA-235,Sanghar 2,Sindh,National,230238.0,103472.0,2341.0,wof6XF7aI3,Dr. Taj Muhammad,Muttahida Qaumi Movement,1609.0,0.015550101,4.0,Loss
+2002-10-10,General Election,Contested,NA-235,Sanghar 2,Sindh,National,230238.0,103472.0,2341.0,2RsBKGpZ5e,Mujeebullah Hinjorjo,Independents,92.0,0.000889129,5.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,xE5jppiVsM,M. Khan Junejo,Pakistan Muslim League (Functional),66543.0,0.501431736,1.0,Win
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,87JPSRUhZl,Fida Hussain Dero,Pakistan Peoples Party Parliamentarians,56628.0,0.426717707,2.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,FeHp9134qe,M. Hashim Chandio,Muttahida Qaumi Movement,8413.0,0.063395777,3.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,dRZ0L7DlJl,M. Rizwan Khan,Mohajir Qaumi Movement (Haqiqi),661.0,0.004980935,4.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,whXxTYJvhD,Sikandar Hayat Dero,Independents,159.0,0.001198137,5.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,9yYjYMtOhB,Abbdul Rahman Thaheem,Independents,113.0,0.000851506,6.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,VEV84hLwsU,Ghulam Murtaza Junejo,Independents,58.0,0.000437056,7.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,6wcvGMBmzd,Mukhtiar Ali Shoro,Independents,58.0,0.000437056,7.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,9YvGzdXUlt,Ghulam Muhammad,Independents,53.0,0.000399379,8.0,Loss
+2002-10-10,General Election,Contested,NA-236,Sanghar 3,Sindh,National,290977.0,132706.0,1045.0,Qbm60cgsoz,Dr. Abdullah Rind,Independents,20.0,0.000150709,9.0,Loss
+2002-10-10,General Election,Contested,NA-237,Thatta 1,Sindh,National,329639.0,117291.0,4216.0,3vES7ZKAI1,Syed Ayaz Ali Shah Sheerazi,Pakistan Muslim League (Qaid-e-Azam),57195.0,0.487633322,1.0,Win
+2002-10-10,General Election,Contested,NA-237,Thatta 1,Sindh,National,329639.0,117291.0,4216.0,n4UOVoRORw,Dr. Abdul Wahid Soomro,Pakistan Peoples Party Parliamentarians,53616.0,0.457119472,2.0,Loss
+2002-10-10,General Election,Contested,NA-237,Thatta 1,Sindh,National,329639.0,117291.0,4216.0,41lZaqHF3F,Syed Mehar Ali Shah,Muttahida Qaumi Movement,3606.0,0.030744047,3.0,Loss
+2002-10-10,General Election,Contested,NA-237,Thatta 1,Sindh,National,329639.0,117291.0,4216.0,NBCkxtC3nZ,Molvi Ahmed Alias Abdu Alashraf Soomro,Muttahidda Majlis-e-Amal Pakistan,2874.0,0.024503159,4.0,Loss
+2002-10-10,General Election,Contested,NA-238,Thatta 2,Sindh,National,286897.0,116369.0,2770.0,eF9WyrnEcR,M. Ali Malkani,Pakistan Muslim League (Qaid-e-Azam),70233.0,0.603537024,1.0,Win
+2002-10-10,General Election,Contested,NA-238,Thatta 2,Sindh,National,286897.0,116369.0,2770.0,5kd0dC0oBq,Arbab Wazir Ahmed Memon,Pakistan Peoples Party Parliamentarians,40722.0,0.349938558,2.0,Loss
+2002-10-10,General Election,Contested,NA-238,Thatta 2,Sindh,National,286897.0,116369.0,2770.0,paKGQUMGGs,Molvi Abdul Ghafoor Qasmi,Muttahidda Majlis-e-Amal Pakistan,4699.0,0.04038017,3.0,Loss
+2002-10-10,General Election,Contested,NA-238,Thatta 2,Sindh,National,286897.0,116369.0,2770.0,bODrO3YFWp,M. Ahsan Nuhrio,Pakistan Tehreek-e-Insaf,472.0,0.004056063,4.0,Loss
+2002-10-10,General Election,Contested,NA-238,Thatta 2,Sindh,National,286897.0,116369.0,2770.0,ISq9eyHRJj,M. Younas Bhan,Pakistan Peoples Party (Shaheed Bhutto),243.0,0.002088185,5.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,OU5GBaX7Fg,Hakim Qari Gul Rehman,Muttahidda Majlis-e-Amal Pakistan,22164.0,0.297703156,1.0,Win
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,ej1QA7BPhf,Iftikhar Hussain,Pakistan Peoples Party Parliamentarians,21461.0,0.288260578,2.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,lFXOr6pAxp,Ashiq Hussain Qureshi,Muttahida Qaumi Movement,11199.0,0.150423103,3.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,D0abLMScbY,Akhtar Pervaiz,Pakistan Muslim League (Qaid-e-Azam),4527.0,0.06080591,4.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,h2sBtOCBwy,Mian Ijaz Ahmad Shafi,Pakistan Muslim League (Nawaz),3871.0,0.051994627,5.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,0Ki0jNky6w,M. Qasim Sherazi,Pakistan Muslim Alliance,3621.0,0.048636669,6.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,GavJ73Gf8Q,Amanullah Paracha,Pakistan Tehreek-e-Insaf,2824.0,0.037931498,7.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,eIe28vXXM7,Syed Zia Abbas,National Alliance,1797.0,0.024137005,8.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,yDLqptapcw,Dr. M. Hanif Khan,Awami National Party,1136.0,0.015258563,9.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,awdrq4M3mi,Sadullah Khan,Pakistan Freedom Party,533.0,0.007159167,10.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,nPvN0UmHHd,M. Ijaz Ul Haq,Pakistan Muslim League (Zia-ul-Haq Shaheed),366.0,0.004916051,11.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,2fJXrFn6fk,Syed Hafeezuddin,Independents,281.0,0.003774345,12.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,gxlX4bAUjc,Dr. S. M. Hussain,Independents,222.0,0.002981867,13.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,rKq1HoOdhs,M. Hanif,Independents,113.0,0.001517797,14.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,uqtUvKkWWK,Lal Badshan,Independents,103.0,0.001383479,15.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,eHZsDLspDq,Saleem Zia,Independents,86.0,0.001155138,16.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,5s2c1MloeV,Mushahidullah Khan,Independents,82.0,0.00110141,17.0,Loss
+2002-10-10,General Election,Contested,NA-239,Karachi 1,Sindh,National,228031.0,74450.0,1323.0,F4LEIYbvWW,M. Tariq Afridi,Independents,64.0,0.000859637,18.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,8l8tJkxnAu,"Sarkaruddin, Adv.",Muttahida Qaumi Movement,30408.0,0.351765305,1.0,Win
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,SQ83QthL4P,Molana Shireen Muhammad,Muttahidda Majlis-e-Amal Pakistan,22764.0,0.263338115,2.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,O0WQyPTx5F,M. Bakhsh Lashari Alias Bakshan Baloch,Pakistan Peoples Party Parliamentarians,15374.0,0.177849243,3.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,D84vRGQPFS,K. S. Mujahid Khan Baloch,Pakistan Muslim League (Qaid-e-Azam),6090.0,0.070450234,4.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,MIbQq6pUQQ,M. Iftikhar Ahmed Bhatti,Sunni Tehreek,6063.0,0.070137893,5.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,E7Y0wwby1K,Mian Ijaz Shafi,Pakistan Muslim League (Nawaz),2124.0,0.02457082,6.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,ds45dGYAGi,Dr. Iqtidar Hussain,Awami National Party,1815.0,0.020996252,7.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,yuQ43a9S19,M. Bakhsh Baloch,Pakistan Peoples Party (Shaheed Bhutto),985.0,0.01139466,8.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,Gvy41ME4jG,Iftikhar Shah Bukhari,Pakistan Awami Tehreek,508.0,0.005876637,9.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,IXMII7kdl8,Shamim Minhas,Independents,124.0,0.001434455,10.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,WFpuXVaJJ7,M. Islam,Independents,90.0,0.001041136,11.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,k0DVPaXzOr,Bashir Ahmed Mangnejo,Independents,40.0,0.000462727,12.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,k3ryI9Sph7,Syed Haider Abbbas Rizvi,Independents,39.0,0.000451159,13.0,Loss
+2002-10-10,General Election,Contested,NA-240,Karachi 2,Sindh,National,222359.0,86444.0,892.0,gPaSNXWuCM,Aurangzeb Ghori,Independents,20.0,0.000231364,14.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,Rd0Vmoaofu,M. Laeeq Khan,Muttahidda Majlis-e-Amal Pakistan,26812.0,0.364125268,1.0,Win
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,27kWuBQauQ,Ferozuddin Rehmani,Muttahida Qaumi Movement,26333.0,0.357620121,2.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,FpwOaaNeT8,M. Afaq Khan Shahid,Pakistan Peoples Party Parliamentarians,6264.0,0.085069397,3.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,1Y58UXlsNJ,"Naeem Gul, Adv.",Awami National Party,5953.0,0.080845805,4.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,MZBA844KcR,Wazirzada Afridi,Pakistan Muslim League (Nawaz),2470.0,0.033544287,5.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,zWmBYO1tbj,Mirza Shakeel Arman Baig,Sunni Tehreek,2360.0,0.032050411,6.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,EVV92Mtu0Y,A. Raziq Khan,Pakistan Muslim League (Qaid-e-Azam),1157.0,0.01571285,7.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,XVhfge6fI1,"Syed Shahid Ali, Adv.",Mohajir Qaumi Movement (Haqiqi),649.0,0.008813863,8.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,IWqZ5n6elt,Ali Asghar Khan Swati,Pakistan Tehreek-e-Insaf,583.0,0.007917538,9.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,sLrpMTALKw,Aqil Khan,National Alliance,408.0,0.005540919,10.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,gx9dR8mOmh,"Abdul Qayoom Khan, Adv.",Qaumi Watan Party,331.0,0.004495206,11.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,qVSMvTRNGd,Dr. M. Ismail,Independents,88.0,0.0011951,12.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,EdFpl2V1sx,M. Gulzar Ahmed Khaliqui,Independents,87.0,0.001181519,13.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,5EFyFfuCBQ,Lt. Comdr. (R) Raza Hussain Shah,Independents,69.0,0.000937067,14.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,GKdnAWUVJk,M. Momin Khan,Qaumi Jamhoori Party,46.0,0.000624711,15.0,Loss
+2002-10-10,General Election,Contested,NA-241,Karachi 3,Sindh,National,201562.0,73634.0,924.0,ks0pXCNJEW,Muzaffar Ahmed Hashmi,Independents,24.0,0.000325936,16.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,kxrhVFiIIO,M. Abbdul Rauf Siddiqi,Muttahida Qaumi Movement,62690.0,0.638111621,1.0,Win
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,AmGzC47UCa,Taj M. Khan,Muttahidda Majlis-e-Amal Pakistan,18299.0,0.186262634,2.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,5wMoUovNMj,Dr. M. Shakir Alam,Pakistan Peoples Party Parliamentarians,6593.0,0.067109107,3.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,b7KcddYFxd,Abdul Hameed,Sunni Tehreek,5312.0,0.05407001,4.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,nxznSue7N2,Abdul Ghafoor,Pakistan Muslim Alliance,3299.0,0.033580001,5.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,C6XTi9unDl,Khanzada Imran,Pakistan Muslim League (Qaid-e-Azam),1165.0,0.011858351,6.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,vamh9GHV4h,Saifullah,Pakistan Awami Tehreek,584.0,0.005944444,7.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,9uni6fGD4s,M. Ishaq Hijazi,Mohajir Qaumi Movement (Haqiqi),239.0,0.002432743,8.0,Loss
+2002-10-10,General Election,Contested,NA-242,Karachi 4,Sindh,National,221227.0,98243.0,1092.0,3BAtzwATHv,Saifullah Khan,Independents,62.0,0.000631088,9.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,6S4j0dZ80h,Sultan Ahmed Khan,Muttahida Qaumi Movement,62245.0,0.662935469,1.0,Win
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,4wXnDReQr1,"M. Saleemuddin Qureshi, Adv.",Muttahidda Majlis-e-Amal Pakistan,13105.0,0.13957377,2.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,3iq2zFlW8L,Anwar Ahmed Khan Yusufzai,Pakistan Peoples Party Parliamentarians,8391.0,0.089367684,3.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,z3OMOV5rm3,M. Iftikhar Ahmed Bhatti,Sunni Tehreek,6911.0,0.073605061,4.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,pKOQemLsj4,Badar Iqbbal,Pakistan Muslim League (Qaid-e-Azam),2580.0,0.027478087,5.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,OvT82L2JsK,Hafiz Fazal Karim,Pakistan Tehreek-e-Insaf,568.0,0.006049439,6.0,Loss
+2002-10-10,General Election,Contested,NA-243,Karachi 5,Sindh,National,250670.0,93893.0,108.0,7yRkzY2pyZ,M. Shahid,Independents,93.0,0.000990489,7.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,towiIgqKoV,Syed Haider Abbas Rizvi,Muttahida Qaumi Movement,54101.0,0.568162485,1.0,Win
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,hRNKKhmYsa,Dr. Meraj-Ul-Huda Siddiqi,Muttahidda Majlis-e-Amal Pakistan,28559.0,0.299923336,2.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,jeJZScFdzE,Saqib Ishtiaq Qadri,Sunni Tehreek,7141.0,0.074993961,3.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,HwCPmHIRmL,Javed Jabbar,National Alliance,2057.0,0.021602378,4.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,ex8MGloa31,Syed Shahenshah Ali Jafri,Pakistan Peoples Party Parliamentarians,1590.0,0.016697997,5.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,Q8ZV83nxN8,Khalid Masood Khan,Pakistan Tehreek-e-Insaf,1068.0,0.011216013,6.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,MZVPYOCvZY,M. Idrees,Pakistan Muslim Alliance,300.0,0.003150566,7.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,y2YjP5O9Sv,Riffat Jabeen Qureshi,Pakistan Muslim League (Nawaz),220.0,0.002310415,8.0,Loss
+2002-10-10,General Election,Contested,NA-244,Karachi 6,Sindh,National,236700.0,95221.0,27.0,wSyvwgAIGw,"Abdul Waheed Qureshi, Adv.",Mohajir Qaumi Movement (Haqiqi),185.0,0.001942849,9.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,WvPhUtgdEz,Kunwar Khalid Younas,Muttahida Qaumi Movement,51696.0,0.504444726,1.0,Win
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,ctnG820plj,Syed Munawar Hassan,Muttahidda Majlis-e-Amal Pakistan,41947.0,0.409314897,2.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,IDwWyohhw1,Engr. Capt. (R) M. Hasseen,Pakistan Peoples Party Parliamentarians,3232.0,0.031537553,3.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,X0LfqIp6Jo,"Naheed Afzal Khan, Adv.",Pakistan Tehreek-e-Insaf,2883.0,0.028132044,4.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,7hcQQYplvM,Hameedullah Khan,Pakistan Muslim League (Nawaz),1182.0,0.011533845,5.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,3JQaixInyb,Engr. Raees Akhtar Qureshi,National Alliance,717.0,0.006996419,6.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,krJdT5gCuW,Tariq Hussain Siddqi,Pakistan Muslim League (Qaid-e-Azam),595.0,0.005805954,7.0,Loss
+2002-10-10,General Election,Contested,NA-245,Karachi 7,Sindh,National,255754.0,102481.0,1106.0,KaC6SDtg49,Qamar Niaz,Mohajir Qaumi Movement (Haqiqi),229.0,0.002234561,8.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,WR083Bg8fo,Haji Azizullah,Muttahida Qaumi Movement,53134.0,0.547051314,1.0,Win
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,0nNbNoXxhc,Rashid Naseem,Muttahidda Majlis-e-Amal Pakistan,32879.0,0.338512067,2.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,lJfJN45lj2,Altaf Hussain Qadri Babi,Sunni Tehreek,3840.0,0.039535458,3.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,OrJhOoX6L7,Khalid Ali Shanshah,Pakistan Peoples Party Parliamentarians,3075.0,0.031659254,4.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,gcm6iSnt4l,Naisra Athar,Pakistan Muslim League (Qaid-e-Azam),2322.0,0.023906597,5.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,Db3IafBn9U,"Shamsher Ahmad Khan, Adv.",Mohajir Qaumi Movement (Haqiqi),962.0,0.009904456,6.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,RnH6g2WwJX,Zahid Sultan Khan,Independents,558.0,0.005744996,7.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,mFNsXX1K41,Ijaz Ahmed Shafi,Independents,216.0,0.00222387,8.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,lY41MkAiIk,Salman Ahmed Khan,Independents,75.0,0.000772177,9.0,Loss
+2002-10-10,General Election,Contested,NA-246,Karachi 8,Sindh,National,261736.0,97128.0,837.0,5355bmV3LO,"Hassan Yar Khan Bilal, Adv.",Independents,67.0,0.000689811,10.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,3UItYZgbOR,Israr-Ul-Ebad Khan,Muttahida Qaumi Movement,51564.0,0.592015982,1.0,Win
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,uoSpV1tlxX,Hafiz M. Taqi,Muttahidda Majlis-e-Amal Pakistan,26526.0,0.304549995,2.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,QIqHwSEQ8D,Syed Masood Hussain,Pakistan Peoples Party Parliamentarians,3581.0,0.041114134,3.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,tcZGLc3D8k,M. Farhat Hussain Sadqi,Sunni Tehreek,3559.0,0.040861548,4.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,J07ALnOPCn,Dr. Ameer Ahmed,Pakistan Tehreek-e-Insaf,1023.0,0.011745255,5.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,i8RFewkgQE,Nadir Ali Khan,Pakistan Muslim League (Qaid-e-Azam),336.0,0.003857679,6.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,lYFLwLCTie,Mehtab Khan,Mohajir Qaumi Movement (Haqiqi),232.0,0.002663636,7.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,G8wwMXbLml,Sheikh M. Nisar,Independents,130.0,0.001492554,8.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,W8bk6nfwfD,Syed Mushahid Hussain,Independents,112.0,0.001285893,9.0,Loss
+2002-10-10,General Election,Contested,NA-247,Karachi 9,Sindh,National,243006.0,87099.0,1203.0,S0mjrjyAsU,Abdul Samad Qureshi,Independents,36.0,0.000413323,10.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,7Yf2YzHdxH,Nabeel Ahmed Gabbol,Pakistan Peoples Party Parliamentarians,32424.0,0.453520575,1.0,Win
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,ZpIf2u7cnk,Dr. Qari Naseeruddin Swati,Muttahidda Majlis-e-Amal Pakistan,14700.0,0.20561166,2.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,DmW4LVDjOf,Abdul Karim Naqshbbandi,Sunni Tehreek,7882.0,0.110247014,3.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,Lsl5Vfa9v2,Sohrab Nizamani,Muttahida Qaumi Movement,4825.0,0.067488181,4.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,eV4mQQWlhK,Imtiaz Ali,Pakistan Peoples Party (Shaheed Bhutto),4159.0,0.058172714,5.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,WhCq3XuNXQ,Sheikh Maqsood Ahmed,Pakistan Muslim League (Nawaz),3363.0,0.047038912,6.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,5P2BEu9dru,Prof. Ali M. Shaheen Korai,National Alliance,2174.0,0.030408146,7.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,jqZmXieBYe,M. Ashfaq,Pakistan Tehreek-e-Insaf,985.0,0.01377738,8.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,EnnQwhIvAe,Khalid Ayaz,Pakistan Muslim League (Qaid-e-Azam),556.0,0.007776876,9.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,kuMj0QEHfA,Malik M. Fayyaz,Independents,147.0,0.002056117,10.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,MLRlgm1352,Syed Azeem Ali Shah,Mohajir Qaumi Movement (Haqiqi),144.0,0.002014155,11.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,WptjkYmiSW,Ch. M. Misbah-Uz-Zaman,Independents,81.0,0.001132962,12.0,Loss
+2002-10-10,General Election,Contested,NA-248,Karachi 10,Sindh,National,225479.0,71494.0,1100.0,wCGoqoiaDM,Haji M. Hanif Tayyab,Nizam-e-Mustafa Party,54.0,0.000755308,13.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,85MJDXuA1q,Amir Liaquat Hussain,Muttahida Qaumi Movement,30458.0,0.355481379,1.0,Win
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,o9DHVg62Af,Abdul Majeed Noorani (Mewawala),Muttahidda Majlis-e-Amal Pakistan,22973.0,0.268122454,2.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,NZ4NcKrbQI,Abdul Habib Memon,Pakistan Peoples Party Parliamentarians,22708.0,0.265029586,3.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,4uqP5gsZyA,M. Iftikhar Ahmed Bhatti Qadri,Sunni Tehreek,7500.0,0.087533992,4.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,AUGKZZXGo1,Molana M. Asghar Dars,Pakistan Tehreek-e-Insaf,1335.0,0.015581051,5.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,fcfuyTx0ud,Mehmood Memon,Pakistan Awami Tehreek,313.0,0.003653085,6.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,dQCCzQeM3c,Muneer Ahmed,Independents,155.0,0.001809036,7.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,V2uGMdFUKS,Mirza M. Ishtiaq Baig,Independents,74.0,0.000863669,8.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,7niJG5zEGT,Haji M. Hanif Tayyab,Nizam-e-Mustafa Party,50.0,0.00058356,9.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,qySMmNgYkU,Sarkaruddin,Independents,43.0,0.000501862,10.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,wvG4j58nL7,M. Tahir,Independents,41.0,0.000478519,11.0,Loss
+2002-10-10,General Election,Contested,NA-249,Karachi 11,Sindh,National,250626.0,85681.0,900.0,sEXej9O6rM,Bostan Ali Hoti,Pakistan Muslim League (Functional),31.0,0.000361807,12.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,7ytufACZJY,Abdul Sattar Afghani,Muttahidda Majlis-e-Amal Pakistan,21462.0,0.314309565,1.0,Win
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,gE5hEBpDnm,Nasreen Jalil,Muttahida Qaumi Movement,19414.0,0.284316741,2.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,RnlFB2JSb7,Dr. Mirza Ikhtiar Baig,Pakistan Peoples Party Parliamentarians,12105.0,0.177276921,3.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,CB6uTGe29T,Mamnoon Hussain,Pakistan Muslim League (Nawaz),5565.0,0.081499055,4.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,lxYeU495c9,M. A. Wajid Jawad,Pakistan Muslim League (Qaid-e-Azam),4718.0,0.069094797,5.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,PAoc0rAKM2,Syed Kamal Shah,Pakistan Tehreek-e-Insaf,3176.0,0.046512309,6.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,1SMzWMV83T,Syed Javed Umer,Sunni Tehreek,1226.0,0.017954689,7.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,hfGplxGAkp,Nazir Ibrahim Sheikh,Mohajir Qaumi Movement (Haqiqi),150.0,0.00219674,8.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,dZZP7lk1ks,"Surriya Rahim, Adv.",Tehrik-e-Istaqlal,144.0,0.00210887,9.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,KJV6cPJPiP,Khalid Kamal,Independents,83.0,0.001215529,10.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,IusaWpa8qj,Noor Muhammad,Independents,69.0,0.0010105,11.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,r7wudKiINW,Awais Siddiq Jangda,Independents,64.0,0.000937276,12.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,PAYdUCYdD6,Tahir Sharif Khan,Independents,47.0,0.000688312,13.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,T2CZTPiufU,S. M. Altaf,Pakistan Mazdoor Kissan Party,44.0,0.000644377,14.0,Loss
+2002-10-10,General Election,Contested,NA-250,Karachi 12,Sindh,National,205400.0,68283.0,952.0,GV8zYGElRW,Raja Arif Sultan Minhas,Independents,16.0,0.000234319,15.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,ACsAWeMpKE,Syed Safwanullah,Muttahida Qaumi Movement,23856.0,0.306951968,1.0,Win
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,bSugtpdJvY,Abdul Ghaffar Umer Kapadia,Muttahidda Majlis-e-Amal Pakistan,22045.0,0.283650073,2.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,eea5DKJ2dJ,Mushahidullah Khan,Pakistan Muslim League (Nawaz),8615.0,0.110848055,3.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,Gs4uYsMBh4,Qaiser Khan Nizamani,Pakistan Peoples Party Parliamentarians,8347.0,0.107399735,4.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,SzDhrR6qek,Sultan Ahmed Chawla,Pakistan Muslim League (Qaid-e-Azam),4148.0,0.053371762,5.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,ONDpQGHA5E,M. Shahzad Muneer Qadri,Sunni Tehreek,3699.0,0.047594539,6.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,AAtlMa9Reh,Mehboob Ali Rajput,Mohajir Qaumi Movement (Haqiqi),2399.0,0.030867613,7.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,y5jFiYSXSD,M. Ashraf Memon,Pakistan Tehreek-e-Insaf,1576.0,0.020278182,8.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,WZQeGgnfmi,M. Umer Khan,Labour Party Pakistan,768.0,0.009881753,9.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,ZMTL37GPbe,Dr. S. M. Zameer,Pakistan Awami Tehreek,626.0,0.008054658,10.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,2XZQchm84i,Dr. M. Ali Imran,Independents,578.0,0.007437049,11.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,b9Xj6IiBWi,M. Hafeez,Pakistan Freedom Party,478.0,0.006150362,12.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,ctzU3jtSV0,"Raja Gul Nawaz Khan, Adv.",Independents,150.0,0.00193003,13.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,lXgfx4LOvL,Abdul Razzaq,Independents,100.0,0.001286687,14.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,x9o0vlYjAK,Syed Tariq Ali Hashmi,Independents,88.0,0.001132284,15.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,pzIgyIIBMO,Manzoor Ahmed Bhutta,Pakistan Peoples Party (Shaheed Bhutto),83.0,0.00106795,16.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,udXJ4QZJHw,Molana Ehteram-Ul-Haq Thanvi,Independents,39.0,0.000501808,17.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,yLCh7QriLJ,M. Arshad Khan,Independents,35.0,0.00045034,18.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,L0ZyjMr2AE,Syed M. Sohail,Nizam-e-Mustafa Party,26.0,0.000334539,19.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,Pcl265JcoG,Zahid Khan,Independents,24.0,0.000308805,20.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,IpDFjSrmHi,Syed Marghoobb Hussain,Independents,20.0,0.000257337,21.0,Loss
+2002-10-10,General Election,Contested,NA-251,Karachi 13,Sindh,National,210491.0,77719.0,119.0,zEK6qULkcu,Hamza Ahmed Dawood,Sindh Urban-Rural Alliance,19.0,0.00024447,22.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,hnuGFjHLrf,M. Hussain Mehanti,Muttahidda Majlis-e-Amal Pakistan,33089.0,0.452852138,1.0,Win
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,tl1yIoIRMY,"M. Intizar Hussain Qureshi, Adv.",Muttahida Qaumi Movement,22862.0,0.312886626,2.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,ECn2pHuHKB,Najma Saeed Chawala,Pakistan Peoples Party Parliamentarians,5984.0,0.081896316,3.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,NbeRyXSLAn,Abu Bbakar Shaikhani,Pakistan Muslim League (Qaid-e-Azam),3731.0,0.051062024,4.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,Paf9QeNMNz,Aasia Tariq,Pakistan Tehreek-e-Insaf,3352.0,0.045875075,5.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,UQQ6Na9O3Q,M. Fazal Abdul Majeed Noorani,Sunni Tehreek,2612.0,0.035747523,6.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,2L5FmHvz3J,Saeed Shafiq,Pakistan Muslim League (Nawaz),863.0,0.011810916,7.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,S94TtM29eG,Syed Shakir Ali,Mohajir Qaumi Movement (Haqiqi),147.0,0.002011825,8.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,GjJxgcrDWT,Rehmat Illahi Sheikh,Independents,131.0,0.00179285,9.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,iIDRtIwWTv,"Athar Waseem, Adv.",Pakistan Freedom Party,115.0,0.001573876,10.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,Ws762jens8,Nasreen Jalil,Independents,70.0,0.000958012,11.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,9wl1ShqD0K,M. Shamimuddin,Independents,37.0,0.000506378,12.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,vMVEoYkrMj,M. Rafiq Qadri,Independents,33.0,0.000451634,13.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,NSA6nYoxFP,Ghulam Hussain Pirzada (Rtd),Nizam-e-Mustafa Party,24.0,0.000328461,14.0,Loss
+2002-10-10,General Election,Contested,NA-252,Karachi 14,Sindh,National,222482.0,73068.0,951.0,hwcIlsG7Pi,Fatehyabb Ali Khan (Rtd),Pakistan Mazdoor Kissan Party,18.0,0.000246346,15.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,NBYmCN1Y7h,Asadullah Bhutto,Muttahidda Majlis-e-Amal Pakistan,28840.0,0.361843343,1.0,Win
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,p3DkTjwdzi,Prof. Dr. M. Fahimuddin,Muttahida Qaumi Movement,25960.0,0.325709195,2.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,LLjYJGcjyL,Shafi M. Shah,Pakistan Peoples Party Parliamentarians,13947.0,0.17498714,3.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,ptlfQwW0iz,Ali Haider Saleem,Pakistan Tehreek-e-Insaf,4374.0,0.054878737,4.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,K0q8mqKv4a,Hafiz Moinuddin,Pakistan Muslim Alliance,2401.0,0.030124337,5.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,uOuRZloM9J,Zain Ansari,Pakistan Muslim League (Nawaz),1603.0,0.020112166,6.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,BHnzT41CWI,Wing Comdr. (R) M. Nawaz Asim,Pakistan Muslim League (Qaid-e-Azam),904.0,0.011342108,7.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,g8dytKjvUy,Shan-Ul-Haq Pirzada,National Alliance,422.0,0.005294656,8.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,alWW86VIqd,"Syed Sitwat Hussain Niazi, Adv.",Pakistan Awami Tehreek,355.0,0.004454036,9.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,2E79Xmr4P7,Nazeer Ibrahim Sheikh,Mohajir Qaumi Movement (Haqiqi),179.0,0.002245838,10.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,KFITmT0jkV,M. Yusuf Qureshi,Pakistan Ittehad Tehreek,145.0,0.001819254,11.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,P3CyfmYI7y,"Fahmida Khatoon, Adv.",Independents,129.0,0.001618509,12.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,L74IurGVVW,Syed Abdul Raqeeb,Pakistan Muslim League (Zia-ul-Haq Shaheed),124.0,0.001555776,13.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,b3tBgLjkyG,M. Qutub-Uz-Zaman,Pakistan Muslim League (Functional),92.0,0.001154285,14.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,j11sGJn9eh,Syed Irshad Hussain,Independents,81.0,0.001016273,15.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,Uh2fl3YcAq,"Lt. Commdr. (R) Hafiz M. Mukhtar Ahmad Ghazi, Adv.",Independents,55.0,0.000690062,16.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,mqcBK4Q6gM,Syed M. Sharfuddin,Independents,51.0,0.000639876,17.0,Loss
+2002-10-10,General Election,Contested,NA-253,Karachi 15,Sindh,National,249365.0,79703.0,1101.0,ZoxFS0zPUM,Qazi M. Muhzhar Rehamani,Independents,41.0,0.00051441,18.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,EBDUTUSfma,Nawab Mirza Adv.,Muttahida Qaumi Movement,42888.0,0.54176825,1.0,Win
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,K7wrvaDkTp,Syed Zahid Siraj,Muttahidda Majlis-e-Amal Pakistan,16733.0,0.211374,2.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,i7erijSlYX,Molana Abdul Hafiz,Pakistan Muslim Alliance,5991.0,0.075679295,3.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,RWGc99fIeL,"Farzana Latif, Adv.",Pakistan Peoples Party Parliamentarians,4926.0,0.06222604,4.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,EBMGSxVZro,Engr. Sarwat Ijaz,Sunni Tehreek,4231.0,0.053446686,5.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,yklAR4lzkq,M. Akhtar Shad,Mohajir Qaumi Movement (Haqiqi),1695.0,0.021411518,6.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,2js5cOh3mz,Akhtar Hussain Awan,Pakistan Muslim League (Nawaz),1118.0,0.014122759,7.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,IhlcbdxzaY,Dr. Abdul Ghafoor,Pakistan Freedom Party,492.0,0.006215025,8.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,jsr0blrGCC,"Ali Haider Saleem, Adv.",Pakistan Tehreek-e-Insaf,416.0,0.00525498,9.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,46qh6P3oh5,M. Kaleem-Ur-Rehman,Nizam-e-Mustafa Party,230.0,0.002905398,10.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,roLnbmuFQV,Ameeruddin Meo,Independents,226.0,0.002854869,11.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,f4sv7yayOm,Prof. Dr. Fahimuddin,Independents,91.0,0.001149527,12.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,GcWudvtJ3Y,Saghir Siddiqi,Independents,76.0,0.000960044,13.0,Loss
+2002-10-10,General Election,Contested,NA-254,Karachi 16,Sindh,National,230917.0,79163.0,1191.0,90ou1fXCLa,Dr. Qadeer Ahmed Abbasi,Independents,50.0,0.000631608,14.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,w1sOz07BNf,Mehmood Ahmed Qureshi,Mohajir Qaumi Movement (Haqiqi),31096.0,0.310246433,1.0,Win
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,kc6CruadPC,M. Aslam Mujahid,Muttahidda Majlis-e-Amal Pakistan,27761.0,0.276972962,2.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,yATx8HNwvA,M. Abrar-Ul-Haq,Muttahida Qaumi Movement,25646.0,0.255871496,3.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,0iyYypQ6m2,Syed Naeemuddin,Pakistan Peoples Party Parliamentarians,7059.0,0.070428016,4.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,8RFgWuir5O,M. Ali Hamza Gohar Alias Hamza Ali Qadri,Nizam-e-Mustafa Party,4164.0,0.041544448,5.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,7uwMT0BQ34,"Shamsudduha, Adv.",Pakistan Muslim Alliance,3119.0,0.031118428,6.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,MrjytHRzeQ,Tariq Khan,Pakistan Muslim League (Nawaz),1071.0,0.010685424,7.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,jCG0rsLKiI,Javed Iqbal Khanzada,Pakistan Muslim League (Zia-ul-Haq Shaheed),145.0,0.001446673,8.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,87HYqCWfA6,Waseem Muzaffar Khan,Independents,65.0,0.000648508,9.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,0VhRXq3Srv,"Abdul Sattar Ibrahim, Adv.",Independents,57.0,0.000568692,10.0,Loss
+2002-10-10,General Election,Contested,NA-255,Karachi 17,Sindh,National,246368.0,100230.0,1217.0,0SR031WDPh,Khalid Hamid Sheikh,Independents,47.0,0.000468921,11.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,fP3UVv3qMQ,Iqbbal M. Ali Khan,Muttahida Qaumi Movement,39196.0,0.431626473,1.0,Win
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,6SbkiVrwAC,"M. Hasim Siddiqur, Adv.",Muttahidda Majlis-e-Amal Pakistan,22142.0,0.243827772,2.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,NWMylfH3Nf,Syed Abid Ali Jaffri,Mohajir Qaumi Movement (Haqiqi),6430.0,0.07080718,3.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,vZEm21UC76,Riaz Ahmed Mazari,Pakistan Peoples Party Parliamentarians,6414.0,0.070630988,4.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,zo6q7YC3BC,"Syed M. Nihal Hashmi, Adv.",Pakistan Muslim League (Nawaz),6305.0,0.069430679,5.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,cR45ooG7PI,D. Qadeer Ahmed Abbasi,Sunni Tehreek,3409.0,0.037539919,6.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,8FHIlmzr9Z,Syed Marghoob Hussain,Pakistan Tehreek-e-Insaf,2397.0,0.026395771,7.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,JCRTSumzCH,Rana Munir Ahmed Khan,Independents,2082.0,0.02292699,8.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,VdP6X825BR,Imtiaz Jave,Pakistan Awami Tehreek,874.0,0.009624491,9.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,rLZ7JcaHde,Kamran Shahzad Rana,Pakistan Muslim League (Qaid-e-Azam),763.0,0.008402158,10.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,3B1PMtow5b,Syed Mehmood Hussain,Independents,193.0,0.002125317,11.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,YJj0QGogth,"Abdul Qadir Anwar, Adv.",Pakistan Muslim League (Haqiqi),179.0,0.001971149,12.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,YO4PnvfBqn,Sohail Ahmed Khan,Independents,126.0,0.001387512,13.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,yCNxyEfyXB,Haji M. Hanif Tayyab,Nizam-e-Mustafa Party,106.0,0.001167272,14.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,e48WiuRKui,Prof. D. Faheemuddin,Independents,102.0,0.001123224,15.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,EnsH91bNr3,Syed M. Aamir Khalil Qadri,Independents,39.0,0.000429468,16.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,Qlm74LYpEm,Sher Ali Rizvi,Sindh Urban-Rural Alliance,34.0,0.000374408,17.0,Loss
+2002-10-10,General Election,Contested,NA-256,Karachi 18,Sindh,National,261912.0,90810.0,873.0,ps5thbNBX1,Fatehyab Ali Khan (Rtd),Paktunkhwa Milli Awami Party,19.0,0.000209228,18.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,sMwM5fVC3L,M. Shamim Siddiqi,Muttahida Qaumi Movement,45480.0,0.431445837,1.0,Win
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,9YeUNuAvSa,Osama Razi,Muttahidda Majlis-e-Amal Pakistan,23668.0,0.224526387,2.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,43QRJw1GdQ,"Sardar Akhtar Hussain, Adv.",Pakistan Peoples Party Parliamentarians,17168.0,0.162864163,3.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,FMZEgrwscl,Qamar Niaz,Mohajir Qaumi Movement (Haqiqi),6433.0,0.061026629,4.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,EFqIKyPWyH,Mirza Yusuf Hussain,Pakistan Awami Tehreek,5847.0,0.055467542,5.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,0x0ikZXP6L,Rahim Adil Sheikh,Pakistan Muslim League (Qaid-e-Azam),2627.0,0.024921025,6.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,vi9qe4gazM,"Fahim Riaz Siddiqi, Adv.",Pakistan Muslim League (Nawaz),2056.0,0.019504236,7.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,Jw1QRTUxej,Shazi Batool,Awami National Party,889.0,0.008433495,8.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,4RmSmlaebg,Akhtar Rohila,Pakistan Peoples Party (Shaheed Bhutto),777.0,0.007371007,9.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,UrsFJVHueG,Naseem Naz,Independents,184.0,0.001745515,10.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,1blEf8UUcr,Salahuddin,Independents,99.0,0.000939163,11.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,3Ns9ux65w6,Abdul Khaliq Khan,Awami Qiadat Party,73.0,0.000692514,12.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,4X7ZnTXIfZ,Barkat Ali Khan,Independents,70.0,0.000664055,13.0,Loss
+2002-10-10,General Election,Contested,NA-257,Karachi 19,Sindh,National,256535.0,105413.0,1630.0,gc3AS61vfW,M. Hashim Ali,Independents,42.0,0.000398433,14.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,tPTcFKHnDB,Sher M. Baloch,Pakistan Peoples Party Parliamentarians,38225.0,0.358395215,1.0,Win
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,kUrrAkMM5Z,Abdul Hakeem Baloch,Independents,27903.0,0.261616787,2.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,iT7NS8jyfA,Molana Abbdul Shakoor Khairpuri,Muttahidda Majlis-e-Amal Pakistan,17630.0,0.16529778,3.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,oaNapGyfRs,Syed Ameer Hussain Shah Lakhyari,Muttahida Qaumi Movement,8400.0,0.078757876,4.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,Pb8EQePjU4,Aleem Adil Sheikh,Pakistan Muslim League (Qaid-e-Azam),4552.0,0.042679268,5.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,EoozUgLfPb,Molana Zain-Ul-Abdeen,Pakistan Muslim Alliance,3906.0,0.036622412,6.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,MOWKdf3f85,Yousaf Masti Khan,National Alliance,1691.0,0.01585471,7.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,ksKY8aoJul,"Rab Nawaz Kahn Niazi, Adv.",Pakistan Muslim League (Nawaz),1630.0,0.015282778,8.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,RGFHZBMfg8,Iftikhar Shah Bukhari,Pakistan Awami Tehreek,907.0,0.008503975,9.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,tBOIBjxoYk,M. Yaseen Khan,Awami National Party,495.0,0.004641089,10.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,epBrLeu1FJ,Molvi Shabbir Ahmed Usmani,Pakistan Awami Party,401.0,0.003759751,11.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,UT2uSqaTWw,Nisar Ahmed Soomro,Independents,268.0,0.002512751,12.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,Nr8VHj03DT,Salahuddin Khan Gandapur,Labour Party Pakistan,164.0,0.001537654,13.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,aCCW0jpIbX,Faisal,Pakistan Freedom Party,142.0,0.001331383,14.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,8bgf4REGNn,Zafar Ali Sahto,Independents,92.0,0.000862586,15.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,r1y5kvxeX2,Dr. Syed Iqbbal Saeed Shah,Independents,78.0,0.000731323,16.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,8OzV88rMQs,Agha Tariq Ahmed,Independents,68.0,0.000637564,17.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,cRHETyEdZP,M. Rafiq Baloch,Independents,65.0,0.000609436,18.0,Loss
+2002-10-10,General Election,Contested,NA-258,Karachi 20,Sindh,National,263393.0,106656.0,2233.0,fu5Ww5CZNx,Shahid Riaz Baloch,Independents,39.0,0.000365662,19.0,Loss

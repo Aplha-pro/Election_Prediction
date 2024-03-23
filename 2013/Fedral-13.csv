@@ -1,0 +1,416 @@
+election_date,election_type,contest_status,constituency_number,constituency_name,province,assembly,voter_reg,validated_votes,votes_disq,candidateID,candidate_name,candidate_party,candidate_votes,candidate_share,candidate_rank,outcome
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,BoWYcexY3Y,Bilal Rehman,Independents,9005.0,0.167950463,1.0,Win
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,QgJMMEyC3Q,Muhammad Saeed Khan,Jamaat-e-Islami,5652.0,0.105414328,2.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,X8WffRG90a,Nisar Ahmad,Independents,4635.0,0.086446463,3.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,NKSsE5Yney,Ghulam Mohammad Sadiq,Jamiat Ulema-e Islam (Fazl),4631.0,0.08637186,4.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,iDBjDpQkyR,Khan Dad,Independents,4513.0,0.084171065,5.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,Y6NIyu8etj,Haji Zar Khan Safi,Pakistan Muslim League (Nawaz),4028.0,0.075125427,6.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,o6lTIu3Ooa,Rahim Shah Mohmand,Independents,3432.0,0.064009549,7.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,W23OimszCS,Waheed Ullah,Independents,2755.0,0.051382957,8.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,5e5DN9CTCj,Shah Sawar Khan Mohmand,Independents,1865.0,0.034783744,9.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,2HSqmuU9jo,Dawood Shah,Pakistan Tehreek-e-Insaf,1795.0,0.033478188,10.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,xBG23O69em,Asghar Khan,Independents,1545.0,0.028815488,11.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,19eVWf1AOP,Maulana Hafiz Ameer Ullah Junaidi,Independents,1514.0,0.028237313,12.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,FzZAidemcA,Maualan Sami Ullah,Independents,1274.0,0.023761121,13.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,abTHBktUuz,Muhammad Daud Khan,Independents,1201.0,0.022399612,14.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,QTZwHyE12R,Gull Nawaz Khan Mohmand,Independents,977.0,0.018221833,15.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,FwjpnM0K0U,Muhammad Iqrar Khan,Independents,844.0,0.015741276,16.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,0M3CrOpaE5,Dr Farooq Afzal,Pakistan Peoples Party Parliamentarians,753.0,0.014044053,17.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,wErkngSkoJ,Malik Israil Safi,Independents,541.0,0.010090083,18.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,MeHyvBYU3l,Sultan Shah,Independents,368.0,0.006863495,19.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,m2GKrB5ctF,Qari Mian Ihsan Ullah,Independents,311.0,0.005800399,20.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,6xj88HlVjE,Abid Shah,Independents,310.0,0.005781748,21.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,eOIpDM7hii,Malik Aman,Independents,266.0,0.004961113,22.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,FwRbkSsIQi,Malik Sadbar Khan Musa Khel,Independents,261.0,0.004867859,23.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,bfZ9oiuXGf,Abdul Waheed Khan,Independents,195.0,0.003636906,24.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,GM5MbFOeZo,Noor Jamal Shah,Mutahidda Qabil Party,145.0,0.002704366,25.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,NHb1o8SVyt,Saz Mir Khan,Independents,133.0,0.002480557,26.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,VW1Gy9XAKZ,Rooh Ullah,Independents,120.0,0.002238096,27.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,lfawHI6bJo,Sahahbaz Yasir Ali,Tehreek-e-Tahaffuze Pakistan,103.0,0.001921033,28.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,JnlgXbYa2H,Fazal Hadi,Independents,85.0,0.001585318,29.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,XX987i7wMI,Mian Engineer Taj Mir Khan,Independents,63.0,0.001175,30.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,2383WXDQ4V,Ali Akbar Khan Dawazai,Independents,58.0,0.001081746,31.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,dzB3Oe8PMx,Sawab Khan,Independents,43.0,0.000801984,32.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,SmCFThtpUJ,Khair Ullah,Independents,32.0,0.000596826,33.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,0vpXtz5sge,Walayat Habib,Independents,31.0,0.000578175,34.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,0YbJpX03rQ,Wazir Mohammad Safi,Pakistan Muslim League (Qaid-e-Azam),28.0,0.000522222,35.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,et6o4XVgmp,Mian Abdul Qahar,Independents,25.0,0.00046627,36.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,iYIJRzke5s,Hameed Hussain,Muttahida Qaumi Movement,24.0,0.000447619,37.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,4XGm2L7rJm,Abdur Rehman,Independents,22.0,0.000410318,38.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,9qThOCIml7,Jan Muhammad Khan,Independents,17.0,0.000317064,39.0,Loss
+2013-05-11,General Election,Contested,NA-36,Tribal Area 1,Islamabad and FATA,National,179304.0,53617.0,66.0,cQ8TSm6rAT,Malik Badri Zaman Utman Khel,Independents,17.0,0.000317064,39.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,XVZwMxO2op,Mr Sajid Hussain Turi,Independents,30524.0,0.3248409,1.0,Win
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,JP8Z26Gy4B,Sayed Qaisar Hussain,Independents,29623.0,0.315252325,2.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,YPAm2WHZ6L,Syed Iqbal Mian,Independents,21036.0,0.223868208,3.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,85036MknCC,Haji Hashim Khan,Independents,5475.0,0.058265756,4.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,TGbPDXkYis,Muhammad Ashiq Khan,Jamiat Ulama-e-Islam (Sami),5062.0,0.053870549,5.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,JJUbLGKrCL,Ibrar Hussain,Independents,714.0,0.007598493,6.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,dUBKaq2apz,Zahid Hussain Turi,Independents,423.0,0.004501628,7.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,iZrYLgxFgJ,Hafeezullah,Pakistan Tehreek-e-Insaf,294.0,0.003128791,8.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,oGwoh4OegY,Doulat Ali,Awami National Party,229.0,0.002437052,9.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,opIRpKq4CZ,Mumtaz Bhai,Muttahida Qaumi Movement,191.0,0.00203265,10.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,hGjB33yrZL,Hikmat Khan,Jamaat-e-Islami,182.0,0.001936871,11.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,7yqIh1oadS,Hamid Hussain Turi,Independents,77.0,0.000819445,12.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,0GNprskOu2,Maulana Ain U Din Shaker,Jamiat Ulema-e Islam (Fazl),47.0,0.000500181,13.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,bEouaZVpGC,Abdul Hamid Orakzai,Pakistan Muslim League (Nawaz),26.0,0.000276696,14.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,4BJihgkdBh,Saqlain Abbas Bangash,All Pakistan Muslim League,10.0,0.000106421,15.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,q9ecmV1Eux,Syed Ahmad Shah,Independents,10.0,0.000106421,15.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,zI61BfSKQz,Inayat Ali,Independents,9.0,9.58e-05,16.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,q0l9BVP2WG,Rajab Ali,Independents,9.0,9.58e-05,16.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,SHw0yLw7P2,Syed Wali Syed Mian,Independents,5.0,5.32e-05,17.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,1fyZXNQdoC,Muhammad Jaffer Shah,Independents,4.0,4.26e-05,18.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,NZLPlGEWzg,Muhammad Tufail Shaheen,Independents,4.0,4.26e-05,18.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,q0WK47ucVb,Mansab Ali,Independents,3.0,3.19e-05,19.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,kjPpG4ouAh,Malik Fakhar Zaman Khan,Independents,2.0,2.13e-05,20.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,GcJgNBIp7N,Zareen Khan Mangal,Independents,2.0,2.13e-05,20.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,cVNCM3pCmU,Asghar Hussain,Independents,1.0,1.06e-05,21.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,nVC6Xt71CL,Malik Habib Malak Orakzai,Mutahidda Qabil Party,1.0,1.06e-05,21.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,XHuyc4zCPR,Malik Noor Akbar,Independents,1.0,1.06e-05,21.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,TALQUPJzv4,Shujjatullah,Independents,1.0,1.06e-05,21.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,10k3Js7UQ2,Zia Ur Rehman Zia,Independents,1.0,1.06e-05,21.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,EdLjVxaNLa,Malik Khial Jan,Independents,0.0,0.0,22.0,Loss
+2013-05-11,General Election,Contested,NA-37,Tribal Area 2,Islamabad and FATA,National,162660.0,93966.0,518.0,a1X596dWtY,Malik Mula Jan Bangash,Independents,0.0,0.0,22.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,fMrrsXnzhz,Syed Ghazi Gulab Jamal,Independents,7922.0,0.177444283,1.0,Win
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,AcsQ8XX63f,Jawad Hussain,Pakistan Peoples Party Parliamentarians,7726.0,0.173054093,2.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,7s9DIiSiEk,Syed Noor Akbar,Independents,5189.0,0.116228021,3.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,VZoOIUfwck,Engineer Tahir Iqbal Orakzai,Jamiat Ulema-e Islam (Fazl),4175.0,0.093515511,4.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,TPnvjpGmde,Malik Atiq Ur Rehman Orakzai,Pakistan Tehreek-e-Insaf,3805.0,0.085227909,5.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,Qiw1p8nm5O,Ajmal Khan,Independents,3632.0,0.081352895,6.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,iI0lFUz48f,Gul Muhammad,Independents,3383.0,0.075775563,7.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,MU1C2LRmrv,Syed Basharat Hussain,Awami National Party,2723.0,0.060992272,8.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,4U9g9LbBqu,Habib Noor,Mutahidda Qabil Party,2253.0,0.050464778,9.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,TsaQ8CGbkF,Raj Muhammad,Jamaat-e-Islami,1017.0,0.022779707,10.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,tYeWSZT7Ir,Speen Gul,Pakistan Muslim League (Nawaz),857.0,0.019195879,11.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,hepFPaZqT1,Syed Fazal Abbas,Independents,808.0,0.018098331,12.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,19n4xd9WF2,Suhrab Ali,Pakistan Muslim League (Qaid-e-Azam),458.0,0.010258708,13.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,p9LrLTWkvm,Iqbal Hussain,Independents,234.0,0.005241348,14.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,Aw4TyygCSc,Shamim Khan,Tehreek-e-Tahaffuze Pakistan,94.0,0.002105499,15.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,qoASElXZ5U,Malik Khalid Naeem,Independents,55.0,0.001231941,16.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,QfS9mFp2u1,Muhammad Janan,Independents,40.0,0.000895957,17.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,JS89l4QSZZ,Muhammad Nazir,Independents,38.0,0.000851159,18.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,VHZ9agG3gr,Shafiq Hussain,Independents,35.0,0.000783962,19.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,WGIqGu0lA8,Syed Muqeel Hussain,Independents,26.0,0.000582372,20.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,WEOpVSN0hT,Syed Khizar Hayat,Independents,22.0,0.000492776,21.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,HRRWKAjhkL,Dr Gul Karim Khan,Independents,21.0,0.000470377,22.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,AxdXNNKMD1,Muhammad Ayaz,Independents,18.0,0.000403181,23.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,Y9wM1CwfpT,Kisan Ali,Independents,15.0,0.000335984,24.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,64hOSpcNdl,Shob Hassan,Independents,14.0,0.000313585,25.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,6dQDQTfwv2,Shah Muhammad Khan,Independents,12.0,0.000268787,26.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,hCIRGVvUdp,Syed Haziq Ali Shah,Independents,12.0,0.000268787,26.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,XlKjL7KyYI,Syed Kabir Hussain,Independents,10.0,0.000223989,27.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,efuNCiAWqS,Habib Hassan,Independents,9.0,0.00020159,28.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,DG8xhnhgCQ,Abbas Raza,Independents,8.0,0.000179191,29.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,QYaFa78HDA,Hanif Khan,Independents,8.0,0.000179191,29.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,Yqhf5U6Okv,Luqman Shah,Independents,8.0,0.000179191,29.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,56vyiLuCjN,Mudassar Hussain,Independents,8.0,0.000179191,29.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,DFLqFFLMoz,Khadem Hussain,Independents,7.0,0.000156792,30.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,mtqDPvLY8j,Ali Dad Khan,Independents,3.0,6.72e-05,31.0,Loss
+2013-05-11,General Election,Contested,NA-39,Tribal Area 4,Islamabad and FATA,National,125687.0,44645.0,231.0,5ks9SArpaS,Yar Min Gul,Independents,0.0,0.0,32.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,33M2jfnn4d,Muhammad Nazir Khan,Independents,18055.0,0.234051931,1.0,Win
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,JwbcF2KwRC,Aurangzeb Khan,Independents,14794.0,0.191778691,2.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,BVp6u58hTg,Pir Muhammad Aqal Shah,Jamiat Ulema-e Islam (Fazl),12233.0,0.158579744,3.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,viRJ4XFd3x,Abdul Qayum,Pakistan Tehreek-e-Insaf,8239.0,0.106804423,4.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,RjSwNSKzQ1,Humayun Khan,Independents,4876.0,0.063208929,5.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,AdOvgXIq2R,Maulana Syed Naik Zaman,Independents,4218.0,0.054679094,6.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,jnLTJZpGcj,Muhammad Kamran Khan,Independents,3259.0,0.042247313,7.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,0VRevEB0WN,Naik Amal Khan,Pakistan Muslim League (Nawaz),2469.0,0.032006326,8.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,8BVqOoHgFi,Malik Riaz Ahmed,Independents,2441.0,0.031643354,9.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,dpzsRx00K4,Aqal Zaman,Independents,1685.0,0.021843118,10.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,uRYjTyD1lA,Haroon Iqbal,Independents,1272.0,0.016489286,11.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,xsHW6B4XM4,Malik Ghulam Khan,Independents,1099.0,0.014246639,12.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,srmfyoxhMQ,Pir Aurangzeb Khan,Independents,939.0,0.012172515,13.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,stJikmBEP8,Muhammad Amin,Independents,396.0,0.005133457,14.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,i9EE5lITQP,Sheryar Khan,Independents,367.0,0.004757522,15.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,keLIGHYuM6,Muhammad Mashal Khan,Jamaat-e-Islami,284.0,0.00368157,16.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,IoeitHIjZk,Akbar Ali Khan,Independents,216.0,0.002800067,17.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,PMaVtzsofZ,Muhammad Noor Khan,Independents,95.0,0.001231511,18.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,YQZmzVufzn,Gul Ramzan,Independents,51.0,0.000661127,19.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,OmTILsBLxA,Darya Jan,Independents,34.0,0.000440751,20.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,oq76MrgT9b,Ali Mamoor,Independents,28.0,0.000362972,21.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,55pUMZRnyc,Sidiq Ullah,Independents,26.0,0.000337045,22.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,pS3uLupzUC,Muhammad Ishaq,Independents,22.0,0.000285192,23.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,xu18XhTNJP,Fazal Subhan,Independents,17.0,0.000220376,24.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,7TECXmA4YS,Akbar Khan,Qaumi Watan Party,5.0,6.48e-05,25.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,KyMpbgJD5g,Shaihd Khan,Independents,5.0,6.48e-05,25.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,pqmC9yqvTS,Ihsan Ullah,Independents,4.0,5.19e-05,26.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,WcEkJ82PD4,Haji Laiq Zaman,Independents,3.0,3.89e-05,27.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,fzTYbPEz2e,Molvi Ruknudin,Independents,3.0,3.89e-05,27.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,yY8JDfHrWO,Molvi Abdul Hai,Jamiat Ulama-e-Islam (Sami),2.0,2.59e-05,28.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,HIWtA42kXf,Khan Daraz,Pakistan Peoples Party Parliamentarians,1.0,1.3e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,BHIR88BV3A,Molvi Abdul Qadir,Independents,1.0,1.3e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,o8ikTpUUV0,Nawar Jan,Independents,1.0,1.3e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-40,Tribal Area 5,Islamabad and FATA,National,160666.0,77141.0,857.0,ktsLZPGUgm,Nisar Ali Khan,Independents,1.0,1.3e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,MJnSWmdRO2,Ghalib Khan,Pakistan Muslim League (Nawaz),8022.0,0.214142708,1.0,Win
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,6uAWmgPAcx,Muhammad Ali,Independents,7641.0,0.203972131,2.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,QW1TQxLO0h,Naseerullah Khan,Independents,6948.0,0.185472892,3.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,COZIJSWNLJ,Jumma Khan,Independents,6848.0,0.182803449,4.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,CiK21JM6Kh,Maulana Abdul Malik,Jamiat Ulema-e Islam (Fazl),3045.0,0.081284536,5.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,MCMA37UoDL,Abdul Khaliq,Independents,1556.0,0.041536531,6.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,ROJX5RlJ2i,Abdullah,Independents,930.0,0.024825819,7.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,YZa87tQUp7,Ajab Gul,Pakistan Tehreek-e-Insaf,667.0,0.017805184,8.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,IKamBVtB9j,Aurangzeb,Independents,506.0,0.013507381,9.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,GclLKfTusP,Zar Wali Khan,Jamiat Ulama-e-Islam (Sami),347.0,0.009262967,10.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,nd466GwX6y,Imran Ullah,Independents,210.0,0.00560583,11.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,w0FulVlDRR,Muhammad Ayaz Khan,Awami National Party,198.0,0.005285497,12.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,QBiXjA5iJ2,Javed Noor,Independents,125.0,0.003336804,13.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,CN9iJSQX68,Abdur Rehman,Independents,89.0,0.002375804,14.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,n4x1RquiiO,Amanullah,Pakistan Peoples Party Parliamentarians,62.0,0.001655055,15.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,nVkqU8Gfw3,Muhammad Gulab,Independents,35.0,0.000934305,16.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,UJEpefjEPL,Javed Iqbal,Independents,33.0,0.000880916,17.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,h5JkjEuYQR,Muhammad Jamil,Independents,28.0,0.000747444,18.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,1MyiG9NMkc,Bad Shahi Khan,Independents,27.0,0.00072075,19.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,XFvT8rSv6U,Muhammad Ishaq,Independents,27.0,0.00072075,19.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,xsb5FOTNiF,Muhammad Noor Azad,Independents,14.0,0.000373722,20.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,8E1KVmtLmL,Ehsanullah,Independents,13.0,0.000347028,21.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,jPjFuzFlFl,Ibrahim,Independents,12.0,0.000320333,22.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,Hi3Qfh5OM5,Ghulam Haider,Independents,11.0,0.000293639,23.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,WzRHLzhTd4,Shahd Khan,Independents,10.0,0.000266944,24.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,xx2QQWgaez,Allah Noor,Independents,7.0,0.000186861,25.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,fR4Z6aqxi1,Faizullah Amin,Independents,7.0,0.000186861,25.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,YxYb9cbDCW,Johir Khan,Independents,6.0,0.000160167,26.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,zUzJWYo6zy,Muhammad Ismail,Independents,6.0,0.000160167,26.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,iGasdb7kqG,Hazrat Noor,Independents,5.0,0.000133472,27.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,nR7GmnGX7X,Nek Muhammad,Independents,5.0,0.000133472,27.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,VLAIhGAOFb,Bakhta Jan,Independents,4.0,0.000106778,28.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,PildPucxYu,Gul Din,Independents,4.0,0.000106778,28.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,78hpq9Ht1r,Ramzan Khan,Independents,4.0,0.000106778,28.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,JUMXhn05oe,Dil Muhammad,Independents,3.0,8.01e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,X85JwqXzZE,Sanaullah Khan,Independents,3.0,8.01e-05,29.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,SZ6UGKPJH5,Rehanullah,Independents,2.0,5.34e-05,30.0,Loss
+2013-05-11,General Election,Contested,NA-41,Tribal Area 6,Islamabad and FATA,National,92719.0,37461.0,706.0,K3uvmHYjpD,Raza Khan,Independents,1.0,2.67e-05,31.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,2jqZC5Hu9N,Muhammad Jamal Ud Din,Jamiat Ulema-e Islam (Fazl),3468.0,0.274171871,1.0,Win
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,iXwNzwG3Zm,Qayyum Sher Mahsud,Independents,3066.0,0.242390703,2.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,RT90BijoeR,Dost Muhammad Khan,Pakistan Tehreek-e-Insaf,2454.0,0.194007431,3.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,apYmFZgeFo,Abdur Rahim Khan,Independents,2128.0,0.168234643,4.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,57sM3Ex6Ba,Dilawar Khan,Pakistan Muslim League (Nawaz),429.0,0.033915725,5.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,fEDpAYh7FF,Sami Ullah Jan,Jamaat-e-Islami,271.0,0.021424619,6.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,KddKRvT6wH,Abdul Majeed Khan,Independents,222.0,0.017550795,7.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,FvvyV1UTFy,Javed Iqbal,Independents,203.0,0.0160487,8.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,qTlIS0FP1I,Sher Pao,Independents,115.0,0.009091628,9.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,fuHDyISSi5,Muhammad Tahir,Independents,106.0,0.008380109,10.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,mSGLGzbfA2,Sher Muhammad,Independents,104.0,0.008221994,11.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,6ydtetEWHT,Nasibullah,Independents,26.0,0.002055498,12.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,b40JqZEp9l,Abdul Qadoos Khan,Independents,18.0,0.001423037,13.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,6OHKrWMfQo,Faizullah Amin,Independents,12.0,0.000948692,14.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,LKQtXUle1I,Shah Fahad Ansari,Pakistan Peoples Party Parliamentarians,11.0,0.000869634,15.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,OEoCCfX4QD,Ihsan Ullah Khan Mahsood,Pakistan Tehreek-e-Inqalab,8.0,0.000632461,16.0,Loss
+2013-05-11,General Election,Contested,NA-42,Tribal Area 7,Islamabad and FATA,National,108056.0,12649.0,208.0,zmO3xhTodx,Salim Khan,Independents,8.0,0.000632461,16.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,DM5GDYpYDG,Bismillah Khan,Independents,13929.0,0.324677746,1.0,Win
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,KM8CF0WHcT,Sahib Zada Haroon Ur Raheed,Jamaat-e-Islami,10023.0,0.233630918,2.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,yQMB8haAkO,Zaffar Khan,Pakistan Tehreek-e-Insaf,6948.0,0.161954267,3.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,H28Dy6Hm1b,Muhammad Saddiq,Jamiat Ulema-e Islam (Fazl),3613.0,0.084217151,4.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,vRd4XtWoil,Fazli Rehman,Independents,2191.0,0.051071071,5.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,c1AYz7dphm,Nawshad Khan,Independents,1863.0,0.043425561,6.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,uoGIyyJ1Y6,Abdullah,Pakistan Muslim League (Nawaz),1690.0,0.039393021,7.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,kGYewCbDx4,Saeed Ur Rehman,Pakistan Peoples Party Parliamentarians,697.0,0.016246708,8.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,d8biEcYHBq,Abdullah,Independents,634.0,0.01477821,9.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,OLaYAMOyoA,Muhammad Iqbal,Independents,364.0,0.008484651,10.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,GpP8ls1OJL,Taj Muhammad,Tehreek-e-Ittehad Ummat Pakistan,256.0,0.005967227,11.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,kfKQBmcJzY,Nawab Zada Shahid,Independents,230.0,0.00536118,12.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,qkG2Q64i4m,Fateh Ur Rehman,Independents,227.0,0.005291252,13.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,Bwc7kBxzOa,Habib Rasul Safi,Independents,116.0,0.0027039,14.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,wqpJSEJtMk,Muhammad Rahim,Independents,62.0,0.001445188,15.0,Loss
+2013-05-11,General Election,Contested,NA-43,Tribal Area 8,Islamabad and FATA,National,168514.0,42901.0,1378.0,ooK4AWYeaa,Khalil Ur Rehman,Independents,58.0,0.00135195,16.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,KUSfd6ZVlw,Shahab Ud Din Khan,Pakistan Muslim League (Nawaz),15114.0,0.256347631,1.0,Win
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,1kRs2x4ylB,Sardar Khan,Jamaat-e-Islami,11972.0,0.203056361,2.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,fSiDS3UGNU,Gul Dad Khan,Pakistan Tehreek-e-Insaf,7069.0,0.119896877,3.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,lraNIH7qbF,Haji Bahadar Khan,Independents,6549.0,0.111077189,4.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,IjTmZy2ZGv,Maulana Abdur Rashid,Jamiat Ulema-e Islam (Fazl),6249.0,0.105988908,5.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,HdSPrUKPSK,Sayed Akhun Zada Chattan,Pakistan Peoples Party Parliamentarians,4127.0,0.069997795,6.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,7kHsULwp1d,Juma Said,Independents,2182.0,0.037008769,7.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,EQf3kA7RHJ,Gul Afzal,Awami National Party,1378.0,0.023372174,8.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,nGqvLBOq7o,Said Badshah,Pakistan Muslim League (Qaid-e-Azam),756.0,0.01282247,9.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,58qJREQyrM,Bahadar Shah,Independents,668.0,0.011329907,10.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,8mo42RtY1E,Muambar Khan,Independents,490.0,0.00831086,11.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,KmXsMzJlGx,Nasar Khan,Independents,433.0,0.007344087,12.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,UFNUFrCgmt,Amir Muhammad,Tehreek-e-Tahaffuze Pakistan,361.0,0.006122899,13.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,tvpPUUSOTh,Muhammad Asghar,Paktunkhwa Milli Awami Party,282.0,0.004782985,14.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,98x1IouOEc,Maulana Gran Badshah,Independents,177.0,0.003002086,15.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,Dy4hVHI86A,Bismillah Jan,Independents,170.0,0.00288336,16.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,fBEr4hTAMc,Gul Hussain,Independents,158.0,0.002679828,17.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,isI6azOwlP,Sahib Zada,Independents,145.0,0.002459336,18.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,SU3B6OpWGw,Badam Zari,Independents,142.0,0.002408453,19.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,iQRMnLamjQ,Muhammad Ihasnullah,Independents,129.0,0.002187961,20.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,oydX0k82yF,Sher Wali,Qaumi Watan Party,108.0,0.001831781,21.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,L6wDpWlr1k,Muhammad Haseeb Khan,Independents,91.0,0.001543445,22.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,nxC7Wjwa9K,Zer Muhammad,Independents,85.0,0.00144168,23.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,iH53ywIbyO,Muhammad Shahid Khan,Independents,79.0,0.001339914,24.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,jdDXpofQ18,Malik Umar Wahid,Independents,29.0,0.000491867,25.0,Loss
+2013-05-11,General Election,Contested,NA-44,Tribal Area 9,Islamabad and FATA,National,185040.0,58959.0,1502.0,aUAad5DabI,Fazal Hameed,Independents,16.0,0.000271375,26.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,E3jINyImXY,Alhaj Shah Jee Gul Afridi,Independents,29697.0,0.427043039,1.0,Win
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,qwFqXWqI2s,Pir Noor Ul Haq Qadri,Independents,20181.0,0.290202902,2.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,iRBzK0DmMq,Khan Shaid Afridi,Pakistan Tehreek-e-Insaf,9198.0,0.132267296,3.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,54wXbagl0c,Zar Noor Afridi,Jamaat-e-Islami,4124.0,0.059303145,4.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,U73tXJVq4v,Malik Darya Khan,Awami National Party,2113.0,0.030384953,5.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,KaILJSFyBu,Israrullah,Independents,1340.0,0.019269208,6.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,98JkEuAq0Z,Saida Jan,Jamiat Ulema-e Islam (Fazl),1180.0,0.016968407,7.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,tn7Tt9ukOr,Zahid Khan Afridi,Pakistan Muslim League (Nawaz),530.0,0.007621403,8.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,gXp17uVy7Y,Batoor Khan,Independents,470.0,0.006758603,9.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,9OvxIIZVjB,Hazrat Wali,Pakistan Peoples Party Parliamentarians,262.0,0.003767562,10.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,UnBEZYu6Iu,Abdul Wahid,Independents,129.0,0.001855021,11.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,TbXc5iSpUt,Said Nawab,Independents,83.0,0.001193541,12.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,57PLTJBsfL,Muhammad Hukam Jan,Independents,61.0,0.00087718,13.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,NzgbNdCcFK,Muhammad Saddique,Independents,54.0,0.00077652,14.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,RvXpI4xdCE,Ikramullah Jan,Independents,42.0,0.00060396,15.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,zH4GrAHEXV,Hamidullah Jan Afridi,Independents,31.0,0.00044578,16.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,EO2fGSSn92,Abidullah Afridi,Independents,28.0,0.00040264,17.0,Loss
+2013-05-11,General Election,Contested,NA-45,Tribal Area 10,Islamabad and FATA,National,175036.0,69541.0,1007.0,DnvEeIuoZx,Taj Mahal Afridi,Independents,18.0,0.00025884,18.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,edxnL0cbl3,Nasir Khan,Independents,4135.0,0.245298689,1.0,Win
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,Wr0mfo6Z2S,Muhammad Iqbal Khan,Pakistan Tehreek-e-Insaf,3579.0,0.212315359,2.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,BlAvFFEmGB,Hamidullah Jan,Independents,3342.0,0.198255917,3.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,bbhZbvSQAz,Muhammad Shah,Independents,2432.0,0.144272409,4.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,aRBKSeki2i,Shah Faisal Afridi,Jamaat-e-Islami,1027.0,0.060924245,5.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,q82wQuEMgg,Malik Waris Khan,Independents,707.0,0.041941033,6.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,Uq18dZqTLd,Shamsuddin,Jamiat Ulema-e Islam (Fazl),483.0,0.028652785,7.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,IFMObExHpL,Sohail Ahmad,Pakistan Muslim League (Nawaz),345.0,0.020466275,8.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,0iRU8tpyJ3,Munsif Ali Khan,Independents,279.0,0.016550988,9.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,7ZfcTZJ6T4,Imran Khan,Independents,138.0,0.00818651,10.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,NNmdML8a1n,Bismillah Jan,Independents,70.0,0.004152578,11.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,ouvr8LmvVr,Kaptan,Independents,64.0,0.003796642,12.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,5JQG0lsdGQ,Murad Khan Afridi,Independents,51.0,0.003025449,13.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,pPUA05tx4Z,Ajab Khan,Qaumi Watan Party,38.0,0.002254256,14.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,IhLZr2xfPa,Sardar Asghar,Independents,36.0,0.002135611,15.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,4t7C6mHjvO,Syed Karam Shah Afridi,Independents,33.0,0.001957644,16.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,Kc5rbXeTRX,Muhammad Ayub Khan,Independents,28.0,0.001661031,17.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,BF0yQlyZzC,Momin Khan,Independents,21.0,0.001245773,18.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,H8C0Roflf4,Adnan Nasir,Independents,14.0,0.000830516,19.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,L42gtOGK2d,Haji Khan,Independents,12.0,0.00071187,20.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,TM9u5AysAa,Qadir Khan,Independents,9.0,0.000533903,21.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,gMlGh4Eznl,Awal Gul Afridi,Independents,6.0,0.000355935,22.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,g3LvN0HKCh,Jan Akbar Afridi,Independents,4.0,0.00023729,23.0,Loss
+2013-05-11,General Election,Contested,NA-46,Tribal Area 11,Islamabad and FATA,National,,16857.0,142.0,6616TNrrUS,Said Rasan,Independents,4.0,0.00023729,23.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,bds5o8SCXc,Qaisar Jamal,Pakistan Tehreek-e-Insaf,11328.0,0.235318557,1.0,Win
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,vB7jEWSoZz,Mufti Abdul Shakoor,Jamiat Ulema-e Islam (Fazl),10240.0,0.212717339,2.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,6AF9OccpMk,Sher Azam Khan,Independents,5028.0,0.104447537,3.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,ovZq05FQtW,Baz Gul Afridi,Pakistan Muslim League (Nawaz),4310.0,0.089532396,4.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,gBmNJy55sl,Abdullah Nanglal Bhattani,Independents,4131.0,0.085813997,5.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,Wuo4iKfH9K,Abid Ur Rehman,Independents,3136.0,0.065144685,6.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,Cf1Drl85Qa,Shahi Khan,Awami National Party,2805.0,0.058268763,7.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,8KGCjLCUGW,Haji Rodyar,Independents,1840.0,0.038222647,8.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,fK8UU9qbsK,Muhammad Iftikhar Zafar,Independents,1435.0,0.02980951,9.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,lq96K2priH,Inam Ur Rehman,Independents,805.0,0.016722408,10.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,MiBZufH4lu,Muhammad Rasool,Jamaat-e-Islami,727.0,0.0151021,11.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,s3c7BbMo2L,Kamran Khan Bhattani,Independents,662.0,0.013751844,12.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,uzCDSQJ8UF,Malik Noor Zaman,Independents,360.0,0.007478344,13.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,iqSw517lQP,Khwaja Muhammad,Jamiat Ulama-e-Islam (Sami),350.0,0.007270612,14.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,RI0DHwHITx,Muhabat Khan Sherani,Independents,277.0,0.00575417,15.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,LkTsG5FpYE,Malik Daud Khan Afridi,Independents,148.0,0.00307443,16.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,Le71kCyBy7,Emal Khan,Independents,94.0,0.001952679,17.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,dI5BqtE019,Muhammad Aslam,Independents,94.0,0.001952679,17.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,UOVchBlfAD,Saif Ur Rehman,Independents,59.0,0.001225617,18.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,7sfOG88FKx,Zait Ullah,Independents,33.0,0.000685515,19.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,CeSWVHkDf2,Shahab Ud Din,Independents,30.0,0.000623195,20.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,S8zfCaMXBQ,Zafar Baig Bhattani,Independents,28.0,0.000581649,21.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,JbBqhl2LXn,Nabi Gull,Independents,27.0,0.000560876,22.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,dhe1Ha2EBF,Ashfaq Ahmad,Independents,24.0,0.000498556,23.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,jMKNR4Ii8r,Ghulam Ishaq,Independents,24.0,0.000498556,23.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,D0qz7CHV19,Laiq Zada,Independents,23.0,0.000477783,24.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,4S5hyZByB4,Juma Khan,Independents,21.0,0.000436237,25.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,m87liTpVFZ,Ashfaq Khan Bhattani,Independents,18.0,0.000373917,26.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,ZOCvWd3jhY,Naqib Khan,Independents,16.0,0.000332371,27.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,XNcAai0Bil,Kamil Khan,Independents,13.0,0.000270051,28.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,XW2s7s6aRu,Malik Roza Din,Independents,13.0,0.000270051,28.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,mpD0sY3zJ1,Bakhta Khan,Independents,10.0,0.000207732,29.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,VPWrGfIPn2,Rifat Ullah,Independents,10.0,0.000207732,29.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,dvvM86BpgV,Faqeer Zada Muhammad Nadar Shah,Independents,7.0,0.000145412,30.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,v5scq0ZWeG,Muhammad Sadaq Khan,Independents,7.0,0.000145412,30.0,Loss
+2013-05-11,General Election,Contested,NA-47,Tribal Area 12,Islamabad and FATA,National,121265.0,48139.0,457.0,k3w5pIEyBJ,Naseer Khan,Independents,6.0,0.000124639,31.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Qs3tNKAprz,Makhdom Javed Hashmi,Pakistan Tehreek-e-Insaf,73878.0,0.426574436,1.0,Win
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,B7IshIGHbj,Anjum Aqeel Khan,Pakistan Muslim League (Nawaz),52205.0,0.301433694,2.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,jKIGC70vaa,Mian Muhammad Alsam,Jamaat-e-Islami,25048.0,0.144628123,3.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,lh1Tb6Ausm,Faisal Sakhi Butt,Pakistan Peoples Party Parliamentarians,9178.0,0.052994128,4.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,BBeQlbLHxl,J Salik,Independents,5038.0,0.029089607,5.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,YK5syxw3IJ,Javed Ullah,Independents,1897.0,0.010953352,6.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,ZieJ1wz8JD,Muhammad Asghar Khan,Majlis-e-Wahdat-e-Muslimeen Pakistan,1125.0,0.006495794,7.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,RNbyGp9joD,Muhammad Abdullah,Jamiat Ulema-e Islam (Fazl),733.0,0.00423237,8.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,HaSpqD8jxg,Altaf Hussain Aawan,Independents,603.0,0.003481745,9.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,CHRydh3XaL,Aalamgir Khan,Pakistan Tehreek-e-Inqalab,424.0,0.002448192,10.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,wRketlvUmk,Maqbool Masih,Independents,377.0,0.002176813,11.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,NQaS4WmpFz,Nadir Sher,Independents,317.0,0.00183037,12.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,MoDaetYbjj,Tasneem Ul Haq Hasni,Independents,261.0,0.001507024,13.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,9vSJSZcEtF,Ayatullah,Independents,257.0,0.001483928,14.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,hxtxFLTF5l,Zaheer Abbas,Independents,182.0,0.001050875,15.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,3yT8ghDGxp,Aurang Zaib Malik,Muttahida Qaumi Movement,172.0,0.000993135,16.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,4dhxIkX0sW,Ghulam Shabir Babar,Independents,151.0,0.00087188,17.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,jfmFtEcS07,Ghulam Rasul,Independents,135.0,0.000779495,18.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,0c9mesHOBy,Syed Ahmed Ali Shah,Pak Wattan Party,128.0,0.000739077,19.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,64crTypbDU,Malik Muhammad Yousaf,Pakistan Peoples Party (Shaheed Bhutto),117.0,0.000675563,20.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,VpVHSYv6d0,Gahi Khan,Pakistan Brohi Party,98.0,0.000565856,21.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,mrL7zx5mtw,Naila Joseph Dayal,Christian Progressive Movement,75.0,0.000433053,22.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,wWR2AMJSMQ,Muhammad Akbar,Pakistan Motherland Party,68.0,0.000392635,23.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,zyv5GbVVc8,Muzaffar Ali,Independents,57.0,0.00032912,24.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,YtF3YBAPn1,Sahibzada Ahmed Raza Khan Qasuri,All Pakistan Muslim League,47.0,0.00027138,25.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,axxjkZjz7W,Syed Ziia Ahmed Ali Gillani,Independents,45.0,0.000259832,26.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,bunQ7v2nOd,Muhammad Anwar,Independents,43.0,0.000248284,27.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,iPWDUuQL6u,Muhammad Shahid,Independents,42.0,0.00024251,28.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,dODJiirMaP,Shahzad Khan,Awami National Party,42.0,0.00024251,28.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Z0K6neAjro,Talat Mehmood Qadri,Sunni Ittehad Council,39.0,0.000225188,29.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,2mG7RZz4ug,Salman Yousaf Khan,Independents,32.0,0.000184769,30.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,62FmXm9PtF,Sardar Naseer Ahmed,Pakistan Freedom Party,32.0,0.000184769,30.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,rz4wlKPJEw,Firdous Khan,Communist Party of Pakistan,30.0,0.000173221,31.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,5YTLnoVZMo,Khalil Ur Rehman,Independents,29.0,0.000167447,32.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,V0f4gljsuJ,Raja Fatehyab Khalid Zubair,Independents,29.0,0.000167447,32.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Q2YiA5KAWC,Raja Shiraz Ahmed,Independents,29.0,0.000167447,32.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Mm2DEiwHtL,Riaz Hanif,Independents,29.0,0.000167447,32.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Darn5M3OPa,Muhammad Haroon,Independents,27.0,0.000155899,33.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,2KPdwxykWv,Muhammad Asif Nawaz,Independents,24.0,0.000138577,34.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,2P9D4eFgLZ,Raza Muhammad,Independents,24.0,0.000138577,34.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,K4Ff3dIer8,Rana Ghulam Farid,Independents,23.0,0.000132803,35.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,JLrCLnc7su,Muhammad Babar Arshad Pirzada,Independents,17.0,9.82e-05,36.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,LjRr4xwKz4,Muhammad Ismail Kalwar,Independents,15.0,8.66e-05,37.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,8h4reXAwjy,Muhammad Rafique Aawan,Independents,14.0,8.08e-05,38.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,c0uV2SUy1z,Ch Muhammad Ali,Independents,13.0,7.51e-05,39.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,0VO5JEIk2J,Aurangzeb Iqbal,Independents,8.0,4.62e-05,40.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,jAViN1XvCX,Khan Tasaddaq Hassan,Independents,8.0,4.62e-05,40.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,vjcSLFKBnj,Dr Muhammad Aziz Khan,Pakistan Awami Inqalab,7.0,4.04e-05,41.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,cpKWXAuXNe,Muhammad Irfan Ul Haq,Independents,7.0,4.04e-05,41.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,kSAHzCBobY,Muhammad Salman Yahya,Independents,7.0,4.04e-05,41.0,Loss
+2013-05-11,General Election,Contested,NA-48,Islamabad 1,Islamabad and FATA,National,292142.0,173189.0,1042.0,Wli2HH12jd,Naeem Allah Rakha,Independents,3.0,1.73e-05,42.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,s5BMtEUDWK,Dr. Tariq Fazal Chudhary,Pakistan Muslim League (Nawaz),94106.0,0.439000952,1.0,Win
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,Wi0VZuLfud,Chudhary Ilyas Meharban,Pakistan Tehreek-e-Insaf,57383.0,0.267689537,2.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,vzHkmLzHIB,Mustafa Nawaz Khokhar,Pakistan Peoples Party Parliamentarians,44984.0,0.209848669,3.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,yfr8A11AQf,Zubair Farooq Khan,Jamaat-e-Islami,9968.0,0.046500345,4.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,hVrI22hhf8,Dr Rafique Ahmed Ghuncha,Tehreek-e-Tahaffuze Pakistan,2702.0,0.012604728,5.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,OdsNQerIbQ,Dr. Muhammad Usman Khan Advocate,Independents,903.0,0.004212461,6.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,UrwTKH0QWr,Altaf Hussain Awan Pakistani,Independents,747.0,0.003484727,7.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,VvvRrFSd1V,Muhammad Nadeem Qureshi,Independents,664.0,0.003097535,8.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,o1yobgoFpv,Raja Sharafat Khan,Independents,447.0,0.002085238,9.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,NMYzSIoy9M,Muhammad Amjad,All Pakistan Muslim League,336.0,0.001567427,10.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,yp6ZoTr6TU,Molvi Iqbal Haider Advocate,Awami Himayat Tehreek Pakistan,330.0,0.001539438,11.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,XQZJYhjKjA,Chudhary Ghulam Rasool Mehr,Pakistan Justice Party,280.0,0.001306189,12.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,bb9DeN2k5u,Iftikhar Hussain Awan,Independents,217.0,0.001012297,13.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,GDMLD6lgVN,Noor Muhammad Shah,Jamiat Ulema-e Islam (Fazl),200.0,0.000932992,14.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,hDtZhYidTn,Dr Ghazanfar Mehdi,Independents,175.0,0.000816368,15.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,QPL9V8EMmV,Raja Aurangzeb Khan,Independents,173.0,0.000807038,16.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,5WOo1SkFy0,Choudhary Muhammad Ilyas,Muttahida Qaumi Movement,171.0,0.000797709,17.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,KAOAAV1oKu,Muhammad Sultan,Pakistan Tehreek-e-Inqalab,161.0,0.000751059,18.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,hIeg8mAU1w,Umar Hayat,Awami National Party,79.0,0.000368532,19.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,C3izr5ydEl,Shahbaz Rana,Independents,74.0,0.000345207,20.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,wGb4YyCuuF,Muhammad Sahfait,Independents,55.0,0.000256573,21.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,4BPfWseAqz,Shaikh Siddique,Independents,55.0,0.000256573,21.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,yZeNOqVAQZ,Sardar Naseer Ahmed,Pakistan Freedom Party,46.0,0.000214588,22.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,G1nONSFxYE,Asia Chudhary,Pakistan Aman Party,43.0,0.000200593,23.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,MmQt974sfF,Naila Joseph Dayal,Christian Progressive Movement,41.0,0.000191263,24.0,Loss
+2013-05-11,General Election,Contested,NA-49,Islamabad 2,Islamabad and FATA,National,334241.0,214364.0,1406.0,j0pGKbVyPj,Malik Musa Khan,Independents,24.0,0.000111959,25.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,tExUljHtif,Asad Umar,Pakistan Tehreek-e-Insaf,48073.0,0.510063767,1.0,Win
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,8P4PEp8Ial,Chaudhary Muhammad Ashraf Gujjar,Pakistan Muslim League (Nawaz),41186.0,0.436991374,2.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,ied1QgUXPu,Faisal Sakhi Butt,Pakistan Peoples Party Parliamentarians,3943.0,0.041835988,3.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,FQsOeRY6M4,Pir Syed Faisal Shah Hamdani,Independents,178.0,0.001888614,4.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,KmSvRtUkN7,Alhaj Muhammad Asad Bhatti,Pakistan Peoples Party (Shaheed Bhutto),161.0,0.001708241,5.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,hJlW4SF4wc,Altaf Hussain Awan Pakistani,Independents,110.0,0.001167121,6.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,vDCfaKgA38,Abdul Rauf Khan,Independents,107.0,0.001135291,7.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,Kn9dT2AOVF,Ihsan Ul Haq,Jamiat Ulema-e Islam (Fazl),82.0,0.000870036,8.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,8zHjwtVU5S,Ameen Shahid Gill,Independents,77.0,0.000816985,9.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,FaES4J2AEl,Shah Dil Awan,Independents,63.0,0.000668442,10.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,hISClNUfED,Malik Muhammad Zubair Advocate,Independents,53.0,0.00056234,11.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,30aWD4E1i5,Hafiz Muhammad Yasin Bhatti,Independents,37.0,0.000392577,12.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,s16dxC92Ak,Asia Choudhry,Independents,34.0,0.000360747,13.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,8TMPJ3k8am,Hussain Ahmed,Independents,34.0,0.000360747,13.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,forwBSLqna,Syed Zia Gillani,Independents,34.0,0.000360747,13.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,URl5uF5mn7,Rab Nawaz Malik,Independents,26.0,0.000275865,14.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,N8Jt3QwpTp,Doctor Muhammad Rashid Qammar,Pakistan Freedom Party,17.0,0.000180373,15.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,CjL6jmc6DN,Pir Syed Doctor Tasneem Ul Haq Hasni,Independents,8.0,8.49e-05,16.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,hC4kQ9KtiX,Mian Ehsan Ul Haq,Independents,7.0,7.43e-05,17.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,6kHHPgtkiS,Mian Ghulam Rasool Advocate,Pakistan Justice Party,7.0,7.43e-05,17.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,ZZZS26Nmww,Sarfaraz Wald Sohni,Independents,7.0,7.43e-05,17.0,Loss
+2013-08-22,By-Election,Contested,NA-48,Islamabad-I,Islamabad and FATA,National,293525.0,94249.0,8.0,hRRxh0hY6A,Syed Zaigham Ali Shah Gillani,Independents,5.0,5.31e-05,18.0,Loss
